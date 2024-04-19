@@ -1,0 +1,948 @@
+Unnamed: 0,Rk,Date,Comp,Round,Venue,Scorer,Opponent,Start,xG,PSxG,Body Part,Distance,Minute,Score,Goalkeeper,Assist,GCA1,Type,GCA2,Type.1,Notes,Scorer-p,GCA1-p,GCA2-p
+0,1,2023-08-21,La Liga,Matchweek 2,Home,Luis Rioja,Sevilla,Y,0.03,0.18,Left Foot,26.0,7,0-0,Marko Dmitrović,Jon Guridi,Jon Guridi,Pass (Live),Xeber,Pass (Live),,LW,MF,RW
+1,2,2023-08-21,La Liga,Matchweek 2,Home,Rubén Duarte,Sevilla,Y*,0.02,0.2,Left Foot,31.0,44,1-2,Marko Dmitrović,Luis Rioja,Luis Rioja,Pass (Live),Kiké,Pass (Live),,LB,LW,CAM
+2,3,2023-08-21,La Liga,Matchweek 2,Home,Kiké,Sevilla,Y,0.35,0.64,Head,9.0,54,2-2,Marko Dmitrović,Jon Guridi,Jon Guridi,Pass (Live),Luis Rioja,Pass (Live),,CAM,MF,LW
+3,4,2023-08-21,La Liga,Matchweek 2,Home,Kiké,Sevilla,Y,0.34,0.98,Left Foot,8.0,59,3-2,Marko Dmitrović,Luis Rioja,Kiké,Take-On,Luis Rioja,Pass (Live),,CAM,CAM,LW
+5,6,2023-09-28,La Liga,Matchweek 7,Away,Samuel Omorodion,Celta Vigo,Y,0.82,0.94,Right Foot,4.0,73,0-1,Iván Villar,Javi López,Javi López,Pass (Live),Javi López,Take-On,,ST,CB,CB
+7,8,2023-10-22,La Liga,Matchweek 10,Away,Samuel Omorodion,Villarreal,Y,0.34,0.62,Right Foot,14.0,48,0-0,Filip Jørgensen,Jon Guridi,Jon Guridi,Pass (Live),Luis Rioja,Pass (Live),,ST,MF,LW
+8,9,2023-10-29,La Liga,Matchweek 11,Away,Ander Guevara,Atlético Madrid,Y,0.12,0.19,Left Foot,22.0,90+6,0-2,Jan Oblak,Ianis Hagi,Ianis Hagi,Pass (Live),Andoni Gorosabel,Pass (Live),,MF,CAM,RB
+9,10,2023-11-02,Copa del Rey,First round,Away,Abderrahman Rebbach,Deportivo Murcia,Y,,,,,7,0-0,Toni,Nahuel Tenaglia,Nahuel Tenaglia,,,,,LW,RB,
+10,11,2023-11-02,Copa del Rey,First round,Away,Rubén Duarte,Deportivo Murcia,Y*,,,,,13,1-0,Toni,Abderrahman Rebbach,Abderrahman Rebbach,,,,,LB,LW,
+11,12,2023-11-02,Copa del Rey,First round,Away,Abderrahman Rebbach,Deportivo Murcia,Y,,,,,38,2-0,Toni,Alex Sola,Alex Sola,,,,,LW,RW,
+12,13,2023-11-02,Copa del Rey,First round,Away,Xeber,Deportivo Murcia,Y,,,,,52,3-0,Toni,Abderrahman Rebbach,Abderrahman Rebbach,,,,,RW,LW,
+13,14,2023-11-02,Copa del Rey,First round,Away,Xeber,Deportivo Murcia,Y,,,,,60,4-0,Toni,Tomás Mendes,Tomás Mendes,,,,,RW,MF,
+16,17,2023-11-02,Copa del Rey,First round,Away,Jon Karrikaburu,Deportivo Murcia,Y,,,,,75,7-0,Toni,Tomás Mendes,Tomás Mendes,,,,,CAM,MF,
+17,18,2023-11-02,Copa del Rey,First round,Away,Ianis Hagi,Deportivo Murcia,N,,,,,80,8-0,Toni,Xeber,Xeber,,,,,CAM,RW,
+18,19,2023-11-02,Copa del Rey,First round,Away,Jon Karrikaburu,Deportivo Murcia,Y,,,,,89,9-0,Toni,Xeber,Xeber,,,,,CAM,RW,
+19,20,2023-11-05,La Liga,Matchweek 12,Home,Aleksandar Sedlar,Almería,Y,0.11,0.28,Right Foot,13.0,79,0-0,Luís Maximiano,,Jon Guridi,Shot,,,Volley,CB,MF,
+20,21,2023-11-12,La Liga,Matchweek 13,Away,Samuel Omorodion,Barcelona,Y,0.45,0.85,Left Foot,7.0,1,0-0,Marc-André ter Stegen,Javi López,Javi López,Pass (Live),Jon Guridi,Pass (Live),,ST,CB,MF
+22,23,2023-11-24,La Liga,Matchweek 14,Home,Abderrahman Rebbach,Granada,Y,0.11,0.4,Right Foot,12.0,38,1-0,André Ferreira,Javi López,Javi López,Pass (Live),Jon Guridi,Pass (Live),,LW,CB,MF
+23,24,2023-11-24,La Liga,Matchweek 14,Home,Samuel Omorodion,Granada,Y,0.48,0.6,Head,6.0,55,2-0,André Ferreira,Luis Rioja,Luis Rioja,Pass (Live),Ander Guevara,Pass (Live),,ST,LW,MF
+25,26,2024-01-02,La Liga,Matchweek 19,Away,Luis Rioja,Real Sociedad,Y*,0.79,1.0,Left Foot,13.0,76,0-0,Unai Marrero,,Ander Guevara,Fouled,Javi López,Pass (Live),,LW,MF,CB
+27,28,2024-01-12,La Liga,Matchweek 20,Away,Nahuel Tenaglia,Sevilla,Y,0.36,0.53,Right Foot,8.0,26,0-0,Marko Dmitrović,Jon Guridi,Jon Guridi,Shot,,,,RB,MF,
+28,29,2024-01-12,La Liga,Matchweek 20,Away,Kiké,Sevilla,Y,0.13,0.32,Right Foot,15.0,40,1-0,Marko Dmitrović,Carlos Vicente,Carlos Vicente,Pass (Live),Javi López,Pass (Live),Deflected,CAM,CAM,CB
+29,30,2024-01-12,La Liga,Matchweek 20,Away,Rubén Duarte,Sevilla,N,0.29,0.29,Head,6.0,90,2-2,Marko Dmitrović,Samuel Omorodion,Samuel Omorodion,Shot,,,,LB,ST,
+30,31,2024-01-19,La Liga,Matchweek 21,Home,Luis Rioja,Cádiz,Y,0.79,0.98,Left Foot,13.0,51,0-0,Jeremías Ledesma,,Kiké,Fouled,Ander Guevara,Pass (Live),,LW,CAM,MF
+31,32,2024-01-26,La Liga,Matchweek 22,Away,Samuel Omorodion,Almería,Y,0.4,0.59,Right Foot,22.0,10,0-0,Luís Maximiano,Carlos Vicente,Carlos Vicente,Pass (Live),,,,ST,CAM,
+32,33,2024-01-26,La Liga,Matchweek 22,Away,Luis Rioja,Almería,Y,0.79,0.96,Left Foot,13.0,52,1-0,Luís Maximiano,,Samuel Omorodion,Fouled,Samuel Omorodion,Take-On,,LW,ST,ST
+33,34,2024-01-26,La Liga,Matchweek 22,Away,Samuel Omorodion,Almería,Y,0.1,0.29,Left Foot,10.0,88,2-0,Luís Maximiano,Carlos Benavídez,Carlos Benavídez,Pass (Live),Carlos Benavídez,Pass (Live),,ST,MF,MF
+34,35,2024-02-03,La Liga,Matchweek 23,Home,Samuel Omorodion,Barcelona,Y,0.08,0.34,Head,12.0,51,0-2,Iñaki Peña,Alex Sola,Alex Sola,Pass (Live),Alex Sola,Take-On,,ST,RW,RW
+35,36,2024-02-10,La Liga,Matchweek 24,Home,Samuel Omorodion,Villarreal,Y,0.29,0.92,Head,6.0,25,0-0,Filip Jørgensen,Alex Sola,Alex Sola,Pass (Live),Luis Rioja,Pass (Live),,ST,RW,LW
+36,37,2024-02-24,La Liga,Matchweek 26,Home,Carlos Benavídez,Mallorca,N,0.1,0.38,Head,8.0,76,0-0,Predrag Rajković,Luis Rioja,Luis Rioja,Pass (Dead),Andoni Gorosabel,Pass (Live),,MF,LW,RB
+37,38,2024-03-10,La Liga,Matchweek 28,Home,Andoni Gorosabel,Rayo Vallecano,Y,0.27,0.78,Right Foot,17.0,44,0-0,Stole Dimitrievski,Antonio Blanco,Antonio Blanco,Pass (Live),Jon Guridi,Pass (Live),,RB,MF,MF
+0,1,2023-08-19,La Liga,Matchweek 2,Home,Sergio Arribas,Real Madrid,Y,0.16,0.46,Head,10.0,3,0-0,Andriy Lunin,Lucas Robertone,Lucas Robertone,Pass (Live),Largie Ramazani,Pass (Live),,CAM,MF,LW
+1,2,2023-08-26,La Liga,Matchweek 3,Away,Kaiky,Cádiz,N,0.04,0.43,Right Foot,18.0,90+5,0-1,Jeremías Ledesma,,Luís Maximiano,Pass (Dead),Léo Baptistão,Fouled,,CB,GK,ST
+2,3,2023-09-01,La Liga,Matchweek 4,Home,Sergio Akieme,Celta Vigo,Y,0.43,0.38,Left Foot,8.0,54,0-2,Iván Villar,Gonzalo Melero,Gonzalo Melero,Pass (Live),Gonzalo Melero,Take-On,,LB,CAM,CAM
+3,4,2023-09-01,La Liga,Matchweek 4,Home,Sergio Arribas,Celta Vigo,N,0.87,0.88,Right Foot,4.0,68,1-2,Iván Villar,Largie Ramazani,Largie Ramazani,Pass (Live),Largie Ramazani,Take-On,,CAM,LW,LW
+4,5,2023-09-17,La Liga,Matchweek 5,Away,Sergio Akieme,Villarreal,Y,0.27,0.64,Left Foot,11.0,44,0-0,Filip Jørgensen,Lucas Robertone,Lucas Robertone,Pass (Live),Dion Lopy,Pass (Live),,LB,MF,MF
+5,6,2023-09-23,La Liga,Matchweek 6,Home,Sergio Arribas,Valencia,Y,0.92,0.99,Right Foot,2.0,59,0-1,Giorgi Mamardashvili,,Gonzalo Melero,Shot,,,Volley,CAM,CAM,
+6,7,2023-09-23,La Liga,Matchweek 6,Home,Sergio Arribas,Valencia,Y,0.57,0.96,Left Foot,4.0,69,1-2,Giorgi Mamardashvili,,Sergio Akieme,Shot,,,,CAM,LB,
+7,8,2023-09-26,La Liga,Matchweek 7,Away,Luis Javier Suárez,Sevilla,Y,0.79,1.0,Right Foot,13.0,71,0-4,Ørjan Nyland,,Largie Ramazani,Fouled,Luis Javier Suárez,Pass (Live),,LW,LW,LW
+8,9,2023-10-01,La Liga,Matchweek 8,Home,Luis Javier Suárez,Granada,Y,0.36,0.78,Left Foot,13.0,41,0-0,André Ferreira,Largie Ramazani,Largie Ramazani,Pass (Live),Dion Lopy,Pass (Live),,LW,LW,MF
+9,10,2023-10-01,La Liga,Matchweek 8,Home,Luis Javier Suárez,Granada,Y,0.96,0.96,Right Foot,3.0,44,1-0,André Ferreira,Largie Ramazani,Largie Ramazani,Pass (Live),Largie Ramazani,Take-On,,LW,LW,LW
+10,11,2023-10-01,La Liga,Matchweek 8,Home,Luis Javier Suárez,Granada,Y,0.78,0.5,Right Foot,13.0,45+1,2-0,André Ferreira,Largie Ramazani,Luis Javier Suárez,Take-On,Luis Javier Suárez,Take-On,,LW,LW,LW
+11,12,2023-10-22,La Liga,Matchweek 10,Away,Léo Baptistão,Girona,Y,0.03,0.03,Right Foot,9.0,2,0-0,Paulo Gazzaniga,Lucas Robertone,Lucas Robertone,Pass (Live),Alejandro Pozo Pozo,Pass (Dead),Deflected,ST,MF,RB
+12,13,2023-10-22,La Liga,Matchweek 10,Away,Léo Baptistão,Girona,Y,0.79,0.87,Right Foot,3.0,24,1-0,Paulo Gazzaniga,,Adri Embarba,Shot,,,,ST,RW,
+13,14,2023-10-28,La Liga,Matchweek 11,Home,Largie Ramazani,Las Palmas,N,0.04,0.32,Right Foot,17.0,73,0-1,Álvaro Vallés,Lucas Robertone,Lucas Robertone,Pass (Live),Fernando,Pass (Live),,LW,MF,GK
+15,16,2023-10-31,Copa del Rey,First round,Away,Marko Milovanović,CF Talavera de la Reina,Y,,,,,45,1-0,Álex Fernández,Sergio Arribas,Sergio Arribas,,,,,ST,CAM,
+16,17,2023-11-11,La Liga,Matchweek 13,Home,Sergio Arribas,Real Sociedad,Y,0.13,0.39,Left Foot,10.0,76,0-1,Álex Remiro,,Lázaro,Shot,,,,CAM,LW,
+17,18,2023-11-25,La Liga,Matchweek 14,Away,Largie Ramazani,Getafe,Y,0.81,0.98,Right Foot,1.0,7,0-0,David Soria,Juan Brandáriz,Juan Brandáriz,Pass (Live),Adri Embarba,Pass (Dead),,LW,CB,RW
+18,19,2023-12-10,La Liga,Matchweek 16,Away,Léo Baptistão,Atlético Madrid,Y,0.42,0.98,Right Foot,2.0,62,0-2,Jan Oblak,,Alejandro Pozo Pozo,Shot,,,,ST,RB,
+19,20,2023-12-20,La Liga,Matchweek 18,Away,Léo Baptistão,Barcelona,Y,0.26,0.34,Right Foot,16.0,41,0-1,Iñaki Peña,Sergio Arribas,Sergio Arribas,Pass (Live),,,,ST,CAM,
+20,21,2023-12-20,La Liga,Matchweek 18,Away,Édgar González,Barcelona,Y,0.75,0.43,Left Foot,10.0,71,1-2,Iñaki Peña,,Sergio Arribas,Fouled,,,,CDM,CAM,
+21,22,2024-01-21,La Liga,Matchweek 21,Away,Largie Ramazani,Real Madrid,Y,0.39,0.7,Right Foot,13.0,1,0-0,Kepa Arrizabalaga,Lucas Robertone,Lucas Robertone,Pass (Live),Sergio Arribas,Pass (Live),,LW,MF,CAM
+23,24,2024-02-03,La Liga,Matchweek 23,Away,Sergio Arribas,Valencia,Y,0.42,0.95,Other,5.0,50,0-2,Giorgi Mamardashvili,Álex Centelles,Álex Centelles,Pass (Live),Largie Ramazani,Pass (Live),,CAM,LB,LW
+24,25,2024-02-18,La Liga,Matchweek 25,Away,Pubill,Granada,Y,0.02,0.08,Right Foot,20.0,9,0-0,Augusto Batalla,Sergio Arribas,Sergio Arribas,Interception,,,,RB,CAM,
+25,26,2024-02-24,La Liga,Matchweek 26,Home,Luka Romero,Atlético Madrid,Y,0.03,0.13,Left Foot,29.0,27,0-1,Jan Oblak,Pubill,Luka Romero,Take-On,Pubill,Pass (Live),,RW,RW,RB
+26,27,2024-02-24,La Liga,Matchweek 26,Home,Luka Romero,Atlético Madrid,Y,0.1,0.28,Left Foot,13.0,64,1-2,Jan Oblak,Jonathan Viera,Jonathan Viera,Pass (Live),Luka Romero,Pass (Live),,RW,MF,RW
+27,28,2024-03-11,La Liga,Matchweek 28,Home,Adri Embarba,Sevilla,Y*,0.52,0.77,Left Foot,14.0,38,0-0,Ørjan Nyland,Jonathan Viera,Jonathan Viera,Pass (Live),Luka Romero,Pass (Live),,RW,MF,RW
+28,29,2024-03-11,La Liga,Matchweek 28,Home,Marko Milovanović,Sevilla,N,0.25,0.39,Head,9.0,90+5,1-2,Ørjan Nyland,Sergio Arribas,Sergio Arribas,Pass (Live),Pubill,Pass (Live),,ST,CAM,RB
+29,30,2024-03-17,La Liga,Matchweek 29,Away,Léo Baptistão,Las Palmas,Y,0.44,0.84,Right Foot,11.0,14,0-0,Álvaro Vallés,Largie Ramazani,Largie Ramazani,Pass (Live),Adri Embarba,Pass (Live),,ST,LW,RW
+0,1,2023-08-19,La Liga,Matchweek 2,Away,Iñaki Williams,Osasuna,Y,0.44,0.74,Right Foot,5.0,11,0-0,Aitor Fernández,Nico Williams,Nico Williams,Pass (Live),Aitor Paredes,Pass (Live),Volley,RW,LW,CB
+1,2,2023-08-19,La Liga,Matchweek 2,Away,Gorka Guruzeta,Osasuna,Y,0.3,0.83,Right Foot,5.0,20,1-0,Aitor Fernández,Nico Williams,Nico Williams,Pass (Live),Nico Williams,Take-On,,ST,LW,LW
+2,3,2023-08-27,La Liga,Matchweek 3,Home,Mikel Vesga,Betis,Y,0.79,0.99,Left Foot,13.0,30,0-2,Rui Silva,,Nico Williams,Fouled,Iñaki Williams,Pass (Live),,MF,LW,RW
+3,4,2023-08-27,La Liga,Matchweek 3,Home,Mikel Vesga,Betis,Y,0.79,0.96,Left Foot,13.0,45,1-2,Rui Silva,,Nico Williams,Fouled,Nico Williams,Take-On,,MF,LW,LW
+4,5,2023-08-27,La Liga,Matchweek 3,Home,Gorka Guruzeta,Betis,Y,0.48,0.65,Right Foot,8.0,45+7,2-2,Rui Silva,Iñaki Williams,Iñaki Williams,Pass (Live),,,,ST,RW,
+5,6,2023-08-27,La Liga,Matchweek 3,Home,Unai Gómez,Betis,N,0.51,0.39,Right Foot,12.0,84,3-2,Rui Silva,,Unai Gómez,Pass (Live),Yuri Berchiche,Pass (Live),,MF,MF,LB
+6,7,2023-09-16,La Liga,Matchweek 5,Home,Gorka Guruzeta,Cádiz,Y,0.45,0.36,Head,5.0,66,0-0,Jeremías Ledesma,Óscar de Marcos,Óscar de Marcos,Pass (Live),Iñigo Ruiz de Galarreta,Pass (Live),,ST,RB,MF
+7,8,2023-09-16,La Liga,Matchweek 5,Home,Asier Villalibre,Cádiz,N,0.25,0.76,Head,5.0,68,1-0,Jeremías Ledesma,,Iñigo Ruiz de Galarreta,Pass (Live),Yeray Álvarez,Pass (Live),,ST,MF,CB
+8,9,2023-09-16,La Liga,Matchweek 5,Home,Iñaki Williams,Cádiz,Y,0.46,0.83,Right Foot,6.0,90,2-0,Jeremías Ledesma,Asier Villalibre,Asier Villalibre,Pass (Live),Unai Simón,Pass (Dead),,RW,ST,GK
+9,10,2023-09-22,La Liga,Matchweek 6,Away,Iñaki Williams,Alavés,Y,0.49,0.8,Right Foot,14.0,18,0-0,Antonio Sivera,Mikel Vesga,Mikel Vesga,Pass (Live),Iñigo Ruiz de Galarreta,Pass (Live),,RW,MF,MF
+10,11,2023-09-22,La Liga,Matchweek 6,Away,Oihan Sancet,Alavés,Y,0.07,0.37,Right Foot,20.0,76,1-0,Antonio Sivera,Iñaki Williams,Iñaki Williams,Pass (Live),Oihan Sancet,Pass (Live),Deflected,MF,RW,MF
+11,12,2023-09-27,La Liga,Matchweek 7,Home,Yuri Berchiche,Getafe,Y,0.02,0.06,Left Foot,24.0,6,0-0,David Soria,Álex Berenguer,Álex Berenguer,Pass (Dead),Daniel Vivian,Fouled,,LB,LW,CB
+12,13,2023-09-27,La Liga,Matchweek 7,Home,Iñaki Williams,Getafe,Y,0.15,0.67,Left Foot,14.0,62,1-1,David Soria,Óscar de Marcos,Iñaki Williams,Take-On,Óscar de Marcos,Pass (Live),,RW,RW,RB
+13,14,2023-10-06,La Liga,Matchweek 9,Home,Gorka Guruzeta,Almería,Y,0.2,0.85,Left Foot,7.0,10,0-0,Luís Maximiano,Yuri Berchiche,Yuri Berchiche,Pass (Live),Nico Williams,Pass (Live),,ST,LB,LW
+14,15,2023-10-06,La Liga,Matchweek 9,Home,Dani García,Almería,Y,0.35,0.72,Head,8.0,63,1-0,Luís Maximiano,Óscar de Marcos,Óscar de Marcos,Pass (Live),Oihan Sancet,Pass (Live),,MF,RB,MF
+15,16,2023-10-06,La Liga,Matchweek 9,Home,Oihan Sancet,Almería,Y,0.25,0.92,Right Foot,6.0,81,2-0,Luís Maximiano,,Nico Williams,Take-On,Daniel Vivian,Pass (Live),,MF,LW,CB
+16,17,2023-10-29,La Liga,Matchweek 11,Home,Óscar de Marcos,Valencia,Y*,0.16,0.22,Right Foot,9.0,32,0-0,Giorgi Mamardashvili,Nico Williams,Nico Williams,Pass (Live),Oihan Sancet,Pass (Live),,RB,LW,MF
+17,18,2023-10-29,La Liga,Matchweek 11,Home,Álex Berenguer,Valencia,N,0.63,0.83,Head,5.0,90+7,1-2,Giorgi Mamardashvili,Iñaki Williams,Iñaki Williams,Pass (Live),Óscar de Marcos,Pass (Live),,LW,RW,RB
+18,19,2023-11-01,Copa del Rey,First round,Away,Adu Ares,Rubí,Y,,,,,50,0-0,Leva,Raúl García,Raúl García,,,,,LW,CAM,
+19,20,2023-11-01,Copa del Rey,First round,Away,Adu Ares,Rubí,Y,,,,,57,1-0,Leva,Álex Berenguer,Álex Berenguer,,,,,LW,LW,
+20,21,2023-11-05,La Liga,Matchweek 12,Away,Iñigo Ruiz de Galarreta,Villarreal,Y,0.07,0.4,Right Foot,22.0,2,0-0,Filip Jørgensen,Nico Williams,Nico Williams,Pass (Live),Iñigo Lekue,Pass (Live),,MF,LW,RB
+21,22,2023-11-05,La Liga,Matchweek 12,Away,Nico Williams,Villarreal,Y,0.92,0.96,Right Foot,3.0,22,1-0,Filip Jørgensen,Oihan Sancet,Oihan Sancet,Pass (Live),Nico Williams,Pass (Live),,LW,MF,LW
+22,23,2023-11-05,La Liga,Matchweek 12,Away,Iñaki Williams,Villarreal,Y,0.06,0.15,Right Foot,22.0,30,2-0,Filip Jørgensen,Oihan Sancet,Oihan Sancet,Pass (Live),,,,RW,MF,
+23,24,2023-11-10,La Liga,Matchweek 13,Home,Oihan Sancet,Celta Vigo,Y,0.58,0.96,Right Foot,6.0,37,0-1,Vicente Guaita,,Iñigo Ruiz de Galarreta,Pass (Live),Óscar de Marcos,Pass (Live),Volley,MF,MF,RB
+24,25,2023-11-10,La Liga,Matchweek 13,Home,Gorka Guruzeta,Celta Vigo,Y,0.34,0.85,Right Foot,5.0,45+5,1-2,Vicente Guaita,Nico Williams,Nico Williams,Pass (Live),Iñigo Lekue,Pass (Live),,ST,LW,RB
+25,26,2023-11-10,La Liga,Matchweek 13,Home,Gorka Guruzeta,Celta Vigo,Y,0.81,0.5,Right Foot,4.0,52,2-2,Vicente Guaita,,Nico Williams,Shot,,,,ST,LW,
+27,28,2023-11-27,La Liga,Matchweek 14,Away,Iñaki Williams,Girona,Y,0.14,0.29,Left Foot,17.0,67,0-1,Paulo Gazzaniga,Oihan Sancet,Oihan Sancet,Pass (Live),Mikel Vesga,Pass (Live),,RW,MF,MF
+28,29,2023-12-02,La Liga,Matchweek 15,Home,Gorka Guruzeta,Rayo Vallecano,Y,0.55,0.69,Right Foot,12.0,23,0-0,Stole Dimitrievski,Oihan Sancet,Oihan Sancet,Pass (Live),,,,ST,MF,
+30,31,2023-12-02,La Liga,Matchweek 15,Home,Iñaki Williams,Rayo Vallecano,Y,0.18,0.76,Right Foot,6.0,64,2-0,Stole Dimitrievski,Gorka Guruzeta,Gorka Guruzeta,Pass (Live),Oihan Sancet,Pass (Live),,RW,ST,MF
+31,32,2023-12-02,La Liga,Matchweek 15,Home,Nico Williams,Rayo Vallecano,Y,0.02,0.46,Right Foot,17.0,68,3-0,Stole Dimitrievski,Iñigo Lekue,Iñigo Lekue,Pass (Live),Iñigo Ruiz de Galarreta,Pass (Live),Deflected,LW,RB,MF
+34,35,2023-12-07,Copa del Rey,Second round,Away,Nico Williams,Cayón,N,,,,,85,2-0,Pablo Galnares,Iñigo Ruiz de Galarreta,Iñigo Ruiz de Galarreta,,,,,LW,MF,
+35,36,2023-12-11,La Liga,Matchweek 16,Away,Iñaki Williams,Granada,Y,0.1,0.04,Head,10.0,6,0-0,André Ferreira,,Iñigo Ruiz de Galarreta,Pass (Live),Nico Williams,Pass (Live),,RW,MF,LW
+36,37,2023-12-16,La Liga,Matchweek 17,Home,Gorka Guruzeta,Atlético Madrid,Y,0.33,0.89,Right Foot,4.0,51,0-0,Jan Oblak,Ander Herrera,Ander Herrera,Pass (Live),Iñaki Williams,Pass (Live),,ST,MF,RW
+37,38,2023-12-16,La Liga,Matchweek 17,Home,Nico Williams,Atlético Madrid,Y,0.04,0.67,Left Foot,16.0,64,1-0,Jan Oblak,Iñigo Lekue,Iñigo Lekue,Pass (Live),Gorka Guruzeta,Pass (Live),,LW,RB,ST
+38,39,2023-12-20,La Liga,Matchweek 18,Home,Unai Gómez,Las Palmas,N,0.11,0.57,Head,17.0,90+4,0-0,Álvaro Vallés,,Unai Gómez,Pass (Live),Álex Berenguer,Pass (Live),,MF,MF,LW
+39,40,2024-01-04,La Liga,Matchweek 19,Away,Mikel Vesga,Sevilla,Y,0.13,0.78,Head,9.0,30,0-0,Marko Dmitrović,Iñigo Ruiz de Galarreta,Iñigo Ruiz de Galarreta,Pass (Live),Iñigo Lekue,Pass (Live),,MF,MF,RB
+40,41,2024-01-04,La Liga,Matchweek 19,Away,Aitor Paredes,Sevilla,Y,0.34,0.63,Right Foot,9.0,76,1-0,Marko Dmitrović,Ander Herrera,Ander Herrera,Pass (Live),Nico Williams,Pass (Live),Volley,CB,MF,LW
+41,42,2024-01-07,Copa del Rey,Round of 32,Away,Asier Villalibre,Eibar,Y,,,,,17,0-0,Yoel,Nico Williams,Nico Williams,,,,,ST,LW,
+42,43,2024-01-07,Copa del Rey,Round of 32,Away,Iker Muniain,Eibar,Y*,,,,,33,1-0,Yoel,Nico Williams,Nico Williams,,,,,CAM,LW,
+43,44,2024-01-07,Copa del Rey,Round of 32,Away,Asier Villalibre,Eibar,Y,,,,,40,2-0,Yoel,Daniel Vivian,Daniel Vivian,,,,,ST,CB,
+44,45,2024-01-13,La Liga,Matchweek 20,Home,Álex Berenguer,Real Sociedad,Y,0.95,0.98,Left Foot,2.0,30,0-0,Unai Marrero,,Nico Williams,Pass (Live),Yuri Berchiche,Pass (Live),,LW,LW,LB
+45,46,2024-01-13,La Liga,Matchweek 20,Home,Álex Berenguer,Real Sociedad,Y,0.22,0.74,Left Foot,13.0,42,1-0,Unai Marrero,,Gorka Guruzeta,Shot,,,,LW,ST,
+46,47,2024-01-16,Copa del Rey,Round of 16,Home,Asier Villalibre,Alavés,Y,,,,,28,0-0,Antonio Sivera,Oihan Sancet,Oihan Sancet,,,,,ST,MF,
+47,48,2024-01-16,Copa del Rey,Round of 16,Home,Asier Villalibre,Alavés,Y,,,,,60,1-0,Antonio Sivera,Óscar de Marcos,Óscar de Marcos,,,,,ST,RB,
+49,50,2024-01-24,Copa del Rey,Quarter-finals,Home,Oihan Sancet,Barcelona,Y,,,,,49,1-2,Iñaki Peña,Nico Williams,Nico Williams,,,,,MF,LW,
+51,52,2024-01-24,Copa del Rey,Quarter-finals,Home,Nico Williams,Barcelona,Y,,,,,120+1,3-2,Iñaki Peña,Iñaki Williams,Iñaki Williams,,,,,LW,RW,
+52,53,2024-02-02,La Liga,Matchweek 23,Home,Yuri Berchiche,Mallorca,Y,0.05,0.36,Left Foot,15.0,3,0-0,Predrag Rajković,Nico Williams,Nico Williams,Pass (Dead),Iñaki Williams,Fouled,Volley,LB,LW,RW
+53,54,2024-02-02,La Liga,Matchweek 23,Home,Yuri Berchiche,Mallorca,Y,0.07,0.37,Right Foot,14.0,16,1-0,Predrag Rajković,Gorka Guruzeta,Gorka Guruzeta,Pass (Live),Nico Williams,Pass (Dead),Volley,LB,ST,LW
+54,55,2024-02-02,La Liga,Matchweek 23,Home,Gorka Guruzeta,Mallorca,Y,0.41,0.81,Left Foot,7.0,62,2-0,Predrag Rajković,Oihan Sancet,Oihan Sancet,Shot,,,,ST,MF,
+55,56,2024-02-02,La Liga,Matchweek 23,Home,Iker Muniain,Mallorca,N,0.26,0.66,Right Foot,15.0,89,3-0,Predrag Rajković,Óscar de Marcos,Óscar de Marcos,Pass (Live),Adu Ares,Pass (Live),,CAM,RB,LW
+58,59,2024-02-19,La Liga,Matchweek 25,Home,Álex Berenguer,Girona,Y,0.22,0.61,Right Foot,14.0,56,1-1,Paulo Gazzaniga,Gorka Guruzeta,Gorka Guruzeta,Pass (Live),,,,LW,ST,
+59,60,2024-02-19,La Liga,Matchweek 25,Home,Iñaki Williams,Girona,Y*,0.12,0.04,Right Foot,16.0,60,2-1,Paulo Gazzaniga,,Yuri Berchiche,Pass (Live),Álex Berenguer,Pass (Live),,RW,LB,LW
+60,61,2024-02-25,La Liga,Matchweek 26,Away,Gorka Guruzeta,Betis,Y,0.08,0.16,Head,5.0,45+7,0-2,Rui Silva,Álex Berenguer,Álex Berenguer,Pass (Dead),,,,ST,LW,
+61,62,2024-02-29,Copa del Rey,Semi-finals,Home,Iñaki Williams,Atlético Madrid,Y,,,,,13,0-0,Jan Oblak,Nico Williams,Nico Williams,,,,,RW,LW,
+62,63,2024-02-29,Copa del Rey,Semi-finals,Home,Nico Williams,Atlético Madrid,Y,,,,,42,1-0,Jan Oblak,Iñaki Williams,Iñaki Williams,,,,,LW,RW,
+64,65,2024-03-10,La Liga,Matchweek 28,Away,Gorka Guruzeta,Las Palmas,Y,0.41,0.15,Head,4.0,31,0-0,Álvaro Vallés,Nico Williams,Nico Williams,Pass (Live),Iñigo Ruiz de Galarreta,Pass (Live),,ST,LW,MF
+66,67,2024-03-16,La Liga,Matchweek 29,Home,Gorka Guruzeta,Alavés,Y,0.19,0.95,Right Foot,8.0,32,0-0,Antonio Sivera,Nico Williams,Nico Williams,Pass (Live),Beñat Prados,Pass (Live),,ST,LW,CDM
+67,68,2024-03-16,La Liga,Matchweek 29,Home,Gorka Guruzeta,Alavés,Y,0.1,0.29,Right Foot,20.0,37,1-0,Antonio Sivera,,Yeray Álvarez,Pass (Live),Unai Simón,Pass (Live),,ST,CB,GK
+68,69,2024-04-06,Copa del Rey,Final,Home,Oihan Sancet,Mallorca,Y,,,,,50,0-1,Dominik Greif,Nico Williams,Nico Williams,,,,,MF,LW,
+0,1,2023-08-14,La Liga,Matchweek 1,Home,Álvaro Morata,Granada,Y,0.51,0.24,Right Foot,11.0,45+4,0-0,André Ferreira,,Rodrigo De Paul,Pass (Live),Stefan Savić,Shot,,ST,MF,CB
+1,2,2023-08-14,La Liga,Matchweek 1,Home,Memphis,Granada,N,0.02,0.44,Right Foot,31.0,67,1-1,André Ferreira,Yannick Carrasco,Yannick Carrasco,Pass (Live),Çağlar Söyüncü,Pass (Live),,ST,LW,CB
+2,3,2023-08-14,La Liga,Matchweek 1,Home,Marcos Llorente,Granada,Y,0.09,0.21,Left Foot,10.0,90+8,2-1,André Ferreira,,Ángel Correa,Take-On,Marcos Llorente,Pass (Live),,CDM,RW,CDM
+3,4,2023-08-28,La Liga,Matchweek 3,Away,Antoine Griezmann,Rayo Vallecano,Y,0.41,0.78,Left Foot,9.0,2,0-0,Stole Dimitrievski,Rodrigo De Paul,Rodrigo De Paul,Pass (Live),Memphis,Pass (Live),,ST,MF,ST
+4,5,2023-08-28,La Liga,Matchweek 3,Away,Memphis,Rayo Vallecano,Y,0.72,0.93,Right Foot,5.0,16,1-0,Stole Dimitrievski,,Mario Hermoso,Pass (Live),Saúl Ñíguez,Pass (Live),,ST,CB,MF
+5,6,2023-08-28,La Liga,Matchweek 3,Away,Nahuel Molina,Rayo Vallecano,Y,0.37,0.43,Right Foot,19.0,36,2-0,Stole Dimitrievski,Rodrigo De Paul,Rodrigo De Paul,Pass (Live),Antoine Griezmann,Pass (Live),,RB,MF,ST
+6,7,2023-08-28,La Liga,Matchweek 3,Away,Álvaro Morata,Rayo Vallecano,N,0.48,0.58,Right Foot,13.0,73,3-0,Stole Dimitrievski,Saúl Ñíguez,Saúl Ñíguez,Pass (Live),Antoine Griezmann,Pass (Live),,ST,MF,ST
+8,9,2023-08-28,La Liga,Matchweek 3,Away,Álvaro Morata,Rayo Vallecano,N,0.11,0.7,Left Foot,11.0,84,5-0,Stole Dimitrievski,Ángel Correa,Ángel Correa,Pass (Live),Ángel Correa,Take-On,,ST,RW,RW
+9,10,2023-08-28,La Liga,Matchweek 3,Away,Marcos Llorente,Rayo Vallecano,N,0.25,0.55,Right Foot,18.0,86,6-0,Stole Dimitrievski,,Ángel Correa,Pass (Live),Samuel Lino,Pass (Live),,CDM,RW,CDM
+10,11,2023-09-19,Champions Lg,Group stage,Away,Pablo Barrios,Lazio,Y,0.01,0.11,Right Foot,32.0,29,0-0,Ivan Provedel,Nahuel Molina,Nahuel Molina,Pass (Live),Stefan Savić,Pass (Live),Deflected,MF,RB,CB
+11,12,2023-09-24,La Liga,Matchweek 6,Home,Álvaro Morata,Real Madrid,Y,0.21,0.71,Head,9.0,4,0-0,Kepa Arrizabalaga,Samuel Lino,Samuel Lino,Pass (Live),Mario Hermoso,Pass (Live),,ST,CDM,CB
+12,13,2023-09-24,La Liga,Matchweek 6,Home,Antoine Griezmann,Real Madrid,Y,0.19,0.76,Head,10.0,18,1-0,Kepa Arrizabalaga,Saúl Ñíguez,Saúl Ñíguez,Pass (Live),Samuel Lino,Pass (Live),,ST,MF,CDM
+13,14,2023-09-24,La Liga,Matchweek 6,Home,Álvaro Morata,Real Madrid,Y,0.52,0.85,Head,6.0,46,2-1,Kepa Arrizabalaga,Saúl Ñíguez,Saúl Ñíguez,Pass (Live),Antoine Griezmann,Pass (Live),,ST,MF,ST
+14,15,2023-09-28,La Liga,Matchweek 7,Away,Antoine Griezmann,Osasuna,Y,0.09,0.06,Left Foot,6.0,20,0-0,Aitor Fernández,,Antoine Griezmann,Pass (Live),,,Volley,ST,ST,
+15,16,2023-09-28,La Liga,Matchweek 7,Away,Rodrigo Riquelme,Osasuna,N,0.74,0.87,Left Foot,4.0,81,1-0,Aitor Fernández,Samuel Lino,Rodrigo Riquelme,Take-On,Samuel Lino,Pass (Live),,CDM,CDM,CDM
+16,17,2023-10-01,La Liga,Matchweek 8,Home,Ángel Correa,Cádiz,Y,0.16,0.83,Head,10.0,32,0-2,Jeremías Ledesma,César Azpilicueta,César Azpilicueta,Pass (Live),Saúl Ñíguez,Pass (Live),,RW,RB,MF
+17,18,2023-10-01,La Liga,Matchweek 8,Home,Nahuel Molina,Cádiz,Y,0.18,0.1,Right Foot,10.0,46,1-2,Jeremías Ledesma,,Marcos Llorente,Shot,,,Deflected,RB,CDM,
+18,19,2023-10-01,La Liga,Matchweek 8,Home,Ángel Correa,Cádiz,Y,0.53,0.84,Right Foot,5.0,66,2-2,Jeremías Ledesma,Saúl Ñíguez,Saúl Ñíguez,Pass (Live),Samuel Lino,Pass (Live),,RW,MF,CDM
+20,21,2023-10-04,Champions Lg,Group stage,Home,Antoine Griezmann,Feyenoord,Y,0.32,0.49,Left Foot,5.0,45+3,1-2,Timon Wellenreuther,,Samuel Lino,Shot,,,Volley,ST,CDM,
+21,22,2023-10-04,Champions Lg,Group stage,Home,Álvaro Morata,Feyenoord,Y,0.27,0.86,Left Foot,10.0,47,2-2,Timon Wellenreuther,Nahuel Molina,Nahuel Molina,Pass (Live),César Azpilicueta,Pass (Live),,ST,RB,RB
+22,23,2023-10-08,La Liga,Matchweek 9,Home,Samuel Lino,Real Sociedad,Y,0.2,0.46,Left Foot,12.0,22,0-0,Álex Remiro,Koke,Koke,Pass (Live),Mario Hermoso,Pass (Dead),,CDM,MF,CB
+23,24,2023-10-08,La Liga,Matchweek 9,Home,Antoine Griezmann,Real Sociedad,Y,0.79,0.99,Left Foot,13.0,89,1-1,Álex Remiro,,Antoine Griezmann,Shot,,,,ST,ST,
+24,25,2023-10-21,La Liga,Matchweek 10,Away,Antoine Griezmann,Celta Vigo,Y,0.79,0.96,Left Foot,13.0,29,0-0,Vicente Guaita,,Álvaro Morata,Fouled,Koke,Pass (Live),,ST,ST,MF
+26,27,2023-10-21,La Liga,Matchweek 10,Away,Antoine Griezmann,Celta Vigo,Y,0.48,0.41,Left Foot,11.0,70,2-0,Vicente Guaita,Nahuel Molina,Nahuel Molina,Pass (Live),Álvaro Morata,Pass (Live),,ST,RB,ST
+27,28,2023-10-25,Champions Lg,Group stage,Away,Antoine Griezmann,Celtic,Y,0.71,0.94,Right Foot,10.0,25,0-1,Joe Hart,,Antoine Griezmann,Shot,,,,ST,ST,
+28,29,2023-10-25,Champions Lg,Group stage,Away,Álvaro Morata,Celtic,Y,0.46,0.85,Head,6.0,53,1-2,Joe Hart,Marcos Llorente,Marcos Llorente,Pass (Live),Marcos Llorente,Take-On,,ST,CDM,CDM
+29,30,2023-10-29,La Liga,Matchweek 11,Home,Rodrigo Riquelme,Alavés,Y,0.17,0.46,Left Foot,7.0,26,0-0,Antonio Sivera,Álvaro Morata,Rodrigo Riquelme,Take-On,Álvaro Morata,Pass (Live),,CDM,CDM,ST
+30,31,2023-10-29,La Liga,Matchweek 11,Home,Álvaro Morata,Alavés,Y,0.11,0.74,Left Foot,12.0,45+1,1-0,Antonio Sivera,Koke,Álvaro Morata,Take-On,Koke,Pass (Live),,ST,ST,MF
+31,32,2023-11-03,La Liga,Matchweek 12,Away,Álvaro Morata,Las Palmas,Y,0.33,0.33,Right Foot,9.0,83,0-2,Álvaro Vallés,Rodrigo Riquelme,Rodrigo Riquelme,Pass (Live),Stefan Savić,Pass (Live),Volley,ST,CDM,CB
+32,33,2023-11-07,Champions Lg,Group stage,Home,Antoine Griezmann,Celtic,Y,0.05,0.42,Left Foot,21.0,6,0-0,Joe Hart,,Mario Hermoso,Pass (Live),Rodrigo Riquelme,Pass (Dead),Deflected,ST,CB,CDM
+33,34,2023-11-07,Champions Lg,Group stage,Home,Álvaro Morata,Celtic,Y,0.7,0.9,Right Foot,4.0,45+2,1-0,Joe Hart,José María Giménez,José María Giménez,Pass (Live),Antoine Griezmann,Pass (Live),,ST,CB,ST
+34,35,2023-11-07,Champions Lg,Group stage,Home,Antoine Griezmann,Celtic,Y,0.26,0.38,Left Foot,12.0,60,2-0,Joe Hart,,Axel Witsel,Pass (Live),Nahuel Molina,Pass (Live),Volley,ST,CB,RB
+35,36,2023-11-07,Champions Lg,Group stage,Home,Samuel Lino,Celtic,N,0.01,0.55,Right Foot,18.0,66,3-0,Joe Hart,Álvaro Morata,Koke,Shot,,,,CDM,MF,
+36,37,2023-11-07,Champions Lg,Group stage,Home,Álvaro Morata,Celtic,Y,0.04,0.43,Left Foot,21.0,76,4-0,Joe Hart,Samuel Lino,Samuel Lino,Pass (Live),Koke,Pass (Live),Volley,ST,CDM,MF
+37,38,2023-11-07,Champions Lg,Group stage,Home,Saúl Ñíguez,Celtic,N,0.28,0.94,Left Foot,2.0,84,5-0,Joe Hart,Samuel Lino,Samuel Lino,Shot,,,,MF,CDM,
+38,39,2023-11-12,La Liga,Matchweek 13,Home,Axel Witsel,Villarreal,Y,0.54,0.62,Right Foot,6.0,45+1,0-1,Filip Jørgensen,Antoine Griezmann,Antoine Griezmann,Pass (Live),Rodrigo Riquelme,Pass (Live),,CB,ST,CDM
+39,40,2023-11-12,La Liga,Matchweek 13,Home,Antoine Griezmann,Villarreal,Y,0.95,0.97,Left Foot,2.0,80,1-1,Filip Jørgensen,Marcos Llorente,Marcos Llorente,Pass (Live),Koke,Pass (Live),,ST,CDM,MF
+40,41,2023-11-12,La Liga,Matchweek 13,Home,Samuel Lino,Villarreal,N,0.46,0.68,Left Foot,12.0,85,2-1,Filip Jørgensen,Pablo Barrios,Pablo Barrios,Pass (Live),Álvaro Morata,Pass (Live),,CDM,MF,ST
+41,42,2023-11-25,La Liga,Matchweek 14,Home,Antoine Griezmann,Mallorca,Y,0.03,0.45,Head,14.0,64,0-0,Predrag Rajković,Mario Hermoso,Mario Hermoso,Pass (Live),Rodrigo Riquelme,Pass (Live),,ST,CB,CDM
+43,44,2023-11-28,Champions Lg,Group stage,Away,Mario Hermoso,Feyenoord,Y,0.03,0.68,Left Foot,15.0,57,1-0,Justin Bijlow,Pablo Barrios,Pablo Barrios,Pass (Live),Koke,Pass (Live),Volley,CB,MF,MF
+45,46,2023-12-10,La Liga,Matchweek 16,Home,Álvaro Morata,Almería,Y,0.51,0.57,Left Foot,9.0,17,0-0,Luís Maximiano,Antoine Griezmann,Álvaro Morata,Take-On,Álvaro Morata,Take-On,,ST,ST,ST
+46,47,2023-12-10,La Liga,Matchweek 16,Home,Ángel Correa,Almería,Y,0.99,0.99,Right Foot,2.0,22,1-0,Luís Maximiano,Marcos Llorente,Marcos Llorente,Pass (Live),Antoine Griezmann,Pass (Live),,RW,CDM,ST
+47,48,2023-12-13,Champions Lg,Group stage,Home,Antoine Griezmann,Lazio,Y,0.19,0.44,Right Foot,15.0,6,0-0,Ivan Provedel,Samuel Lino,Samuel Lino,Pass (Live),,,,ST,CDM,
+48,49,2023-12-13,Champions Lg,Group stage,Home,Samuel Lino,Lazio,Y,0.07,0.48,Right Foot,14.0,51,1-0,Ivan Provedel,,Ángel Correa,Shot,,,Volley,CDM,RW,
+49,50,2023-12-19,La Liga,Matchweek 18,Home,Antoine Griezmann,Getafe,Y,0.47,0.5,Left Foot,8.0,44,0-0,David Soria,Rodrigo Riquelme,Rodrigo Riquelme,Pass (Live),Marcos Llorente,Pass (Live),Volley,ST,CDM,CDM
+50,51,2023-12-19,La Liga,Matchweek 18,Home,Álvaro Morata,Getafe,N,0.42,0.61,Head,5.0,63,1-1,David Soria,Marcos Llorente,Marcos Llorente,Pass (Live),César Azpilicueta,Pass (Live),,ST,CDM,RB
+51,52,2023-12-19,La Liga,Matchweek 18,Home,Antoine Griezmann,Getafe,Y,0.79,1.0,Left Foot,13.0,69,2-1,David Soria,,Mario Hermoso,Fouled,Koke,Pass (Live),,ST,CB,MF
+53,54,2024-01-03,La Liga,Matchweek 19,Away,Álvaro Morata,Girona,Y,0.05,0.08,Right Foot,13.0,14,0-1,Paulo Gazzaniga,Antoine Griezmann,Antoine Griezmann,Pass (Live),Rodrigo De Paul,Pass (Live),,ST,ST,MF
+54,55,2024-01-03,La Liga,Matchweek 19,Away,Álvaro Morata,Girona,Y,0.48,0.97,Right Foot,7.0,44,1-3,Paulo Gazzaniga,Rodrigo De Paul,Álvaro Morata,Take-On,Rodrigo De Paul,Pass (Live),,ST,ST,MF
+55,56,2024-01-03,La Liga,Matchweek 19,Away,Álvaro Morata,Girona,Y,0.16,0.32,Right Foot,10.0,54,2-3,Paulo Gazzaniga,Rodrigo De Paul,Rodrigo De Paul,Pass (Live),Axel Witsel,Pass (Live),Deflected,ST,MF,CB
+56,57,2024-01-06,Copa del Rey,Round of 32,Away,Ángel Correa,Lugo,Y,,,,,2,0-0,Gonçalo Tabuaço,Javi Galán,Javi Galán,,,,,RW,LB,
+57,58,2024-01-06,Copa del Rey,Round of 32,Away,Memphis,Lugo,Y,,,,,66,1-1,Gonçalo Tabuaço,Koke,Koke,,,,,ST,MF,
+58,59,2024-01-06,Copa del Rey,Round of 32,Away,Memphis,Lugo,Y,,,,,74,2-1,Gonçalo Tabuaço,Marcos Llorente,Marcos Llorente,,,,,ST,CDM,
+59,60,2024-01-10,Supercopa de España,Semi-finals,Away,Mario Hermoso,Real Madrid,Y,,,,,6,,,Antoine Griezmann,Antoine Griezmann,,,,,CB,ST,
+60,61,2024-01-10,Supercopa de España,Semi-finals,Away,Antoine Griezmann,Real Madrid,Y,,,,,37,,,Rodrigo De Paul,Rodrigo De Paul,,,,,ST,MF,
+65,66,2024-01-18,Copa del Rey,Round of 16,Home,Rodrigo Riquelme,Real Madrid,N,,,,,119,3-2,Andriy Lunin,Memphis,Memphis,,,,,CDM,ST,
+66,67,2024-01-22,La Liga,Matchweek 21,Away,Álvaro Morata,Granada,Y,0.18,0.75,Head,10.0,54,0-0,Augusto Batalla,Antoine Griezmann,Antoine Griezmann,Pass (Live),Rodrigo De Paul,Pass (Live),,ST,ST,MF
+67,68,2024-01-25,Copa del Rey,Quarter-finals,Home,Memphis,Sevilla,N,,,,,79,0-0,Ørjan Nyland,Ángel Correa,Ángel Correa,,,,,ST,RW,
+68,69,2024-01-28,La Liga,Matchweek 22,Home,Samuel Lino,Valencia,Y,0.36,0.35,Left Foot,10.0,45+5,0-0,Giorgi Mamardashvili,Antoine Griezmann,Antoine Griezmann,Pass (Live),Koke,Pass (Live),,CDM,ST,MF
+69,70,2024-01-28,La Liga,Matchweek 22,Home,Memphis,Valencia,Y,0.8,0.91,Head,4.0,57,1-0,Giorgi Mamardashvili,Nahuel Molina,Koke,Pass (Live),Pablo Barrios,Pass (Live),,ST,MF,MF
+70,71,2024-01-31,La Liga,Matchweek 20,Home,Reinildo Mandava,Rayo Vallecano,Y,0.09,0.41,Head,10.0,35,0-0,Stole Dimitrievski,Rodrigo Riquelme,Rodrigo Riquelme,Pass (Dead),Memphis,Fouled,,LB,CDM,ST
+71,72,2024-01-31,La Liga,Matchweek 20,Home,Memphis,Rayo Vallecano,Y,0.32,0.93,Right Foot,9.0,90,1-1,Stole Dimitrievski,Antoine Griezmann,Antoine Griezmann,Pass (Live),Nahuel Molina,Pass (Live),,ST,ST,RB
+72,73,2024-02-04,La Liga,Matchweek 23,Away,Marcos Llorente,Real Madrid,Y,0.19,0.79,Head,9.0,90+3,0-1,Andriy Lunin,Memphis,Memphis,Pass (Live),Stefan Savić,Pass (Live),,CDM,ST,CB
+73,74,2024-02-17,La Liga,Matchweek 25,Home,Marcos Llorente,Las Palmas,Y,0.44,0.71,Right Foot,10.0,15,0-0,Álvaro Vallés,,Samuel Lino,Pass (Live),José María Giménez,Pass (Live),,CDM,CDM,CB
+74,75,2024-02-17,La Liga,Matchweek 25,Home,Marcos Llorente,Las Palmas,Y,0.42,0.58,Right Foot,12.0,20,1-0,Álvaro Vallés,Ángel Correa,Ángel Correa,Pass (Live),Ángel Correa,Tackle,,CDM,RW,RW
+75,76,2024-02-17,La Liga,Matchweek 25,Home,Ángel Correa,Las Palmas,Y,0.44,0.76,Right Foot,11.0,47,2-0,Álvaro Vallés,Koke,Koke,Pass (Live),Nahuel Molina,Pass (Live),,RW,MF,RB
+77,78,2024-02-17,La Liga,Matchweek 25,Home,Memphis,Las Palmas,N,0.2,0.14,Right Foot,21.0,87,4-0,Álvaro Vallés,Rodrigo Riquelme,Rodrigo Riquelme,Pass (Live),Ángel Correa,Pass (Live),,ST,CDM,RW
+78,79,2024-02-24,La Liga,Matchweek 26,Away,Ángel Correa,Almería,Y,0.26,0.3,Left Foot,10.0,2,0-0,Luís Maximiano,Reinildo Mandava,Reinildo Mandava,Pass (Live),Reinildo Mandava,Take-On,Volley,RW,LB,LB
+79,80,2024-02-24,La Liga,Matchweek 26,Away,Rodrigo De Paul,Almería,Y,0.08,0.47,Right Foot,16.0,57,1-1,Luís Maximiano,Nahuel Molina,Nahuel Molina,Pass (Live),Ángel Correa,Pass (Live),Deflected,MF,RB,RW
+81,82,2024-03-03,La Liga,Matchweek 27,Home,Álvaro Morata,Betis,Y,0.69,0.39,Head,5.0,44,1-0,Rui Silva,,Rodrigo De Paul,Shot,,,,ST,MF,
+82,83,2024-03-13,Champions Lg,Round of 16,Home,Antoine Griezmann,Inter,Y,0.55,0.9,Left Foot,8.0,35,0-1,Yann Sommer,,Marcos Llorente,Pass (Live),Antoine Griezmann,Pass (Live),,ST,CDM,ST
+83,84,2024-03-13,Champions Lg,Round of 16,Home,Memphis,Inter,N,0.28,0.88,Right Foot,15.0,87,1-1,Yann Sommer,Koke,Koke,Pass (Live),Mario Hermoso,Pass (Live),,ST,MF,CB
+84,85,2024-04-01,La Liga,Matchweek 30,Away,Axel Witsel,Villarreal,Y,0.09,0.57,Head,6.0,9,0-0,Filip Jørgensen,Rodrigo Riquelme,Rodrigo Riquelme,Pass (Dead),Rodrigo Riquelme,Fouled,,CB,CDM,CDM
+85,86,2024-04-01,La Liga,Matchweek 30,Away,Saúl Ñíguez,Villarreal,N,0.11,0.38,Left Foot,17.0,87,1-1,Filip Jørgensen,César Azpilicueta,César Azpilicueta,Pass (Live),Ángel Correa,Pass (Live),,MF,RB,RW
+87,88,2024-04-10,Champions Lg,Quarter-finals,Home,Samuel Lino,Dortmund,Y,0.44,0.75,Right Foot,15.0,32,1-0,Gregor Kobel,Antoine Griezmann,Antoine Griezmann,Pass (Live),Álvaro Morata,Pass (Live),,CDM,ST,ST
+0,1,2023-08-20,La Liga,Matchweek 2,Home,Pedri,Cádiz,Y,0.52,0.71,Left Foot,11.0,82,0-0,Jeremías Ledesma,İlkay Gündoğan,İlkay Gündoğan,Pass (Live),Pedri,Pass (Live),,CAM,MF,CAM
+1,2,2023-08-20,La Liga,Matchweek 2,Home,Ferrán Torres,Cádiz,N,0.43,0.83,Left Foot,13.0,90+4,1-0,Jeremías Ledesma,Robert Lewandowski,Robert Lewandowski,Pass (Live),Marc-André ter Stegen,Pass (Live),,LW,ST,GK
+2,3,2023-08-27,La Liga,Matchweek 3,Away,Gavi,Villarreal,Y,0.27,0.18,Head,5.0,12,0-0,Filip Jørgensen,Lamine Yamal,Lamine Yamal,Pass (Live),Marcos Alonso,Pass (Live),,CAM,RW,LB
+3,4,2023-08-27,La Liga,Matchweek 3,Away,Frenkie de Jong,Villarreal,Y,0.3,0.54,Right Foot,15.0,15,1-0,Filip Jørgensen,,İlkay Gündoğan,Pass (Live),Frenkie de Jong,Pass (Live),,MF,MF,MF
+4,5,2023-08-27,La Liga,Matchweek 3,Away,Ferrán Torres,Villarreal,N,0.1,0.06,Left Foot,12.0,68,2-3,Filip Jørgensen,,Ferrán Torres,Shot,,,Deflected,LW,LW,
+5,6,2023-08-27,La Liga,Matchweek 3,Away,Robert Lewandowski,Villarreal,Y,0.9,0.8,Left Foot,5.0,71,3-3,Filip Jørgensen,,Lamine Yamal,Shot,,,,ST,RW,
+6,7,2023-09-03,La Liga,Matchweek 4,Away,Jules Koundé,Osasuna,Y,0.04,0.51,Head,10.0,45+1,0-0,Aitor Fernández,İlkay Gündoğan,İlkay Gündoğan,Pass (Dead),Andreas Christensen,Shot,,CB,MF,CB
+7,8,2023-09-03,La Liga,Matchweek 4,Away,Robert Lewandowski,Osasuna,Y,0.79,0.98,Right Foot,13.0,85,1-1,Aitor Fernández,,Robert Lewandowski,Fouled,Frenkie de Jong,Pass (Live),,ST,ST,MF
+8,9,2023-09-16,La Liga,Matchweek 5,Home,João Félix,Betis,Y,0.47,0.95,Right Foot,4.0,25,0-0,Rui Silva,Oriol Romeu,João Félix,Take-On,Oriol Romeu,Pass (Live),,LW,LW,MF
+9,10,2023-09-16,La Liga,Matchweek 5,Home,Robert Lewandowski,Betis,Y,0.38,0.76,Right Foot,15.0,32,1-0,Rui Silva,Andreas Christensen,Andreas Christensen,Pass (Live),Frenkie de Jong,Pass (Live),,ST,CB,MF
+10,11,2023-09-16,La Liga,Matchweek 5,Home,Ferrán Torres,Betis,Y,0.07,0.3,Right Foot,29.0,62,2-0,Francisco Barbosa,,Robert Lewandowski,Fouled,Robert Lewandowski,Pass (Live),,LW,ST,ST
+11,12,2023-09-16,La Liga,Matchweek 5,Home,Raphinha,Betis,N,0.05,0.27,Left Foot,25.0,66,3-0,Francisco Barbosa,Robert Lewandowski,Robert Lewandowski,Pass (Live),Lamine Yamal,Pass (Live),,RW,ST,RW
+12,13,2023-09-16,La Liga,Matchweek 5,Home,João Cancelo,Betis,Y,0.11,0.17,Right Foot,15.0,81,4-0,Francisco Barbosa,Robert Lewandowski,João Cancelo,Take-On,Robert Lewandowski,Pass (Live),,RB,RB,ST
+13,14,2023-09-19,Champions Lg,Group stage,Home,João Félix,Antwerp,Y,0.07,0.19,Right Foot,17.0,11,0-0,Jean Butez,İlkay Gündoğan,İlkay Gündoğan,Pass (Live),Robert Lewandowski,Pass (Live),,LW,MF,ST
+14,15,2023-09-19,Champions Lg,Group stage,Home,Robert Lewandowski,Antwerp,Y,0.39,0.84,Right Foot,3.0,19,1-0,Jean Butez,João Félix,João Félix,Pass (Live),Frenkie de Jong,Pass (Live),Volley,ST,LW,MF
+16,17,2023-09-19,Champions Lg,Group stage,Home,Gavi,Antwerp,Y,0.09,0.25,Left Foot,11.0,54,3-0,Jean Butez,Robert Lewandowski,İlkay Gündoğan,Shot,,,,CAM,MF,
+17,18,2023-09-19,Champions Lg,Group stage,Home,João Félix,Antwerp,Y,0.35,0.65,Head,2.0,66,4-0,Jean Butez,Raphinha,Raphinha,Pass (Live),İlkay Gündoğan,Pass (Live),,LW,RW,MF
+18,19,2023-09-23,La Liga,Matchweek 6,Home,Robert Lewandowski,Celta Vigo,Y,0.46,0.57,Right Foot,9.0,81,0-2,Iván Villar,João Félix,João Félix,Pass (Live),Raphinha,Pass (Live),Volley,ST,LW,RW
+19,20,2023-09-23,La Liga,Matchweek 6,Home,Robert Lewandowski,Celta Vigo,Y,0.27,0.8,Right Foot,12.0,85,1-2,Iván Villar,João Cancelo,João Cancelo,Pass (Live),Raphinha,Pass (Live),,ST,RB,RW
+20,21,2023-09-23,La Liga,Matchweek 6,Home,João Cancelo,Celta Vigo,Y,0.35,0.92,Right Foot,7.0,89,2-2,Iván Villar,Gavi,Gavi,Pass (Live),Alejandro Balde,Pass (Live),Volley,RB,CAM,LB
+21,22,2023-09-26,La Liga,Matchweek 7,Away,Raphinha,Mallorca,Y,0.04,0.25,Left Foot,26.0,41,0-1,Predrag Rajković,,Gavi,Pass (Live),Iñigo Martínez,Pass (Live),,RW,CAM,CB
+22,23,2023-09-26,La Liga,Matchweek 7,Away,Fermin López,Mallorca,N,0.44,0.87,Right Foot,11.0,75,1-2,Predrag Rajković,Raphinha,Raphinha,Pass (Live),Lamine Yamal,Pass (Live),,CAM,RW,RW
+24,25,2023-10-04,Champions Lg,Group stage,Away,Ferrán Torres,Porto,N,0.5,0.78,Left Foot,14.0,45+1,0-0,Diogo Costa,İlkay Gündoğan,İlkay Gündoğan,Pass (Live),,,,LW,MF,
+25,26,2023-10-08,La Liga,Matchweek 9,Away,Lamine Yamal,Granada,Y,0.99,0.98,Left Foot,1.0,45+1,0-2,André Ferreira,,João Félix,Shot,,,,RW,LW,
+26,27,2023-10-08,La Liga,Matchweek 9,Away,Sergi Roberto,Granada,N,0.65,0.77,Right Foot,5.0,85,1-2,André Ferreira,Alejandro Balde,Alejandro Balde,Pass (Live),Gavi,Pass (Live),,CDM,LB,CAM
+27,28,2023-10-22,La Liga,Matchweek 10,Home,Marc Guiu,Athletic Club,N,0.24,0.44,Right Foot,16.0,80,0-0,Unai Simón,João Félix,João Félix,Pass (Live),Iñigo Martínez,Pass (Live),,ST,LW,CB
+28,29,2023-10-25,Champions Lg,Group stage,Home,Ferrán Torres,Shakhtar,Y,0.12,0.55,Right Foot,12.0,28,0-0,Dmytro Riznyk,Fermin López,Fermin López,Shot,,,Volley,LW,CAM,
+29,30,2023-10-25,Champions Lg,Group stage,Home,Fermin López,Shakhtar,Y,0.09,0.31,Right Foot,21.0,36,1-0,Dmytro Riznyk,Ferrán Torres,Ferrán Torres,Pass (Live),Iñigo Martínez,Pass (Live),,CAM,LW,CB
+31,32,2023-11-04,La Liga,Matchweek 12,Away,Ronald Araújo,Real Sociedad,Y,0.35,0.17,Head,9.0,90+2,0-0,Álex Remiro,İlkay Gündoğan,İlkay Gündoğan,Pass (Live),Alejandro Balde,Pass (Live),,CB,MF,LB
+32,33,2023-11-12,La Liga,Matchweek 13,Home,Robert Lewandowski,Alavés,Y,0.04,0.41,Head,12.0,53,0-1,Antonio Sivera,Jules Koundé,Jules Koundé,Pass (Live),Lamine Yamal,Pass (Live),,ST,CB,RW
+33,34,2023-11-12,La Liga,Matchweek 13,Home,Robert Lewandowski,Alavés,Y,0.79,0.98,Right Foot,13.0,78,1-1,Antonio Sivera,,Ferrán Torres,Fouled,Pedri,Pass (Live),,ST,LW,CAM
+35,36,2023-11-28,Champions Lg,Group stage,Home,João Cancelo,Porto,Y,0.09,0.12,Right Foot,16.0,32,0-1,Diogo Costa,Pedri,João Cancelo,Take-On,Pedri,Pass (Live),,RB,RB,CAM
+36,37,2023-11-28,Champions Lg,Group stage,Home,João Félix,Porto,Y,0.19,0.57,Right Foot,11.0,57,1-1,Diogo Costa,João Cancelo,João Cancelo,Pass (Live),João Félix,Pass (Live),,LW,RB,LW
+37,38,2023-12-03,La Liga,Matchweek 15,Home,João Félix,Atlético Madrid,Y,0.23,0.27,Left Foot,13.0,28,0-0,Jan Oblak,Raphinha,João Félix,Take-On,Raphinha,Pass (Live),,LW,LW,RW
+38,39,2023-12-10,La Liga,Matchweek 16,Home,Robert Lewandowski,Girona,Y,0.22,0.16,Head,8.0,19,0-1,Paulo Gazzaniga,Raphinha,Raphinha,Pass (Dead),İlkay Gündoğan,Pass (Live),,ST,RW,MF
+39,40,2023-12-10,La Liga,Matchweek 16,Home,İlkay Gündoğan,Girona,Y,0.13,0.26,Left Foot,11.0,90+2,1-3,Paulo Gazzaniga,Ferrán Torres,Ferrán Torres,Pass (Live),Lamine Yamal,Pass (Live),,MF,LW,RW
+40,41,2023-12-13,Champions Lg,Group stage,Away,Ferrán Torres,Antwerp,Y,0.46,0.96,Right Foot,13.0,35,0-1,Jean Butez,Lamine Yamal,Lamine Yamal,Pass (Live),Ferrán Torres,Pass (Live),,LW,RW,LW
+41,42,2023-12-13,Champions Lg,Group stage,Away,Marc Guiu,Antwerp,N,0.24,0.77,Head,8.0,90+1,1-2,Jean Butez,İlkay Gündoğan,İlkay Gündoğan,Pass (Dead),Ferrán Torres,Fouled,,ST,MF,LW
+42,43,2023-12-16,La Liga,Matchweek 17,Away,João Félix,Valencia,Y,0.9,0.96,Left Foot,3.0,55,0-0,Giorgi Mamardashvili,Raphinha,Raphinha,Pass (Live),Frenkie de Jong,Pass (Live),,LW,RW,MF
+43,44,2023-12-20,La Liga,Matchweek 18,Home,Raphinha,Almería,Y,0.49,0.95,Left Foot,3.0,33,0-0,Luís Maximiano,,Ronald Araújo,Shot,,,,RW,CB,
+44,45,2023-12-20,La Liga,Matchweek 18,Home,Sergi Roberto,Almería,Y*,0.1,0.51,Head,6.0,60,1-1,Luís Maximiano,Raphinha,Raphinha,Pass (Dead),,,,CDM,RW,
+45,46,2023-12-20,La Liga,Matchweek 18,Home,Sergi Roberto,Almería,Y*,0.62,0.92,Right Foot,8.0,83,2-2,Luís Maximiano,Robert Lewandowski,Robert Lewandowski,Pass (Live),İlkay Gündoğan,Pass (Live),,CDM,ST,MF
+46,47,2024-01-04,La Liga,Matchweek 19,Away,Ferrán Torres,Las Palmas,Y,0.14,0.31,Right Foot,16.0,55,0-1,Álvaro Vallés,Sergi Roberto,Sergi Roberto,Pass (Live),Alejandro Balde,Pass (Live),,LW,CDM,LB
+47,48,2024-01-04,La Liga,Matchweek 19,Away,İlkay Gündoğan,Las Palmas,Y,0.79,0.92,Right Foot,13.0,90+3,1-1,Álvaro Vallés,,İlkay Gündoğan,Fouled,João Félix,Shot,,MF,MF,LW
+49,50,2024-01-07,Copa del Rey,Round of 32,Away,Raphinha,Barbastro,Y,,,,,51,1-0,Arnau Fàbrega,Héctor Fort,Héctor Fort,,,,,RW,RB,
+51,52,2024-01-11,Supercopa de España,Semi-finals,Home,Robert Lewandowski,Osasuna,Y,,,,,59,,,İlkay Gündoğan,İlkay Gündoğan,,,,,ST,MF,
+52,53,2024-01-11,Supercopa de España,Semi-finals,Home,Lamine Yamal,Osasuna,N,,,,,90+3,,,João Félix,João Félix,,,,,RW,LW,
+54,55,2024-01-18,Copa del Rey,Round of 16,Away,Ferrán Torres,Unionistas Sal,Y,,,,,45,0-1,Iván Martínez,João Félix,João Félix,,,,,LW,LW,
+55,56,2024-01-18,Copa del Rey,Round of 16,Away,Jules Koundé,Unionistas Sal,Y,,,,,69,1-1,Iván Martínez,Pau Cubarsí,Pau Cubarsí,,,,,CB,CB,
+56,57,2024-01-18,Copa del Rey,Round of 16,Away,Alejandro Balde,Unionistas Sal,Y,,,,,73,2-1,Iván Martínez,Jules Koundé,Jules Koundé,,,,,LB,CB,
+57,58,2024-01-21,La Liga,Matchweek 21,Away,Ferrán Torres,Betis,Y,0.81,0.58,Right Foot,9.0,21,0-0,Rui Silva,Pedri,Pedri,Pass (Live),Jules Koundé,Pass (Live),,LW,CAM,CB
+58,59,2024-01-21,La Liga,Matchweek 21,Away,Ferrán Torres,Betis,Y,0.3,0.33,Left Foot,10.0,48,1-0,Rui Silva,,Lamine Yamal,Take-On,Jules Koundé,Pass (Live),,LW,RW,CB
+59,60,2024-01-21,La Liga,Matchweek 21,Away,João Félix,Betis,N,0.1,0.4,Right Foot,18.0,90,2-2,Rui Silva,Ferrán Torres,Ferrán Torres,Pass (Live),João Félix,Pass (Live),,LW,LW,LW
+60,61,2024-01-21,La Liga,Matchweek 21,Away,Ferrán Torres,Betis,Y,0.4,0.69,Right Foot,15.0,90+2,3-2,Rui Silva,Lamine Yamal,Lamine Yamal,Pass (Live),Ferrán Torres,Pass (Live),,LW,RW,LW
+62,63,2024-01-24,Copa del Rey,Quarter-finals,Away,Lamine Yamal,Athletic Club,Y,,,,,32,1-1,Julen Agirrezabala,Jules Koundé,Jules Koundé,,,,,RW,CB,
+63,64,2024-01-27,La Liga,Matchweek 22,Home,İlkay Gündoğan,Villarreal,Y,0.08,0.26,Left Foot,18.0,60,0-2,Filip Jørgensen,Robert Lewandowski,Ferrán Torres,Pass (Live),Pedri,Pass (Live),,MF,LW,CAM
+64,65,2024-01-27,La Liga,Matchweek 22,Home,Pedri,Villarreal,N,0.1,0.09,Left Foot,14.0,68,1-2,Filip Jørgensen,İlkay Gündoğan,Lamine Yamal,Pass (Live),Lamine Yamal,Take-On,Deflected,CAM,RW,RW
+66,67,2024-01-31,La Liga,Matchweek 20,Home,Vitor Roque,Osasuna,N,0.24,0.38,Head,4.0,63,0-0,Aitor Fernández,João Cancelo,João Cancelo,Pass (Live),Frenkie de Jong,Pass (Live),,ST,RB,MF
+67,68,2024-02-03,La Liga,Matchweek 23,Away,Robert Lewandowski,Alavés,Y,0.63,0.79,Right Foot,10.0,22,0-0,Antonio Sivera,İlkay Gündoğan,İlkay Gündoğan,Pass (Live),Frenkie de Jong,Pass (Live),,ST,MF,MF
+68,69,2024-02-03,La Liga,Matchweek 23,Away,İlkay Gündoğan,Alavés,Y,0.1,0.5,Right Foot,5.0,49,1-0,Antonio Sivera,Pedri,Pedri,Pass (Live),Lamine Yamal,Pass (Live),Volley,MF,CAM,RW
+69,70,2024-02-03,La Liga,Matchweek 23,Away,Vitor Roque,Alavés,N,0.22,0.66,Left Foot,10.0,63,2-1,Antonio Sivera,Héctor Fort,Héctor Fort,Pass (Live),Frenkie de Jong,Pass (Live),,ST,RB,MF
+70,71,2024-02-11,La Liga,Matchweek 24,Home,Lamine Yamal,Granada,Y,0.61,0.94,Right Foot,3.0,14,0-0,Augusto Batalla,João Cancelo,João Cancelo,Pass (Live),Frenkie de Jong,Pass (Live),Volley,RW,RB,MF
+71,72,2024-02-11,La Liga,Matchweek 24,Home,Robert Lewandowski,Granada,Y,0.12,0.56,Right Foot,21.0,63,1-2,Augusto Batalla,İlkay Gündoğan,İlkay Gündoğan,Pass (Live),João Cancelo,Pass (Live),,ST,MF,RB
+72,73,2024-02-11,La Liga,Matchweek 24,Home,Lamine Yamal,Granada,Y,0.04,0.22,Left Foot,26.0,80,2-3,Augusto Batalla,,Lamine Yamal,Tackle,,,,RW,RW,
+73,74,2024-02-17,La Liga,Matchweek 25,Away,Robert Lewandowski,Celta Vigo,Y,0.09,0.43,Right Foot,17.0,45,0-0,Vicente Guaita,Lamine Yamal,Lamine Yamal,Pass (Live),Jules Koundé,Pass (Live),,ST,RW,CB
+74,75,2024-02-17,La Liga,Matchweek 25,Away,Robert Lewandowski,Celta Vigo,Y,0.79,0.99,Right Foot,13.0,90+7,1-1,Vicente Guaita,,Lamine Yamal,Fouled,Robert Lewandowski,Pass (Live),,ST,RW,ST
+75,76,2024-02-21,Champions Lg,Round of 16,Away,Robert Lewandowski,Napoli,Y,0.14,0.31,Right Foot,16.0,60,0-0,Alex Meret,Pedri,Pedri,Pass (Live),Iñigo Martínez,Pass (Live),,ST,CAM,CB
+76,77,2024-02-24,La Liga,Matchweek 26,Home,Raphinha,Getafe,Y,0.31,0.52,Left Foot,16.0,20,0-0,David Soria,Jules Koundé,Jules Koundé,Pass (Live),Pau Cubarsí,Pass (Live),,RW,CB,CB
+77,78,2024-02-24,La Liga,Matchweek 26,Home,João Félix,Getafe,Y,0.39,0.83,Right Foot,8.0,53,1-0,David Soria,Andreas Christensen,Andreas Christensen,Pass (Live),Raphinha,Pass (Live),,LW,CB,RW
+78,79,2024-02-24,La Liga,Matchweek 26,Home,Frenkie de Jong,Getafe,Y,0.08,0.32,Right Foot,18.0,61,2-0,David Soria,Raphinha,Raphinha,Pass (Live),Frenkie de Jong,Pass (Live),,MF,RW,MF
+79,80,2024-02-24,La Liga,Matchweek 26,Home,Fermin López,Getafe,N,0.45,0.67,Right Foot,12.0,90+1,3-0,David Soria,,Vitor Roque,Shot,,,Volley,CAM,ST,
+80,81,2024-03-08,La Liga,Matchweek 28,Home,Lamine Yamal,Mallorca,Y,0.02,0.58,Left Foot,18.0,73,0-0,Predrag Rajković,Robert Lewandowski,Robert Lewandowski,Pass (Live),Lamine Yamal,Pass (Live),,RW,ST,RW
+81,82,2024-03-12,Champions Lg,Round of 16,Home,Fermin López,Napoli,Y,0.24,0.79,Right Foot,16.0,15,0-0,Alex Meret,Raphinha,Raphinha,Pass (Live),João Cancelo,Pass (Live),,CAM,RW,RB
+82,83,2024-03-12,Champions Lg,Round of 16,Home,João Cancelo,Napoli,Y,0.12,0.51,Right Foot,11.0,17,1-0,Alex Meret,Raphinha,Raphinha,Shot,,,,RB,RW,
+83,84,2024-03-12,Champions Lg,Round of 16,Home,Robert Lewandowski,Napoli,Y,0.72,0.84,Left Foot,9.0,83,2-1,Alex Meret,Sergi Roberto,Sergi Roberto,Pass (Live),İlkay Gündoğan,Pass (Live),,ST,CDM,MF
+84,85,2024-03-17,La Liga,Matchweek 29,Away,João Félix,Atlético Madrid,Y,0.3,0.82,Right Foot,10.0,38,0-0,Jan Oblak,Robert Lewandowski,Robert Lewandowski,Pass (Live),İlkay Gündoğan,Pass (Live),,LW,ST,MF
+85,86,2024-03-17,La Liga,Matchweek 29,Away,Robert Lewandowski,Atlético Madrid,Y,0.16,0.41,Right Foot,13.0,47,1-0,Jan Oblak,Raphinha,Raphinha,Pass (Live),,,,ST,RW,
+86,87,2024-03-17,La Liga,Matchweek 29,Away,Fermin López,Atlético Madrid,Y,0.48,0.89,Head,7.0,65,2-0,Jan Oblak,Robert Lewandowski,Robert Lewandowski,Pass (Live),Jules Koundé,Pass (Live),,CAM,ST,CB
+87,88,2024-03-30,La Liga,Matchweek 30,Home,Raphinha,Las Palmas,Y,0.29,0.95,Head,11.0,59,0-0,Aarón Escandell,João Félix,João Félix,Pass (Live),Sergi Roberto,Pass (Live),,RW,LW,CDM
+88,89,2024-04-10,Champions Lg,Quarter-finals,Away,Raphinha,Paris S-G,Y,0.19,0.31,Right Foot,14.0,37,0-0,Gianluigi Donnarumma,,Robert Lewandowski,Pass (Live),Pau Cubarsí,Pass (Live),,RW,ST,CB
+89,90,2024-04-10,Champions Lg,Quarter-finals,Away,Raphinha,Paris S-G,Y,0.27,0.87,Left Foot,15.0,62,1-2,Gianluigi Donnarumma,Pedri,Pedri,Pass (Live),Pau Cubarsí,Pass (Live),Volley,RW,CAM,CB
+90,91,2024-04-10,Champions Lg,Quarter-finals,Away,Andreas Christensen,Paris S-G,N,0.56,0.73,Head,4.0,77,2-2,Gianluigi Donnarumma,İlkay Gündoğan,İlkay Gündoğan,Pass (Dead),Robert Lewandowski,Pass (Live),,CB,MF,ST
+0,1,2023-08-14,La Liga,Matchweek 1,Home,Fede San Emeterio,Alavés,Y,0.06,0.07,Head,5.0,7,0-0,Antonio Sivera,Javi Hernández,Javi Hernández,Pass (Dead),Iván Alejo,Fouled,,MF,LB,MF
+1,2,2023-08-26,La Liga,Matchweek 3,Home,Luis Hernández,Almería,Y,0.95,0.97,Left Foot,2.0,59,0-0,Luís Maximiano,Gonzalo Escalante,Gonzalo Escalante,Pass (Live),Javi Hernández,Pass (Dead),,CB,MF,LB
+2,3,2023-09-01,La Liga,Matchweek 4,Home,Chris Ramos,Villarreal,Y,0.64,0.82,Right Foot,4.0,18,0-1,Filip Jørgensen,,Rubén Alcaraz,Shot,,,,ST,MF,
+3,4,2023-09-01,La Liga,Matchweek 4,Home,Darwin Machís,Villarreal,Y,0.79,0.99,Right Foot,13.0,30,1-1,Filip Jørgensen,,Chris Ramos,Fouled,Rubén Alcaraz,Pass (Live),,MF,ST,MF
+4,5,2023-09-01,La Liga,Matchweek 4,Home,Darwin Machís,Villarreal,Y,0.01,0.11,Right Foot,25.0,50,2-1,Filip Jørgensen,Gonzalo Escalante,Gonzalo Escalante,Pass (Live),Darwin Machís,Pass (Live),,MF,MF,MF
+5,6,2023-09-24,La Liga,Matchweek 6,Away,Chris Ramos,Betis,Y,0.06,0.69,Head,11.0,41,0-0,Claudio Bravo,,Iván Alejo,Pass (Live),Javi Hernández,Pass (Live),,ST,MF,LB
+6,7,2023-10-01,La Liga,Matchweek 8,Away,Lucas,Atlético Madrid,Y,0.35,0.69,Left Foot,5.0,12,0-0,Jan Oblak,Chris Ramos,Rubén Alcaraz,Pass (Live),,,,LB,MF,
+8,9,2023-10-28,La Liga,Matchweek 11,Home,Chris Ramos,Sevilla,Y,0.43,0.84,Right Foot,16.0,8,0-0,Ørjan Nyland,Roger Martí,Roger Martí,Pass (Live),Lucas,Tackle,,ST,ST,LB
+9,10,2023-10-28,La Liga,Matchweek 11,Home,Darwin Machís,Sevilla,Y,0.12,0.07,Left Foot,14.0,28,1-0,Ørjan Nyland,Roger Martí,Roger Martí,Pass (Live),,,,MF,ST,
+10,11,2023-11-29,La Liga,Matchweek 13,Away,Rubén Alcaraz,Mallorca,Y,0.1,0.23,Right Foot,28.0,12,0-0,Predrag Rajković,,Iván Alejo,Fouled,,,,MF,MF,
+11,12,2023-12-04,La Liga,Matchweek 15,Away,Chris Ramos,Celta Vigo,Y,0.25,0.69,Head,10.0,16,0-0,Vicente Guaita,Iván Alejo,Iván Alejo,Pass (Live),Roger Martí,Pass (Live),,ST,MF,ST
+13,14,2023-12-10,La Liga,Matchweek 16,Home,Roger Martí,Osasuna,Y,0.17,0.08,Head,6.0,19,0-0,Sergio Herrera,Iván Alejo,Iván Alejo,Pass (Live),,,,ST,MF,
+14,15,2023-12-17,La Liga,Matchweek 17,Away,Chris Ramos,Las Palmas,Y,0.18,0.16,Head,6.0,83,0-1,Álvaro Vallés,Roberto Navarro,Roberto Navarro,Pass (Dead),Maxi Gómez,Shot,,ST,MF,ST
+15,16,2024-01-14,La Liga,Matchweek 20,Home,Rubén Alcaraz,Valencia,Y,0.79,0.98,Right Foot,13.0,21,0-1,Giorgi Mamardashvili,,Rubén Alcaraz,Shot,,,,MF,MF,
+16,17,2024-02-25,La Liga,Matchweek 26,Home,Juanmi,Celta Vigo,Y,0.57,0.4,Right Foot,7.0,66,0-2,Vicente Guaita,Sergi Guardiola,Sergi Guardiola,Pass (Live),Javi Hernández,Pass (Live),,LW,ST,LB
+17,18,2024-02-25,La Liga,Matchweek 26,Home,Darwin Machís,Celta Vigo,N,0.01,0.3,Right Foot,25.0,90+10,1-2,Vicente Guaita,,Javi Hernández,Shot,,,,MF,LB,
+18,19,2024-03-02,La Liga,Matchweek 27,Away,Javi Hernández,Rayo Vallecano,Y,0.16,0.68,Left Foot,14.0,90+1,0-1,Stole Dimitrievski,Víctor Chust,Víctor Chust,Pass (Live),Jorge Meré,Pass (Live),,LB,CB,CB
+19,20,2024-03-09,La Liga,Matchweek 28,Home,Juanmi,Atlético Madrid,Y,0.67,0.93,Head,4.0,24,0-0,Jan Oblak,Rubén Sobrino,Rubén Sobrino,Pass (Live),Roberto Navarro,Pass (Live),,LW,ST,MF
+20,21,2024-03-09,La Liga,Matchweek 28,Home,Juanmi,Atlético Madrid,Y,0.26,0.55,Right Foot,14.0,64,1-0,Jan Oblak,Javi Hernández,Javi Hernández,Pass (Live),Jeremías Ledesma,Pass (Dead),Volley,LW,LB,GK
+21,22,2024-03-29,La Liga,Matchweek 30,Home,Roberto Navarro,Granada,Y,0.34,0.69,Right Foot,15.0,51,0-0,Augusto Batalla,Rubén Alcaraz,Rubén Alcaraz,Pass (Live),Álex Fernández,Pass (Live),,MF,MF,CAM
+0,1,2023-08-19,La Liga,Matchweek 2,Away,Óscar Mingueza,Real Sociedad,Y,0.38,0.94,Right Foot,4.0,90+4,0-1,Álex Remiro,,Joseph Aidoo,Shot,,,,RB,CB,
+1,2,2023-09-01,La Liga,Matchweek 4,Away,Unai Núñez,Almería,Y,0.26,0.88,Head,4.0,24,0-0,Luís Maximiano,Iago Aspas,Iago Aspas,Pass (Dead),Óscar Mingueza,Fouled,,CB,ST,RB
+3,4,2023-09-01,La Liga,Matchweek 4,Away,Williot Swedberg,Almería,N,0.19,0.23,Head,6.0,87,2-2,Luís Maximiano,Manu Sánchez,Manu Sánchez,Pass (Live),Óscar Mingueza,Pass (Live),,CAM,LB,RB
+4,5,2023-09-23,La Liga,Matchweek 6,Away,Jørgen Strand Larsen,Barcelona,Y,0.08,0.75,Right Foot,16.0,19,0-0,Marc-André ter Stegen,Luca de la Torre,Luca de la Torre,Pass (Live),Fran Beltrán,Pass (Live),,ST,MF,MF
+5,6,2023-09-23,La Liga,Matchweek 6,Away,Anastasios Douvikas,Barcelona,N,0.41,0.94,Left Foot,15.0,76,1-0,Marc-André ter Stegen,Iago Aspas,Iago Aspas,Pass (Live),Jonathan Bamba,Pass (Live),,ST,ST,LW
+7,8,2023-10-02,La Liga,Matchweek 8,Away,Anastasios Douvikas,Las Palmas,Y,0.53,0.85,Left Foot,14.0,67,0-0,Álvaro Vallés,Jonathan Bamba,Jonathan Bamba,Pass (Live),Jørgen Strand Larsen,Pass (Live),,ST,LW,ST
+8,9,2023-10-08,La Liga,Matchweek 9,Home,Jonathan Bamba,Getafe,Y,0.43,0.64,Left Foot,9.0,24,0-1,David Soria,Luca de la Torre,Luca de la Torre,Pass (Live),Jonathan Bamba,Pass (Live),,LW,MF,LW
+9,10,2023-10-08,La Liga,Matchweek 9,Home,Jørgen Strand Larsen,Getafe,Y,0.3,0.94,Right Foot,3.0,42,1-2,David Soria,,Iago Aspas,Shot,,,,ST,ST,
+11,12,2023-11-01,Copa del Rey,First round,Away,Jonathan Bamba,Turégano,Y,,,,,33,1-0,Álvaro González,Óscar Mingueza,Óscar Mingueza,,,,,LW,RB,
+12,13,2023-11-01,Copa del Rey,First round,Away,Carles Pérez,Turégano,N,,,,,61,2-0,Álvaro González,Williot Swedberg,Williot Swedberg,,,,,RW,CAM,
+13,14,2023-11-01,Copa del Rey,First round,Away,Carles Pérez,Turégano,N,,,,,71,3-0,Álvaro González,Anastasios Douvikas,Anastasios Douvikas,,,,,RW,ST,
+14,15,2023-11-04,La Liga,Matchweek 12,Home,Carl Starfelt,Sevilla,Y,0.33,0.09,Head,8.0,22,0-0,Ørjan Nyland,Iago Aspas,Iago Aspas,Pass (Dead),Jørgen Strand Larsen,Fouled,,CB,ST,ST
+15,16,2023-11-10,La Liga,Matchweek 13,Away,Iago Aspas,Athletic Club,Y*,0.05,0.09,Left Foot,25.0,25,0-0,Unai Simón,Óscar Mingueza,Iago Aspas,Take-On,Óscar Mingueza,Pass (Live),,ST,ST,RB
+16,17,2023-11-10,La Liga,Matchweek 13,Away,Jonathan Bamba,Athletic Club,Y,0.06,0.29,Right Foot,22.0,41,1-1,Unai Simón,,Jørgen Strand Larsen,Shot,,,,LW,ST,
+17,18,2023-11-10,La Liga,Matchweek 13,Away,Jørgen Strand Larsen,Athletic Club,Y,0.75,0.94,Left Foot,6.0,66,2-3,Unai Simón,Iago Aspas,Óscar Mingueza,Pass (Live),Carl Starfelt,Pass (Live),,ST,RB,CB
+18,19,2023-12-04,La Liga,Matchweek 15,Home,Jørgen Strand Larsen,Cádiz,Y,0.58,0.84,Right Foot,3.0,57,0-1,David Gil,Manu Sánchez,Manu Sánchez,Pass (Live),Óscar Mingueza,Pass (Live),,ST,LB,RB
+19,20,2023-12-07,Copa del Rey,Second round,Away,Anastasios Douvikas,Sestao,Y,,,,,17,0-0,Pere Joan,Miguel Rodríguez,Miguel Rodríguez,,,,,ST,MF,
+21,22,2023-12-16,La Liga,Matchweek 17,Home,Jørgen Strand Larsen,Granada,Y,0.75,0.11,Right Foot,5.0,20,0-0,André Ferreira,,Unai Núñez,Shot,,,,ST,CB,
+22,23,2023-12-20,La Liga,Matchweek 18,Away,Anastasios Douvikas,Villarreal,Y,0.2,0.88,Right Foot,3.0,52,0-3,Filip Jørgensen,,Carlos Dotor,Fouled,,,Volley,ST,MF,
+23,24,2023-12-20,La Liga,Matchweek 18,Away,Jørgen Strand Larsen,Villarreal,Y,0.31,0.85,Left Foot,11.0,57,1-3,Filip Jørgensen,Manu Sánchez,Manu Sánchez,Pass (Live),Franco Cervi,Pass (Live),Deflected,ST,LB,MF
+24,25,2024-01-03,La Liga,Matchweek 19,Home,Iago Aspas,Betis,Y*,0.79,0.99,Left Foot,13.0,16,0-1,Rui Silva,,Jørgen Strand Larsen,Fouled,Iago Aspas,Pass (Live),,ST,ST,ST
+25,26,2024-01-03,La Liga,Matchweek 19,Home,Williot Swedberg,Betis,N,0.94,0.83,Right Foot,8.0,90+6,1-1,Rui Silva,,Williot Swedberg,Take-On,,,,CAM,CAM,
+27,28,2024-01-07,Copa del Rey,Round of 32,Away,Jailson Siqueira,Amorebieta,Y,,,,,49,1-2,Jon Mikel Magunagoitia,Anastasios Douvikas,Anastasios Douvikas,,,,,CDM,ST,
+28,29,2024-01-07,Copa del Rey,Round of 32,Away,Anastasios Douvikas,Amorebieta,Y,,,,,52,2-2,Jon Mikel Magunagoitia,Miguel Rodríguez,Miguel Rodríguez,,,,,ST,MF,
+29,30,2024-01-07,Copa del Rey,Round of 32,Away,Anastasios Douvikas,Amorebieta,Y,,,,,75,3-2,Jon Mikel Magunagoitia,Unai Núñez,Unai Núñez,,,,,ST,CB,
+30,31,2024-01-13,La Liga,Matchweek 20,Away,Iago Aspas,Mallorca,Y*,0.32,0.84,Left Foot,15.0,10,0-0,Predrag Rajković,Jørgen Strand Larsen,Jørgen Strand Larsen,Pass (Live),Vicente Guaita,Pass (Live),,ST,ST,GK
+31,32,2024-01-17,Copa del Rey,Round of 16,Away,Luca de la Torre,Valencia,Y,,,,,13,0-0,Jaume Doménech,Kevin Vázquez,Kevin Vázquez,,,,,MF,RB,
+33,34,2024-01-17,Copa del Rey,Round of 16,Away,Anastasios Douvikas,Valencia,Y,,,,,80,2-1,Jaume Doménech,Luca de la Torre,Luca de la Torre,,,,,ST,MF,
+35,36,2024-02-04,La Liga,Matchweek 23,Away,Jørgen Strand Larsen,Osasuna,Y,0.09,0.26,Right Foot,16.0,24,0-0,Sergio Herrera,Luca de la Torre,Luca de la Torre,Pass (Live),Óscar Mingueza,Pass (Live),,ST,MF,RB
+36,37,2024-02-04,La Liga,Matchweek 23,Away,Luca de la Torre,Osasuna,Y,0.47,0.51,Left Foot,8.0,25,1-0,Sergio Herrera,Jørgen Strand Larsen,Jørgen Strand Larsen,Pass (Live),Óscar Mingueza,Pass (Live),,MF,ST,RB
+37,38,2024-02-04,La Liga,Matchweek 23,Away,Anastasios Douvikas,Osasuna,N,0.4,0.78,Right Foot,9.0,90,2-0,Sergio Herrera,Jailson Siqueira,Jailson Siqueira,Pass (Live),Fran Beltrán,Pass (Live),,ST,CDM,MF
+38,39,2024-02-11,La Liga,Matchweek 24,Away,Jørgen Strand Larsen,Getafe,Y,0.19,0.4,Head,8.0,71,0-2,David Soria,Javier Manquillo,Javier Manquillo,Pass (Live),Iago Aspas,Pass (Live),,ST,RB,ST
+39,40,2024-02-11,La Liga,Matchweek 24,Away,Tadeo Allende,Getafe,N,0.42,0.51,Right Foot,11.0,85,1-2,David Soria,Iago Aspas,Iago Aspas,Pass (Live),Fran Beltrán,Pass (Live),,RW,ST,MF
+40,41,2024-02-17,La Liga,Matchweek 25,Home,Iago Aspas,Barcelona,Y*,0.1,0.07,Left Foot,21.0,47,0-1,Marc-André ter Stegen,Óscar Mingueza,Óscar Mingueza,Pass (Live),Jørgen Strand Larsen,Pass (Live),Deflected,ST,RB,ST
+41,42,2024-02-25,La Liga,Matchweek 26,Away,Iago Aspas,Cádiz,Y*,0.12,0.12,Left Foot,18.0,11,0-0,Jeremías Ledesma,Luca de la Torre,Luca de la Torre,Pass (Live),Manu Sánchez,Pass (Live),,ST,MF,LB
+42,43,2024-02-25,La Liga,Matchweek 26,Away,Williot Swedberg,Cádiz,N,0.15,0.07,Right Foot,10.0,58,1-0,Jeremías Ledesma,Manu Sánchez,Manu Sánchez,Pass (Live),Iago Aspas,Pass (Live),Deflected,CAM,LB,ST
+43,44,2024-03-01,La Liga,Matchweek 27,Home,Óscar Mingueza,Almería,Y,0.02,0.4,Right Foot,33.0,73,0-0,Luís Maximiano,Manu Sánchez,Manu Sánchez,Pass (Live),Luca de la Torre,Pass (Live),,RB,LB,MF
+44,45,2024-03-17,La Liga,Matchweek 29,Away,Carles Pérez,Sevilla,N,0.02,0.13,Left Foot,22.0,72,0-1,Ørjan Nyland,Iago Aspas,Carles Pérez,Take-On,Iago Aspas,Pass (Live),,RW,RW,ST
+45,46,2024-03-17,La Liga,Matchweek 29,Away,Jørgen Strand Larsen,Sevilla,Y,0.55,0.91,Right Foot,6.0,78,1-1,Ørjan Nyland,Jonathan Bamba,Jonathan Bamba,Pass (Live),Franco Cervi,Pass (Live),Volley,ST,LW,MF
+46,47,2024-04-12,La Liga,Matchweek 31,Away,Jørgen Strand Larsen,Betis,Y,0.56,0.56,Right Foot,6.0,90+1,0-2,Rui Silva,Franco Cervi,Franco Cervi,Shot,,,,ST,MF,
+0,1,2023-08-28,La Liga,Matchweek 3,Home,Borja Mayoral,Alavés,Y,0.79,0.97,Right Foot,13.0,84,0-0,Antonio Sivera,,Juanmi Latasa,Fouled,Damián Suárez,Pass (Live),,ST,ST,RB
+1,2,2023-09-02,La Liga,Matchweek 4,Away,Borja Mayoral,Real Madrid,Y,0.09,0.45,Right Foot,14.0,11,0-0,Kepa Arrizabalaga,,Borja Mayoral,Take-On,,,,ST,ST,
+2,3,2023-09-17,La Liga,Matchweek 5,Home,Stefan Mitrović,Osasuna,Y,0.09,0.12,Head,9.0,36,0-0,Sergio Herrera,Damián Suárez,Damián Suárez,Pass (Dead),,,,CB,RB,
+3,4,2023-09-17,La Liga,Matchweek 5,Home,Carmona,Osasuna,Y,0.04,0.7,Head,13.0,51,1-1,Sergio Herrera,Diego Rico,Diego Rico,Pass (Live),Borja Mayoral,Pass (Live),,RB,LB,ST
+4,5,2023-09-17,La Liga,Matchweek 5,Home,Nemanja Maksimović,Osasuna,Y,0.08,0.22,Head,6.0,86,2-2,Sergio Herrera,Carles Aleñá,Carles Aleñá,Pass (Dead),Mason Greenwood,Shot,,MF,CAM,RW
+5,6,2023-09-24,La Liga,Matchweek 6,Away,Carles Aleñá,Real Sociedad,Y,0.27,0.94,Head,5.0,39,0-1,Álex Remiro,Diego Rico,Diego Rico,Pass (Live),Carles Aleñá,Pass (Live),,CAM,LB,CAM
+6,7,2023-09-24,La Liga,Matchweek 6,Away,Borja Mayoral,Real Sociedad,Y,0.79,0.96,Right Foot,13.0,45+5,1-1,Álex Remiro,,Borja Mayoral,Fouled,Jaime Mata,Pass (Live),,ST,ST,ST
+7,8,2023-09-24,La Liga,Matchweek 6,Away,Juanmi Latasa,Real Sociedad,N,0.07,0.46,Head,10.0,90+2,2-4,Álex Remiro,Diego Rico,Diego Rico,Pass (Live),Mason Greenwood,Shot,,ST,LB,RW
+8,9,2023-09-27,La Liga,Matchweek 7,Away,Gastón Álvarez,Athletic Club,Y,0.15,0.46,Head,7.0,51,0-1,Unai Simón,Mason Greenwood,Mason Greenwood,Pass (Dead),Nemanja Maksimović,Shot,Deflected,CB,RW,MF
+9,10,2023-09-27,La Liga,Matchweek 7,Away,Juanmi Latasa,Athletic Club,N,0.17,0.44,Head,8.0,83,1-2,Unai Simón,Carmona,Carmona,Pass (Live),Óscar Rodríguez Arnaiz,Pass (Live),,ST,RB,CAM
+10,11,2023-10-08,La Liga,Matchweek 9,Away,Borja Mayoral,Celta Vigo,Y,0.44,0.88,Right Foot,8.0,2,0-0,Iván Villar,Diego Rico,Borja Mayoral,Take-On,Borja Mayoral,Take-On,Deflected,ST,ST,ST
+11,12,2023-10-08,La Liga,Matchweek 9,Away,Mason Greenwood,Celta Vigo,Y,0.16,0.31,Right Foot,9.0,33,1-1,Iván Villar,Borja Mayoral,Borja Mayoral,Pass (Live),,,,RW,ST,
+12,13,2023-10-21,La Liga,Matchweek 10,Home,Borja Mayoral,Betis,Y,0.17,0.56,Head,8.0,17,0-1,Claudio Bravo,Diego Rico,Diego Rico,Pass (Live),Jaime Mata,Shot,,ST,LB,ST
+13,14,2023-11-01,Copa del Rey,First round,Away,John Joe,Tardienta,Y,,,,,7,0-0,Diego,Carles Aleñá,Carles Aleñá,,,,,MF,CAM,
+14,15,2023-11-01,Copa del Rey,First round,Away,Mason Greenwood,Tardienta,Y,,,,,15,1-0,Diego,Anthony Lozano,Anthony Lozano,,,,,RW,ST,
+16,17,2023-11-01,Copa del Rey,First round,Away,Jordi,Tardienta,Y,,,,,33,3-0,Diego,Óscar Rodríguez Arnaiz,Óscar Rodríguez Arnaiz,,,,,MF,CAM,
+18,19,2023-11-01,Copa del Rey,First round,Away,Mason Greenwood,Tardienta,Y,,,,,54,5-0,Diego,Anthony Lozano,Anthony Lozano,,,,,RW,ST,
+19,20,2023-11-01,Copa del Rey,First round,Away,Óscar Rodríguez Arnaiz,Tardienta,Y,,,,,56,6-0,Diego,Carles Aleñá,Carles Aleñá,,,,,CAM,CAM,
+20,21,2023-11-01,Copa del Rey,First round,Away,Óscar Rodríguez Arnaiz,Tardienta,Y,,,,,63,7-0,Diego,Jaime Mata,Jaime Mata,,,,,CAM,ST,
+21,22,2023-11-01,Copa del Rey,First round,Away,Domingos Duarte,Tardienta,Y,,,,,68,8-0,Diego,Stefan Mitrović,Stefan Mitrović,,,,,CB,CB,
+22,23,2023-11-01,Copa del Rey,First round,Away,Juanmi Latasa,Tardienta,N,,,,,73,9-0,Diego,Luis Milla,Luis Milla,,,,,ST,MF,
+23,24,2023-11-01,Copa del Rey,First round,Away,Borja Mayoral,Tardienta,N,,,,,78,10-0,Diego,Anthony Lozano,Anthony Lozano,,,,,ST,ST,
+24,25,2023-11-01,Copa del Rey,First round,Away,Borja Mayoral,Tardienta,N,,,,,85,11-0,Diego,Anthony Lozano,Anthony Lozano,,,,,ST,ST,
+25,26,2023-11-06,La Liga,Matchweek 12,Home,Borja Mayoral,Cádiz,Y,0.55,0.74,Head,4.0,76,0-0,Jeremías Ledesma,Mason Greenwood,Mason Greenwood,Pass (Live),Luis Milla,Pass (Dead),,ST,RW,MF
+26,27,2023-11-11,La Liga,Matchweek 13,Away,Borja Mayoral,Granada,Y,0.94,0.97,Right Foot,3.0,2,0-0,André Ferreira,Mason Greenwood,Mason Greenwood,Pass (Live),Mason Greenwood,Take-On,,ST,RW,RW
+27,28,2023-11-25,La Liga,Matchweek 14,Home,Mason Greenwood,Almería,Y,0.01,0.45,Left Foot,25.0,33,0-1,Luís Maximiano,Omar Alderete,Omar Alderete,Pass (Live),Nemanja Maksimović,Pass (Live),,RW,CB,MF
+28,29,2023-11-25,La Liga,Matchweek 14,Home,Borja Mayoral,Almería,Y,0.12,0.43,Left Foot,16.0,45,1-1,Luís Maximiano,,Damián Suárez,Pass (Live),Mason Greenwood,Pass (Live),,ST,RB,RW
+30,31,2023-12-05,Copa del Rey,Second round,Away,Juanmi Latasa,Atzeneta,Y,,,,,74,1-1,Ferrán Ferri,Carles Aleñá,Carles Aleñá,,,,,ST,CAM,
+31,32,2023-12-08,La Liga,Matchweek 16,Home,Borja Mayoral,Valencia,Y,0.07,0.25,Head,13.0,87,0-0,Giorgi Mamardashvili,Iglesias,Iglesias,Pass (Live),Óscar Rodríguez Arnaiz,Pass (Live),,ST,RB,CAM
+32,33,2023-12-16,La Liga,Matchweek 17,Away,Borja Mayoral,Sevilla,Y,0.79,0.86,Right Foot,13.0,5,0-0,Marko Dmitrović,,Jaime Mata,Shot,,,,ST,ST,
+33,34,2023-12-16,La Liga,Matchweek 17,Away,Jaime Mata,Sevilla,Y,0.15,0.24,Left Foot,14.0,37,1-0,Marko Dmitrović,Mason Greenwood,Mason Greenwood,Pass (Live),,,Deflected,ST,RW,
+35,36,2023-12-19,La Liga,Matchweek 18,Away,Borja Mayoral,Atlético Madrid,Y,0.04,0.37,Head,12.0,53,0-1,Jan Oblak,,Luis Milla,Pass (Live),Gastón Álvarez,Pass (Live),,ST,MF,CB
+36,37,2023-12-19,La Liga,Matchweek 18,Away,Óscar Rodríguez Arnaiz,Atlético Madrid,N,0.14,0.15,Right Foot,15.0,87,1-3,Jan Oblak,Damián Suárez,Damián Suárez,Pass (Live),Mason Greenwood,Take-On,Deflected,CAM,RB,RW
+38,39,2024-01-06,Copa del Rey,Round of 32,Away,Luis Milla,Espanyol,Y,,,,,87,0-0,Joan García,Enes Ünal,Enes Ünal,,,,,MF,CAM,
+40,41,2024-01-21,La Liga,Matchweek 21,Away,Borja Mayoral,Osasuna,Y,0.26,0.97,Right Foot,6.0,64,0-2,Sergio Herrera,Enes Ünal,Enes Ünal,Pass (Live),Jordi,Pass (Live),Deflected,ST,CAM,MF
+41,42,2024-01-21,La Liga,Matchweek 21,Away,Nemanja Maksimović,Osasuna,Y,0.02,0.16,Head,7.0,68,1-2,Sergio Herrera,Luis Milla,Luis Milla,Pass (Dead),Nemanja Maksimović,Pass (Live),,MF,MF,MF
+42,43,2024-01-29,La Liga,Matchweek 22,Home,Mason Greenwood,Granada,Y,0.02,0.07,Left Foot,19.0,21,0-0,Augusto Batalla,Iglesias,Iglesias,Pass (Live),,,Deflected,RW,RB,
+44,45,2024-02-04,La Liga,Matchweek 23,Away,Mason Greenwood,Betis,Y,0.79,0.99,Right Foot,13.0,8,0-0,Rui Silva,,Mason Greenwood,Fouled,Mason Greenwood,Take-On,,RW,RW,RW
+45,46,2024-02-11,La Liga,Matchweek 24,Home,Borja Mayoral,Celta Vigo,Y,0.89,0.98,Head,1.0,41,0-0,Vicente Guaita,,Jordi,Shot,,,,ST,MF,
+46,47,2024-02-11,La Liga,Matchweek 24,Home,Jaime Mata,Celta Vigo,Y,0.88,0.98,Right Foot,1.0,45+2,1-0,Vicente Guaita,,Mason Greenwood,Shot,,,,ST,RW,
+47,48,2024-02-11,La Liga,Matchweek 24,Home,Jaime Mata,Celta Vigo,Y,0.05,0.69,Head,13.0,89,2-2,Vicente Guaita,Mason Greenwood,Mason Greenwood,Pass (Live),Jaime Mata,Pass (Live),,ST,RW,ST
+48,49,2024-02-16,La Liga,Matchweek 25,Away,Nemanja Maksimović,Villarreal,Y,0.23,0.39,Left Foot,12.0,24,0-0,Filip Jørgensen,,Mason Greenwood,Fouled,Omar Alderete,Pass (Live),,MF,RW,CB
+49,50,2024-03-02,La Liga,Matchweek 27,Home,Jaime Mata,Las Palmas,Y*,0.54,0.12,Left Foot,10.0,11,0-0,Álvaro Vallés,Diego Rico,Diego Rico,Pass (Live),Carmona,Pass (Dead),Volley,ST,LB,RB
+50,51,2024-03-02,La Liga,Matchweek 27,Home,Mason Greenwood,Las Palmas,Y,0.67,0.93,Right Foot,14.0,14,1-0,Álvaro Vallés,Diego Rico,Mason Greenwood,Take-On,Diego Rico,Pass (Live),,RW,RW,LB
+51,52,2024-03-02,La Liga,Matchweek 27,Home,Nemanja Maksimović,Las Palmas,Y,0.42,0.18,Head,7.0,45,2-1,Álvaro Vallés,Jaime Mata,Jaime Mata,Pass (Live),Luis Milla,Pass (Live),,MF,ST,MF
+52,53,2024-03-16,La Liga,Matchweek 29,Home,Jesús Santiago,Girona,Y,0.24,0.9,Right Foot,10.0,33,0-0,Paulo Gazzaniga,Ilaix Moriba,Ilaix Moriba,Pass (Live),Nemanja Maksimović,Pass (Live),,MF,MF,MF
+0,1,2023-08-12,La Liga,Matchweek 1,Away,Artem Dovbyk,Real Sociedad,N,0.26,0.38,Head,3.0,72,0-1,Álex Remiro,Viktor Tsyhankov,Viktor Tsyhankov,Pass (Live),Pablo Torre,Pass (Live),,FW,RW,CAM
+1,2,2023-08-20,La Liga,Matchweek 2,Home,Yangel Herrera,Getafe,Y,0.44,0.94,Head,5.0,12,0-0,David Soria,Sávio,Sávio,Pass (Live),Aleix García,Pass (Live),,MF,LW,MF
+2,3,2023-08-20,La Liga,Matchweek 2,Home,Cristhian Stuani,Getafe,Y*,0.25,0.43,Right Foot,7.0,55,1-0,David Soria,Miguel Gutiérrez,Miguel Gutiérrez,Pass (Live),Daley Blind,Pass (Live),Volley,ST,LB,CB
+3,4,2023-08-20,La Liga,Matchweek 2,Home,Cristhian Stuani,Getafe,Y*,0.33,0.27,Right Foot,6.0,65,2-0,David Soria,,Miguel Gutiérrez,Pass (Live),Aleix García,Pass (Live),,ST,LB,MF
+4,5,2023-08-26,La Liga,Matchweek 3,Away,Yangel Herrera,Sevilla,Y,0.17,0.34,Right Foot,9.0,16,0-0,Marko Dmitrović,,Aleix García,Pass (Dead),Aleix García,Pass (Live),,MF,MF,MF
+5,6,2023-08-26,La Liga,Matchweek 3,Away,Aleix García,Sevilla,Y,0.1,0.34,Right Foot,17.0,56,1-1,Marko Dmitrović,Arnau Martinez,Arnau Martinez,Pass (Live),Sávio,Pass (Live),,MF,RB,LW
+6,7,2023-09-03,La Liga,Matchweek 4,Home,Portu,Las Palmas,N,0.28,0.55,Head,5.0,88,0-0,Álvaro Vallés,Yan Couto,Yan Couto,Pass (Live),Valery Fernández,Pass (Live),,RW,RB,CDM
+7,8,2023-09-18,La Liga,Matchweek 5,Away,Viktor Tsyhankov,Granada,Y,0.03,0.46,Left Foot,24.0,22,0-0,Raúl Fernández,Sávio,Sávio,Pass (Live),Daley Blind,Pass (Live),,RW,LW,CB
+9,10,2023-09-18,La Liga,Matchweek 5,Away,David López,Granada,Y,0.77,0.8,Right Foot,3.0,34,2-0,Raúl Fernández,Artem Dovbyk,Artem Dovbyk,Pass (Live),Aleix García,Pass (Dead),,CB,FW,MF
+10,11,2023-09-18,La Liga,Matchweek 5,Away,Yan Couto,Granada,Y,0.16,0.08,Left Foot,12.0,89,3-2,Raúl Fernández,Cristhian Stuani,Sávio,Pass (Live),Miguel Gutiérrez,Pass (Live),,RB,LW,LB
+11,12,2023-09-23,La Liga,Matchweek 6,Home,David López,Mallorca,Y,0.11,0.2,Right Foot,9.0,26,0-1,Predrag Rajković,Daley Blind,Aleix García,Pass (Dead),Yan Couto,Fouled,,CB,MF,RB
+12,13,2023-09-23,La Liga,Matchweek 6,Home,Artem Dovbyk,Mallorca,Y,0.79,0.94,Left Foot,13.0,33,1-1,Predrag Rajković,,Yangel Herrera,Fouled,Iván Martín,Pass (Live),,FW,MF,CAM
+13,14,2023-09-23,La Liga,Matchweek 6,Home,Iván Martín,Mallorca,Y,0.21,0.62,Left Foot,4.0,37,2-1,Predrag Rajković,Sávio,Sávio,Pass (Live),Sávio,Take-On,,CAM,LW,LW
+14,15,2023-09-23,La Liga,Matchweek 6,Home,Yangel Herrera,Mallorca,Y,0.05,0.27,Right Foot,19.0,45,3-1,Predrag Rajković,,Yangel Herrera,Pass (Live),Sávio,Pass (Live),,MF,MF,LW
+15,16,2023-09-23,La Liga,Matchweek 6,Home,Sávio,Mallorca,Y,0.25,0.93,Left Foot,11.0,57,4-1,Predrag Rajković,Artem Dovbyk,Artem Dovbyk,Pass (Live),Sávio,Pass (Live),,LW,FW,LW
+16,17,2023-09-27,La Liga,Matchweek 7,Away,Artem Dovbyk,Villarreal,Y,0.33,0.7,Head,6.0,56,0-1,Filip Jørgensen,Sávio,Sávio,Pass (Live),Aleix García,Pass (Live),,FW,LW,MF
+17,18,2023-09-27,La Liga,Matchweek 7,Away,Eric García,Villarreal,Y,0.45,0.24,Head,6.0,61,1-1,Filip Jørgensen,Aleix García,Aleix García,Pass (Live),Viktor Tsyhankov,Pass (Live),,CB,MF,RW
+18,19,2023-10-07,La Liga,Matchweek 9,Away,Aleix García,Cádiz,Y*,0.06,0.31,Right Foot,21.0,59,0-0,Jeremías Ledesma,Yan Couto,Yan Couto,Pass (Live),Eric García,Pass (Live),,MF,RB,CB
+19,20,2023-10-22,La Liga,Matchweek 10,Home,Iván Martín,Almería,Y,0.48,0.81,Left Foot,14.0,37,0-2,Fernando,Aleix García,Aleix García,Pass (Live),Daley Blind,Interception,,CAM,MF,CB
+20,21,2023-10-22,La Liga,Matchweek 10,Home,Artem Dovbyk,Almería,Y,0.12,0.59,Left Foot,11.0,39,1-2,Fernando,Daley Blind,Daley Blind,Pass (Live),Artem Dovbyk,Pass (Live),,FW,CB,FW
+21,22,2023-10-22,La Liga,Matchweek 10,Home,Artem Dovbyk,Almería,Y,0.06,0.35,Left Foot,15.0,43,2-2,Fernando,Yan Couto,Yan Couto,Pass (Live),,,,FW,RB,
+22,23,2023-10-22,La Liga,Matchweek 10,Home,Sávio,Almería,Y,0.04,0.03,Left Foot,10.0,71,3-2,Fernando,Aleix García,Aleix García,Pass (Live),Eric García,Pass (Live),,LW,MF,CB
+23,24,2023-10-22,La Liga,Matchweek 10,Home,Cristhian Stuani,Almería,N,0.33,0.82,Left Foot,8.0,85,4-2,Fernando,Arnau Martinez,Arnau Martinez,Pass (Live),Aleix García,Pass (Live),,ST,RB,MF
+24,25,2023-10-27,La Liga,Matchweek 11,Home,Yangel Herrera,Celta Vigo,Y,0.03,0.31,Right Foot,25.0,90+1,0-0,Vicente Guaita,Aleix García,Daley Blind,Pass (Live),Viktor Tsyhankov,Pass (Live),,MF,CB,RW
+25,26,2023-11-01,Copa del Rey,First round,Away,Valery Fernández,CD San Roque de Lepe,Y,,,,,48,0-0,Raúl Alejo,Arnau Martinez,Arnau Martinez,,,,,CDM,RB,
+26,27,2023-11-01,Copa del Rey,First round,Away,Sávio,CD San Roque de Lepe,N,,,,,90+8,1-1,Raúl Alejo,Artem Dovbyk,Artem Dovbyk,,,,,LW,FW,
+27,28,2023-11-04,La Liga,Matchweek 12,Away,Iván Martín,Osasuna,Y,0.82,0.92,Right Foot,3.0,16,0-0,Sergio Herrera,Artem Dovbyk,Sávio,Pass (Live),Artem Dovbyk,Pass (Live),,CAM,LW,FW
+28,29,2023-11-04,La Liga,Matchweek 12,Away,Artem Dovbyk,Osasuna,Y,0.43,0.88,Head,4.0,71,1-2,Sergio Herrera,,Sávio,Pass (Live),Aleix García,Pass (Live),,FW,LW,MF
+29,30,2023-11-04,La Liga,Matchweek 12,Away,Viktor Tsyhankov,Osasuna,N,0.52,0.87,Right Foot,6.0,80,2-2,Sergio Herrera,Artem Dovbyk,Artem Dovbyk,Pass (Live),,,,RW,FW,
+30,31,2023-11-04,La Liga,Matchweek 12,Away,Aleix García,Osasuna,Y*,0.04,0.47,Right Foot,16.0,90,3-2,Sergio Herrera,Portu,Portu,Pass (Live),Viktor Tsyhankov,Pass (Live),Volley,MF,RW,RW
+31,32,2023-11-11,La Liga,Matchweek 13,Away,Artem Dovbyk,Rayo Vallecano,Y,0.61,0.83,Left Foot,13.0,42,0-1,Stole Dimitrievski,Viktor Tsyhankov,Viktor Tsyhankov,Pass (Live),Iván Martín,Pass (Live),,FW,RW,CAM
+32,33,2023-11-11,La Liga,Matchweek 13,Away,Sávio,Rayo Vallecano,Y,0.69,0.77,Left Foot,9.0,65,1-1,Stole Dimitrievski,,Artem Dovbyk,Shot,,,,LW,FW,
+34,35,2023-12-02,La Liga,Matchweek 15,Home,Cristhian Stuani,Valencia,N,0.84,0.98,Left Foot,2.0,82,0-1,Giorgi Mamardashvili,Yan Couto,Yan Couto,Pass (Live),Eric García,Pass (Live),,ST,RB,CB
+35,36,2023-12-02,La Liga,Matchweek 15,Home,Cristhian Stuani,Valencia,N,0.32,0.96,Left Foot,5.0,88,1-1,Giorgi Mamardashvili,,Aleix García,Pass (Live),Eric García,Pass (Live),,ST,MF,CB
+36,37,2023-12-07,Copa del Rey,Second round,Away,Pablo Torre,Orihuela,Y,,,,,7,0-0,Aitor Arias,Iker Almena,Iker Almena,,,,,CAM,RW,
+37,38,2023-12-07,Copa del Rey,Second round,Away,Cristhian Stuani,Orihuela,Y*,,,,,66,1-2,Aitor Arias,Valery Fernández,Valery Fernández,,,,,ST,CDM,
+38,39,2023-12-07,Copa del Rey,Second round,Away,Cristhian Stuani,Orihuela,Y*,,,,,74,2-2,Aitor Arias,Miguel Gutiérrez,Miguel Gutiérrez,,,,,ST,LB,
+39,40,2023-12-07,Copa del Rey,Second round,Away,Portu,Orihuela,Y,,,,,82,3-2,Aitor Arias,Miguel Gutiérrez,Miguel Gutiérrez,,,,,RW,LB,
+41,42,2023-12-10,La Liga,Matchweek 16,Away,Artem Dovbyk,Barcelona,Y,0.46,0.73,Left Foot,9.0,12,0-0,Iñaki Peña,Viktor Tsyhankov,Viktor Tsyhankov,Pass (Live),,,,FW,RW,
+42,43,2023-12-10,La Liga,Matchweek 16,Away,Miguel Gutiérrez,Barcelona,Y,0.1,0.28,Left Foot,15.0,40,1-1,Iñaki Peña,Iván Martín,Iván Martín,Pass (Live),Aleix García,Pass (Live),,LB,CAM,MF
+43,44,2023-12-10,La Liga,Matchweek 16,Away,Valery Fernández,Barcelona,N,0.39,0.87,Right Foot,18.0,80,2-1,Iñaki Peña,Cristhian Stuani,Valery Fernández,Take-On,Cristhian Stuani,Pass (Live),,CDM,CDM,ST
+44,45,2023-12-10,La Liga,Matchweek 16,Away,Cristhian Stuani,Barcelona,N,0.19,0.76,Right Foot,3.0,90+5,3-2,Iñaki Peña,Sávio,Sávio,Pass (Live),Aleix García,Pass (Dead),"Deflected, Volley",ST,LW,MF
+45,46,2023-12-18,La Liga,Matchweek 17,Home,Artem Dovbyk,Alavés,Y,0.44,0.31,Head,8.0,23,0-0,Antonio Sivera,,Yan Couto,Shot,,,,FW,RB,
+46,47,2023-12-18,La Liga,Matchweek 17,Home,Portu,Alavés,Y,0.08,0.43,Right Foot,16.0,42,1-0,Antonio Sivera,Yan Couto,Yan Couto,Pass (Live),Portu,Pass (Live),,RW,RB,RW
+47,48,2023-12-18,La Liga,Matchweek 17,Home,Artem Dovbyk,Alavés,Y,0.79,0.91,Left Foot,13.0,59,2-0,Antonio Sivera,,Yan Couto,Fouled,Yan Couto,Take-On,,FW,RB,RB
+48,49,2023-12-21,La Liga,Matchweek 18,Away,Artem Dovbyk,Betis,Y,0.79,0.98,Left Foot,13.0,39,0-0,Rui Silva,,Sávio,Fouled,Pablo Torre,Pass (Live),,FW,LW,CAM
+49,50,2024-01-03,La Liga,Matchweek 19,Home,Valery Fernández,Atlético Madrid,Y*,0.05,0.47,Right Foot,21.0,2,0-0,Jan Oblak,Pablo Torre,Pablo Torre,Pass (Live),Iván Martín,Pass (Live),,CDM,CAM,CAM
+50,51,2024-01-03,La Liga,Matchweek 19,Home,Sávio,Atlético Madrid,Y,0.51,0.32,Left Foot,12.0,26,1-1,Jan Oblak,,Iván Martín,Shot,,,Volley,LW,CAM,
+51,52,2024-01-03,La Liga,Matchweek 19,Home,Daley Blind,Atlético Madrid,Y,0.61,0.87,Left Foot,2.0,39,2-1,Jan Oblak,Artem Dovbyk,Artem Dovbyk,Pass (Live),Aleix García,Pass (Live),,CB,FW,MF
+52,53,2024-01-03,La Liga,Matchweek 19,Home,Iván Martín,Atlético Madrid,Y,0.09,0.62,Left Foot,13.0,90+1,3-3,Jan Oblak,Portu,Iván Martín,Take-On,Portu,Pass (Live),,CAM,CAM,RW
+53,54,2024-01-06,Copa del Rey,Round of 32,Away,Daley Blind,Elche,N,,,,,37,0-0,San Román,Jhon Solis,Jhon Solis,,,,,CB,MF,
+54,55,2024-01-06,Copa del Rey,Round of 32,Away,Yan Couto,Elche,Y,,,,,67,1-0,San Román,Portu,Portu,,,,,RB,RW,
+55,56,2024-01-17,Copa del Rey,Round of 16,Home,Cristhian Stuani,Rayo Vallecano,Y*,,,,,15,0-0,Cárdenas,Portu,Portu,,,,,ST,RW,
+57,58,2024-01-17,Copa del Rey,Round of 16,Home,Daley Blind,Rayo Vallecano,Y,,,,,26,2-0,Cárdenas,Portu,Portu,,,,,CB,RW,
+58,59,2024-01-21,La Liga,Matchweek 21,Home,Artem Dovbyk,Sevilla,Y,0.23,0.06,Head,4.0,13,0-1,Marko Dmitrović,Sávio,Sávio,Pass (Live),Yangel Herrera,Pass (Live),,FW,LW,MF
+59,60,2024-01-21,La Liga,Matchweek 21,Home,Artem Dovbyk,Sevilla,Y,0.49,0.6,Left Foot,11.0,15,1-1,Marko Dmitrović,Portu,Portu,Pass (Live),Sávio,Pass (Live),,FW,RW,LW
+60,61,2024-01-21,La Liga,Matchweek 21,Home,Artem Dovbyk,Sevilla,Y,0.07,0.23,Left Foot,21.0,19,2-1,Marko Dmitrović,Yan Couto,Yan Couto,Pass (Live),Paulo Gazzaniga,Pass (Live),,FW,RB,GK
+61,62,2024-01-21,La Liga,Matchweek 21,Home,Viktor Tsyhankov,Sevilla,Y,0.27,0.67,Right Foot,10.0,56,3-1,Marko Dmitrović,Sávio,Sávio,Pass (Live),Miguel Gutiérrez,Pass (Live),,RW,LW,LB
+62,63,2024-01-21,La Liga,Matchweek 21,Home,Cristhian Stuani,Sevilla,N,0.26,0.47,Right Foot,8.0,89,4-1,Marko Dmitrović,Miguel Gutiérrez,Miguel Gutiérrez,Pass (Live),Pablo Torre,Pass (Live),,ST,LB,CAM
+64,65,2024-01-24,Copa del Rey,Quarter-finals,Away,Sávio,Mallorca,Y,,,,,90+6,1-3,Dominik Greif,Artem Dovbyk,Artem Dovbyk,,,,,LW,FW,
+65,66,2024-01-28,La Liga,Matchweek 22,Away,Portu,Celta Vigo,Y,0.32,0.71,Right Foot,10.0,20,0-0,Vicente Guaita,Miguel Gutiérrez,Miguel Gutiérrez,Pass (Live),Sávio,Pass (Live),,RW,LB,LW
+66,67,2024-02-19,La Liga,Matchweek 25,Away,Viktor Tsyhankov,Athletic Club,Y,0.78,0.99,Right Foot,3.0,49,0-1,Unai Simón,Iván Martín,Iván Martín,Pass (Live),Miguel Gutiérrez,Pass (Live),,RW,CAM,LB
+67,68,2024-02-19,La Liga,Matchweek 25,Away,Eric García,Athletic Club,Y,0.7,0.26,Head,6.0,75,1-3,Unai Simón,Aleix García,Aleix García,Pass (Dead),Valery Fernández,Fouled,,CB,MF,CDM
+68,69,2024-02-26,La Liga,Matchweek 26,Home,Viktor Tsyhankov,Rayo Vallecano,Y,0.2,0.37,Left Foot,17.0,52,0-0,Stole Dimitrievski,Miguel Gutiérrez,Miguel Gutiérrez,Pass (Live),David López,Pass (Live),,RW,LB,CB
+69,70,2024-02-26,La Liga,Matchweek 26,Home,Sávio,Rayo Vallecano,Y,0.16,0.29,Left Foot,15.0,90+1,1-0,Stole Dimitrievski,Pablo Torre,Sávio,Take-On,Pablo Torre,Pass (Live),,LW,LW,CAM
+70,71,2024-02-26,La Liga,Matchweek 26,Home,Sávio,Rayo Vallecano,Y,0.15,0.69,Left Foot,8.0,90+5,2-0,Stole Dimitrievski,Yan Couto,Sávio,Take-On,Yan Couto,Pass (Live),,LW,LW,RB
+71,72,2024-03-09,La Liga,Matchweek 28,Home,Portu,Osasuna,Y,0.35,0.82,Right Foot,10.0,13,0-0,Sergio Herrera,Viktor Tsyhankov,Viktor Tsyhankov,Pass (Live),Eric García,Pass (Live),,RW,RW,CB
+72,73,2024-03-09,La Liga,Matchweek 28,Home,Sávio,Osasuna,Y,0.41,0.73,Left Foot,16.0,86,1-0,Sergio Herrera,Aleix García,Aleix García,Pass (Live),Miguel Gutiérrez,Pass (Live),,LW,MF,LB
+74,75,2024-03-31,La Liga,Matchweek 30,Home,Artem Dovbyk,Betis,Y,0.6,0.91,Left Foot,15.0,65,1-1,Rui Silva,Portu,Portu,Pass (Live),Viktor Tsyhankov,Pass (Live),,FW,RW,RW
+75,76,2024-03-31,La Liga,Matchweek 30,Home,Cristhian Stuani,Betis,N,0.89,1.0,Right Foot,3.0,90+2,2-2,Rui Silva,,Cristhian Stuani,Shot,,,Volley,ST,ST,
+0,1,2023-08-14,La Liga,Matchweek 1,Away,Samuel Omorodion,Atlético Madrid,Y,0.46,0.45,Left Foot,8.0,62,0-1,Jan Oblak,Gonzalo Villar,Gonzalo Villar,Pass (Live),Gonzalo Villar,Tackle,,ST,MF,MF
+1,2,2023-08-26,La Liga,Matchweek 3,Home,Miguel Ángel Rubio,Mallorca,Y,0.21,0.64,Head,9.0,12,0-0,Predrag Rajković,José Callejón,José Callejón,Pass (Live),Carlos Neva,Fouled,,CB,RW,LB
+2,3,2023-08-26,La Liga,Matchweek 3,Home,Bryan Zaragoza,Mallorca,Y,0.07,0.04,Right Foot,25.0,46,1-1,Predrag Rajković,Gerard Gumbau,Gerard Gumbau,Pass (Live),,,Deflected,CAM,MF,
+5,6,2023-09-02,La Liga,Matchweek 4,Away,Lucas Boyé,Real Sociedad,Y,0.07,0.67,Right Foot,14.0,83,1-5,Álex Remiro,Antonio Puertas,Lucas Boyé,Take-On,Lucas Boyé,Take-On,,ST,ST,ST
+6,7,2023-09-02,La Liga,Matchweek 4,Away,Bryan Zaragoza,Real Sociedad,Y,0.41,0.55,Right Foot,12.0,90+9,2-5,Álex Remiro,Gonzalo Villar,Gonzalo Villar,Pass (Live),,,,CAM,MF,
+7,8,2023-09-18,La Liga,Matchweek 5,Home,Myrto Uzuni,Girona,Y,0.74,0.95,Right Foot,2.0,63,0-3,Paulo Gazzaniga,Ignasi Miquel,Ignasi Miquel,Shot,,,Volley,LW,CB,
+8,9,2023-09-18,La Liga,Matchweek 5,Home,Lucas Boyé,Girona,Y,0.21,0.67,Right Foot,6.0,85,1-3,Paulo Gazzaniga,Famara Diedhiou,Famara Diedhiou,Pass (Live),Gonzalo Villar,Pass (Live),,ST,ST,MF
+9,10,2023-09-28,La Liga,Matchweek 7,Home,Lucas Boyé,Betis,Y,0.56,0.8,Left Foot,5.0,67,0-1,Claudio Bravo,Bryan Zaragoza,Bryan Zaragoza,Pass (Live),Gerard Gumbau,Pass (Live),,ST,CAM,MF
+10,11,2023-10-01,La Liga,Matchweek 8,Away,Bryan Zaragoza,Almería,Y,0.79,0.99,Right Foot,13.0,66,0-3,Luís Maximiano,,Bryan Zaragoza,Fouled,Gerard Gumbau,Pass (Live),,CAM,CAM,MF
+11,12,2023-10-01,La Liga,Matchweek 8,Away,Ricard Sánchez,Almería,Y,0.05,0.58,Right Foot,18.0,70,1-3,Luís Maximiano,Antonio Puertas,Antonio Puertas,Pass (Live),Lucas Boyé,Pass (Live),,RB,RW,ST
+12,13,2023-10-01,La Liga,Matchweek 8,Away,Myrto Uzuni,Almería,N,0.15,0.55,Left Foot,21.0,86,2-3,Luís Maximiano,Lucas Boyé,Lucas Boyé,Pass (Live),Miguel Ángel Rubio,Pass (Live),,LW,ST,CB
+13,14,2023-10-08,La Liga,Matchweek 9,Home,Bryan Zaragoza,Barcelona,Y,0.2,0.21,Right Foot,15.0,1,0-0,Marc-André ter Stegen,Lucas Boyé,Lucas Boyé,Pass (Live),Gonzalo Villar,Pass (Live),,CAM,ST,MF
+14,15,2023-10-08,La Liga,Matchweek 9,Home,Bryan Zaragoza,Barcelona,Y,0.16,0.7,Right Foot,11.0,29,1-0,Marc-André ter Stegen,Gerard Gumbau,Bryan Zaragoza,Take-On,Gerard Gumbau,Pass (Live),,CAM,CAM,MF
+15,16,2023-10-30,La Liga,Matchweek 11,Home,Ricard Sánchez,Villarreal,Y,0.12,0.02,Right Foot,9.0,29,0-3,Filip Jørgensen,Gonzalo Villar,Gonzalo Villar,Pass (Live),Álvaro Carreras,Tackle,,RB,MF,MF
+16,17,2023-10-30,La Liga,Matchweek 11,Home,Myrto Uzuni,Villarreal,Y,0.27,0.56,Left Foot,11.0,34,1-3,Filip Jørgensen,Bryan Zaragoza,Bryan Zaragoza,Pass (Live),Sergio Ruiz,Pass (Live),,LW,CAM,MF
+17,18,2023-11-02,Copa del Rey,First round,Away,José Callejón,Arosa,Y,,,,,19,0-0,Raúl Rodríguez,Gonzalo Villar,Gonzalo Villar,,,,,RW,MF,
+18,19,2023-11-02,Copa del Rey,First round,Away,Shon Weissman,Arosa,Y,,,,,88,1-0,Raúl Rodríguez,Sergio Ruiz,Sergio Ruiz,,,,,ST,MF,
+19,20,2023-11-02,Copa del Rey,First round,Away,Famara Diedhiou,Arosa,Y,,,,,90,2-0,Raúl Rodríguez,Wilson Manafá,Wilson Manafá,,,,,ST,RB,
+20,21,2023-11-11,La Liga,Matchweek 13,Home,Gonzalo Villar,Getafe,Y,0.64,0.73,Right Foot,8.0,45+4,0-1,David Soria,Carlos Neva,Carlos Neva,Pass (Live),Gerard Gumbau,Pass (Live),,MF,LB,MF
+21,22,2023-11-24,La Liga,Matchweek 14,Away,Myrto Uzuni,Alavés,Y,0.79,0.99,Right Foot,13.0,86,0-3,Antonio Sivera,,Famara Diedhiou,Fouled,Gerard Gumbau,Pass (Live),,LW,ST,MF
+23,24,2024-01-03,La Liga,Matchweek 19,Home,Myrto Uzuni,Cádiz,Y,0.94,0.98,Right Foot,2.0,22,0-0,Jeremías Ledesma,Lucas Boyé,Lucas Boyé,Pass (Live),Bryan Zaragoza,Pass (Dead),,LW,ST,CAM
+24,25,2024-01-03,La Liga,Matchweek 19,Home,Bryan Zaragoza,Cádiz,Y,0.34,0.82,Right Foot,9.0,70,1-0,Jeremías Ledesma,Carlos Neva,Carlos Neva,Pass (Live),Lucas Boyé,Pass (Live),,CAM,LB,ST
+25,26,2024-02-03,La Liga,Matchweek 23,Home,Bruno Méndez,Las Palmas,Y,0.03,0.49,Left Foot,17.0,43,0-0,Álvaro Vallés,Sergio Ruiz,Sergio Ruiz,Pass (Dead),Gonzalo Villar,Fouled,,CB,MF,MF
+26,27,2024-02-11,La Liga,Matchweek 24,Away,Ricard Sánchez,Barcelona,Y,0.06,0.14,Right Foot,11.0,43,0-1,Marc-André ter Stegen,Facundo Pellistri,Facundo Pellistri,Pass (Live),Ricard Sánchez,Pass (Live),,RB,RW,RB
+27,28,2024-02-11,La Liga,Matchweek 24,Away,Facundo Pellistri,Barcelona,Y,0.73,0.9,Right Foot,4.0,60,1-1,Marc-André ter Stegen,Myrto Uzuni,Myrto Uzuni,Pass (Live),Facundo Pellistri,Pass (Live),,RW,LW,RW
+28,29,2024-02-11,La Liga,Matchweek 24,Away,Ignasi Miquel,Barcelona,Y*,0.09,0.17,Head,11.0,66,2-2,Marc-André ter Stegen,Faitout Maouassa,Faitout Maouassa,Pass (Live),Óscar Melendo,Pass (Live),,CB,LB,CAM
+29,30,2024-02-18,La Liga,Matchweek 25,Home,Myrto Uzuni,Almería,Y,0.52,0.86,Right Foot,21.0,75,0-1,Luís Maximiano,Gerard Gumbau,Gerard Gumbau,Pass (Live),Sergio Ruiz,Pass (Live),,LW,MF,MF
+30,31,2024-03-03,La Liga,Matchweek 27,Away,Theo Corbeanu,Villarreal,N,0.21,0.56,Left Foot,8.0,90+1,0-5,Pepe Reina,Sergio Ruiz,Sergio Ruiz,Pass (Live),Theo Corbeanu,Pass (Live),,RW,MF,RW
+31,32,2024-03-09,La Liga,Matchweek 28,Home,Myrto Uzuni,Real Sociedad,Y,0.79,0.99,Right Foot,13.0,21,0-0,Álex Remiro,,Facundo Pellistri,Fouled,Kamil Jóźwiak,Shot,,LW,RW,MF
+32,33,2024-03-09,La Liga,Matchweek 28,Home,Myrto Uzuni,Real Sociedad,Y,0.46,0.98,Head,3.0,45+3,1-1,Álex Remiro,,Facundo Pellistri,Pass (Live),Gerard Gumbau,Pass (Live),,LW,RW,MF
+0,1,2023-08-12,La Liga,Matchweek 1,Home,Jonathan Viera,Mallorca,Y*,0.79,0.99,Right Foot,13.0,29,0-0,Predrag Rajković,,Sandro Ramírez,Fouled,Kirian Rodríguez,Pass (Live),,CAM,ST,MF
+1,2,2023-09-24,La Liga,Matchweek 6,Home,Kirian Rodríguez,Granada,Y,0.03,0.34,Left Foot,23.0,90+2,0-0,André Ferreira,Sory Kaba,Sory Kaba,Pass (Live),Sergi Cardona,Pass (Live),,MF,ST,LB
+2,3,2023-10-02,La Liga,Matchweek 8,Home,Jonathan Viera,Celta Vigo,N,0.79,1.0,Right Foot,13.0,84,0-1,Iván Villar,,Marc Cardona,Fouled,Marvin,Pass (Live),,CAM,ST,RW
+3,4,2023-10-02,La Liga,Matchweek 8,Home,Marc Cardona,Celta Vigo,N,0.26,0.05,Right Foot,13.0,90+7,1-1,Iván Villar,Jonathan Viera,Jonathan Viera,Pass (Live),Kirian Rodríguez,Pass (Live),Volley,ST,CAM,MF
+4,5,2023-10-08,La Liga,Matchweek 9,Away,Saúl Coco,Villarreal,Y,0.03,0.4,Right Foot,35.0,45+2,0-0,Filip Jørgensen,,Sergi Cardona,Fouled,Álvaro Vallés,Pass (Live),,CB,LB,GK
+6,7,2023-10-28,La Liga,Matchweek 11,Away,Munir El Haddadi,Almería,Y,0.35,0.91,Left Foot,6.0,23,0-0,Fernando,Marvin,Marvin,Pass (Live),Marvin,Take-On,Volley,RW,RW,RW
+7,8,2023-10-28,La Liga,Matchweek 11,Away,Sory Kaba,Almería,N,0.09,0.51,Right Foot,17.0,90+4,1-1,Fernando,,Álex Suárez,Pass (Live),Javier Muñoz,Pass (Live),,ST,CB,MF
+8,9,2023-10-31,Copa del Rey,First round,Away,Julian Araujo,Manacor,Y,,,,,68,0-0,Elias Ramírez,Cristian Herrera,Cristian Herrera,,,,,RB,ST,
+9,10,2023-10-31,Copa del Rey,First round,Away,Alberto Moleiro,Manacor,N,,,,,76,1-0,Elias Ramírez,Pau Ferrer,Pau Ferrer,,,,,CAM,ST,
+10,11,2023-10-31,Copa del Rey,First round,Away,Pau Ferrer,Manacor,N,,,,,86,2-0,Elias Ramírez,Cristian Herrera,Cristian Herrera,,,,,ST,ST,
+11,12,2023-11-03,La Liga,Matchweek 12,Home,Kirian Rodríguez,Atlético Madrid,Y*,0.03,0.14,Right Foot,25.0,51,0-0,Jan Oblak,Alberto Moleiro,Alberto Moleiro,Pass (Live),Sergi Cardona,Pass (Live),,MF,CAM,LB
+12,13,2023-11-03,La Liga,Matchweek 12,Home,Benito Ramírez,Atlético Madrid,N,0.04,0.09,Left Foot,15.0,75,1-0,Jan Oblak,Munir El Haddadi,Munir El Haddadi,Pass (Live),Javier Muñoz,Interception,,LW,RW,MF
+13,14,2023-11-11,La Liga,Matchweek 13,Away,Alberto Moleiro,Osasuna,N,0.07,0.51,Right Foot,21.0,70,0-0,Sergio Herrera,Javier Muñoz,Javier Muñoz,Pass (Live),Munir El Haddadi,Pass (Live),,CAM,MF,RW
+14,15,2023-12-01,La Liga,Matchweek 15,Home,Julian Araujo,Getafe,Y,0.31,0.27,Head,8.0,43,0-0,David Soria,Kirian Rodríguez,Kirian Rodríguez,Pass (Live),Julian Araujo,Pass (Live),,RB,MF,RB
+15,16,2023-12-01,La Liga,Matchweek 15,Home,Cristian Herrera,Getafe,N,0.87,0.87,Left Foot,4.0,90+2,1-0,David Soria,Marvin,Marvin,Pass (Live),Javier Muñoz,Pass (Live),,ST,RW,MF
+16,17,2023-12-06,Copa del Rey,Second round,Away,Sory Kaba,Tudelano,Y,,,,,38,0-0,Pablo García,Marc Cardona,Marc Cardona,,,,,ST,ST,
+17,18,2023-12-06,Copa del Rey,Second round,Away,Munir El Haddadi,Tudelano,N,,,,,120+4,1-1,Pablo García,Alberto Moleiro,Alberto Moleiro,,,,,RW,CAM,
+18,19,2023-12-09,La Liga,Matchweek 16,Away,Kirian Rodríguez,Alavés,Y*,0.06,0.32,Right Foot,23.0,31,0-0,Antonio Sivera,Alberto Moleiro,Alberto Moleiro,Pass (Live),Munir El Haddadi,Pass (Live),,MF,CAM,RW
+20,21,2024-01-04,La Liga,Matchweek 19,Home,Munir El Haddadi,Barcelona,Y,0.22,0.92,Left Foot,8.0,12,0-0,Iñaki Peña,Sandro Ramírez,Sandro Ramírez,Pass (Live),Javier Muñoz,Pass (Live),,RW,ST,MF
+21,22,2024-01-13,La Liga,Matchweek 20,Home,Kirian Rodríguez,Villarreal,Y*,0.08,0.31,Right Foot,16.0,8,0-0,Filip Jørgensen,Alberto Moleiro,Alberto Moleiro,Pass (Live),Kirian Rodríguez,Pass (Live),,MF,CAM,MF
+22,23,2024-01-13,La Liga,Matchweek 20,Home,Juan Herzog,Villarreal,Y,0.19,0.27,Head,6.0,51,1-0,Filip Jørgensen,Sandro Ramírez,Sandro Ramírez,Pass (Dead),Sandro Ramírez,Pass (Live),Deflected,CB,ST,ST
+23,24,2024-01-13,La Liga,Matchweek 20,Home,Kirian Rodríguez,Villarreal,Y*,0.19,0.81,Right Foot,13.0,63,2-0,Filip Jørgensen,Javier Muñoz,Javier Muñoz,Pass (Live),Marvin,Pass (Live),,MF,MF,RW
+25,26,2024-01-20,La Liga,Matchweek 21,Away,Javier Muñoz,Rayo Vallecano,Y,0.29,0.84,Right Foot,10.0,83,1-0,Stole Dimitrievski,Sergi Cardona,Sergi Cardona,Pass (Live),Benito Ramírez,Shot,Volley,MF,LB,LW
+26,27,2024-01-27,La Liga,Matchweek 22,Home,Javier Muñoz,Real Madrid,Y,0.37,0.95,Right Foot,9.0,53,0-0,Andriy Lunin,Sandro Ramírez,Sandro Ramírez,Pass (Live),Kirian Rodríguez,Pass (Live),Deflected,MF,ST,MF
+27,28,2024-02-03,La Liga,Matchweek 23,Away,Francisco Jesús Crespo García,Granada,N,0.16,0.73,Head,8.0,68,0-1,Augusto Batalla,Sergi Cardona,Sergi Cardona,Pass (Live),Cristian Herrera,Pass (Live),,CAM,LB,ST
+28,29,2024-02-10,La Liga,Matchweek 24,Home,Álex Suárez,Valencia,Y,0.08,0.45,Head,9.0,89,0-0,Giorgi Mamardashvili,Marc Cardona,Marc Cardona,Pass (Live),Enzo Loiodice,Pass (Dead),,CB,ST,MF
+29,30,2024-02-10,La Liga,Matchweek 24,Home,Marc Cardona,Valencia,N,0.97,0.97,Left Foot,2.0,90+5,1-0,Giorgi Mamardashvili,,Kirian Rodríguez,Pass (Live),Fabio González,Pass (Live),,ST,MF,MF
+30,31,2024-02-25,La Liga,Matchweek 26,Home,Kirian Rodríguez,Osasuna,Y*,0.11,0.74,Right Foot,16.0,52,0-1,Sergio Herrera,,Alberto Moleiro,Pass (Live),Sergi Cardona,Pass (Live),Volley,MF,CAM,LB
+31,32,2024-03-02,La Liga,Matchweek 27,Away,Sandro Ramírez,Getafe,Y,0.03,0.39,Right Foot,26.0,35,0-2,David Soria,Kirian Rodríguez,Kirian Rodríguez,Pass (Live),Sergi Cardona,Pass (Live),,ST,MF,LB
+32,33,2024-03-02,La Liga,Matchweek 27,Away,Sergi Cardona,Getafe,Y,0.85,0.59,Left Foot,4.0,50,1-3,David Soria,Mika Màrmol,Mika Màrmol,Pass (Live),Kirian Rodríguez,Pass (Live),,LB,CB,MF
+33,34,2024-03-02,La Liga,Matchweek 27,Away,Munir El Haddadi,Getafe,Y,0.33,0.67,Left Foot,4.0,57,2-3,David Soria,Javier Muñoz,Javier Muñoz,Pass (Live),Kirian Rodríguez,Pass (Live),,RW,MF,MF
+0,1,2023-08-12,La Liga,Matchweek 1,Away,Antonio Raillo,Las Palmas,N,0.07,0.22,Head,10.0,70,0-1,Álvaro Vallés,Sergi Darder,Sergi Darder,Pass (Dead),,,,CB,MF,
+1,2,2023-08-26,La Liga,Matchweek 3,Away,Abdón Prats,Granada,Y,0.58,0.54,Left Foot,12.0,38,0-1,Raúl Fernández,Toni Lato,Toni Lato,Pass (Live),Sergi Darder,Pass (Live),,ST,LB,MF
+2,3,2023-08-26,La Liga,Matchweek 3,Away,Samu Costa,Granada,N,0.34,0.24,Left Foot,6.0,87,1-3,Raúl Fernández,,Vedat Muriqi,Shot,,,,MF,ST,
+3,4,2023-09-16,La Liga,Matchweek 5,Away,Vedat Muriqi,Celta Vigo,Y,0.56,0.97,Right Foot,8.0,85,0-0,Iván Villar,Dani Rodríguez,Dani Rodríguez,Shot,,,,ST,MF,
+5,6,2023-09-23,La Liga,Matchweek 6,Away,Abdón Prats,Girona,N,0.17,0.76,Right Foot,9.0,88,1-5,Paulo Gazzaniga,,Abdón Prats,Pass (Live),Pablo Maffeo,Pass (Live),,ST,ST,RB
+6,7,2023-09-23,La Liga,Matchweek 6,Away,Abdón Prats,Girona,N,0.32,0.38,Head,6.0,90+5,2-5,Paulo Gazzaniga,Sergi Darder,Sergi Darder,Pass (Dead),Pablo Maffeo,Shot,,ST,MF,RB
+7,8,2023-09-26,La Liga,Matchweek 7,Home,Vedat Muriqi,Barcelona,Y,0.24,0.86,Left Foot,9.0,8,0-0,Marc-André ter Stegen,Antonio Sánchez,Antonio Sánchez,Pass (Live),,,,ST,MF,
+8,9,2023-09-26,La Liga,Matchweek 7,Home,Abdón Prats,Barcelona,Y,0.12,0.17,Left Foot,16.0,45+3,1-1,Marc-André ter Stegen,Vedat Muriqi,Vedat Muriqi,Pass (Live),Predrag Rajković,Pass (Dead),,ST,ST,GK
+9,10,2023-09-30,La Liga,Matchweek 8,Away,Vedat Muriqi,Rayo Vallecano,Y,0.66,0.71,Left Foot,5.0,44,0-1,Stole Dimitrievski,Abdón Prats,Abdón Prats,Pass (Live),Dani Rodríguez,Pass (Dead),,ST,ST,MF
+10,11,2023-09-30,La Liga,Matchweek 8,Away,Antonio Sánchez,Rayo Vallecano,Y,0.59,0.61,Right Foot,19.0,59,1-1,Stole Dimitrievski,Sergi Darder,Sergi Darder,Pass (Live),Vedat Muriqi,Pass (Live),,MF,MF,ST
+11,12,2023-10-07,La Liga,Matchweek 9,Home,Dani Rodríguez,Valencia,Y*,0.13,0.87,Left Foot,12.0,5,0-0,Giorgi Mamardashvili,Vedat Muriqi,Antonio Sánchez,Pass (Live),Giovanni González,Pass (Live),Volley,MF,MF,RB
+12,13,2023-11-01,Copa del Rey,First round,Away,Abdón Prats,Boiro,Y*,,,,,25,0-0,Mario,Cyle Larin,Cyle Larin,,,,,ST,ST,
+14,15,2023-11-01,Copa del Rey,First round,Away,Cyle Larin,Boiro,Y,,,,,46,2-0,Mario,Pablo Maffeo,Pablo Maffeo,,,,,ST,RB,
+16,17,2023-11-29,La Liga,Matchweek 13,Home,Abdón Prats,Cádiz,Y,0.08,0.28,Head,10.0,45+1,0-1,David Gil,Pablo Maffeo,Pablo Maffeo,Pass (Live),Samu Costa,Pass (Live),,ST,RB,MF
+17,18,2023-12-06,Copa del Rey,Second round,Away,Dani Rodríguez,Valle Egüés,Y*,,,,,39,0-0,Izan Lecumberri,Manu Morlanes,Manu Morlanes,,,,,MF,MF,
+18,19,2023-12-06,Copa del Rey,Second round,Away,Javier Llabrés,Valle Egüés,Y,,,,,56,1-0,Izan Lecumberri,Antonio Sánchez,Antonio Sánchez,,,,,LW,MF,
+19,20,2023-12-06,Copa del Rey,Second round,Away,Javier Llabrés,Valle Egüés,Y,,,,,62,2-0,Izan Lecumberri,Giovanni González,Giovanni González,,,,,LW,RB,
+20,21,2023-12-09,La Liga,Matchweek 16,Home,Cyle Larin,Sevilla,Y,0.09,0.24,Left Foot,16.0,11,0-0,Marko Dmitrović,Samu Costa,Dani Rodríguez,Pass (Live),Sergi Darder,Pass (Live),,ST,MF,MF
+21,22,2023-12-21,La Liga,Matchweek 18,Home,Matija Nastasić,Osasuna,Y,0.11,0.39,Head,10.0,12,0-1,Sergio Herrera,Dani Rodríguez,Dani Rodríguez,Pass (Dead),Dani Rodríguez,Pass (Live),,CB,MF,MF
+22,23,2023-12-21,La Liga,Matchweek 18,Home,Dani Rodríguez,Osasuna,Y,0.1,0.31,Right Foot,19.0,53,1-1,Sergio Herrera,Pablo Maffeo,Pablo Maffeo,Pass (Live),Antonio Raillo,Pass (Live),,MF,RB,CB
+23,24,2023-12-21,La Liga,Matchweek 18,Home,Antonio Raillo,Osasuna,Y*,0.07,0.3,Head,13.0,62,2-1,Sergio Herrera,Dani Rodríguez,Dani Rodríguez,Pass (Dead),Pablo Maffeo,Fouled,,CB,MF,RB
+25,26,2024-01-07,Copa del Rey,Round of 32,Away,Cyle Larin,Burgos,N,,,,,74,1-0,Loic Badiashile,Abdón Prats,Abdón Prats,,,,,ST,ST,
+27,28,2024-01-13,La Liga,Matchweek 20,Home,Cyle Larin,Celta Vigo,Y,0.38,0.56,Right Foot,7.0,43,0-1,Vicente Guaita,Giovanni González,Giovanni González,Pass (Live),Manu Morlanes,Pass (Live),,ST,RB,MF
+28,29,2024-01-16,Copa del Rey,Round of 16,Away,Cyle Larin,Tenerife,N,,,,,120,0-0,Tomeu Nadal,Giovanni González,Giovanni González,,,,,ST,RB,
+29,30,2024-01-20,La Liga,Matchweek 21,Away,Javier Llabrés,Villarreal,N,0.1,0.24,Right Foot,11.0,90+1,0-1,Filip Jørgensen,Manu Morlanes,Manu Morlanes,Pass (Live),Antonio Raillo,Pass (Live),Volley,LW,MF,CB
+30,31,2024-01-24,Copa del Rey,Quarter-finals,Home,Cyle Larin,Girona,Y,,,,,21,0-0,Juan Carlos,Dani Rodríguez,Dani Rodríguez,,,,,ST,MF,
+33,34,2024-02-11,La Liga,Matchweek 24,Home,Antonio Sánchez,Rayo Vallecano,Y,0.45,0.73,Right Foot,7.0,48,0-0,Stole Dimitrievski,,Abdón Prats,Pass (Live),Jaume Costa,Pass (Live),Volley,MF,ST,LB
+34,35,2024-02-11,La Liga,Matchweek 24,Home,Vedat Muriqi,Rayo Vallecano,Y,0.18,0.48,Head,4.0,90+1,1-1,Stole Dimitrievski,Dani Rodríguez,Dani Rodríguez,Pass (Dead),Nemanja Radonjić,Take-On,,ST,MF,LW
+35,36,2024-02-18,La Liga,Matchweek 25,Home,Antonio Sánchez,Real Sociedad,Y,0.04,0.41,Left Foot,21.0,4,0-0,Álex Remiro,Cyle Larin,Martin Valjent,Pass (Dead),Cyle Larin,Pass (Live),,MF,CB,ST
+36,37,2024-02-24,La Liga,Matchweek 26,Away,Matija Nastasić,Alavés,Y,0.44,0.97,Right Foot,5.0,88,0-1,Antonio Sivera,,Cyle Larin,Shot,,,Deflected,CB,ST,
+37,38,2024-02-27,Copa del Rey,Semi-finals,Away,Giovanni González,Real Sociedad,Y,,,,,50,0-0,Álex Remiro,Jaume Costa,Jaume Costa,,,,,RB,LB,
+38,39,2024-03-03,La Liga,Matchweek 27,Home,Copete,Girona,Y,0.31,0.29,Left Foot,11.0,33,0-0,Paulo Gazzaniga,Cyle Larin,Omar Mascarell,Shot,,,,CB,MF,
+39,40,2024-03-16,La Liga,Matchweek 29,Home,Antonio Raillo,Granada,Y*,0.04,0.19,Head,12.0,85,0-0,Augusto Batalla,Sergi Darder,Sergi Darder,Pass (Dead),Antonio Raillo,Shot,,CB,MF,CB
+40,41,2024-04-06,Copa del Rey,Final,Away,Dani Rodríguez,Athletic Club,Y,,,,,21,0-0,Julen Agirrezabala,Antonio Raillo,Antonio Raillo,,,,,MF,CB,
+0,1,2023-08-13,La Liga,Matchweek 1,Away,Rubén García,Celta Vigo,Y,0.15,0.23,Head,8.0,24,0-0,Iván Villar,,Ante Budimir,Shot,,,,LW,ST,
+1,2,2023-08-13,La Liga,Matchweek 1,Away,Moi Gómez,Celta Vigo,Y,0.17,0.5,Right Foot,13.0,74,1-0,Iván Villar,,Rubén Peña,Shot,,,Deflected,LW,RB,
+2,3,2023-08-24,Conf Lg,Play-off round,Home,Ezequiel Ávila,Club Brugge,Y,,,,,78,0-1,Simon Mignolet,Jon Moncayola,Jon Moncayola,,,,,ST,MF,
+3,4,2023-08-27,La Liga,Matchweek 3,Away,Aimar Oroz,Valencia,Y,0.79,0.99,Right Foot,13.0,24,0-0,Giorgi Mamardashvili,,Pablo Ibáñez,Fouled,Pablo Ibáñez,Take-On,,MF,MF,MF
+4,5,2023-08-27,La Liga,Matchweek 3,Away,Nacho Vidal,Valencia,N,0.16,0.44,Left Foot,8.0,90+5,1-1,Giorgi Mamardashvili,Ante Budimir,Ante Budimir,Pass (Live),Jon Moncayola,Pass (Dead),Volley,RB,ST,MF
+5,6,2023-08-31,Conf Lg,Play-off round,Away,Johan Mojica,Club Brugge,Y,,,,,27,0-0,Simon Mignolet,Jon Moncayola,Jon Moncayola,,,,,LB,MF,
+6,7,2023-08-31,Conf Lg,Play-off round,Away,Ante Budimir,Club Brugge,Y,,,,,53,1-0,Simon Mignolet,Rubén Peña,Rubén Peña,,,,,ST,RB,
+7,8,2023-09-03,La Liga,Matchweek 4,Home,Ezequiel Ávila,Barcelona,N,0.06,0.25,Left Foot,24.0,76,0-1,Marc-André ter Stegen,Jesús Areso,Jesús Areso,Pass (Live),Jon Moncayola,Pass (Live),,ST,RB,MF
+8,9,2023-09-17,La Liga,Matchweek 5,Away,Iker Muñoz,Getafe,Y,0.17,0.52,Right Foot,8.0,45,0-1,David Soria,Aimar Oroz,Ezequiel Ávila,Pass (Dead),,,Volley,MF,ST,
+9,10,2023-09-17,La Liga,Matchweek 5,Away,Ante Budimir,Getafe,Y,0.79,0.96,Left Foot,13.0,57,1-2,David Soria,,Ante Budimir,Fouled,Ezequiel Ávila,Pass (Live),,ST,ST,ST
+10,11,2023-10-01,La Liga,Matchweek 8,Away,José Arnaiz,Alavés,Y,0.03,0.41,Right Foot,30.0,36,0-0,Antonio Sivera,Rubén Peña,Rubén Peña,Pass (Live),Rubén García,Pass (Live),,LW,RB,LW
+11,12,2023-10-01,La Liga,Matchweek 8,Away,Ante Budimir,Alavés,N,0.22,0.81,Left Foot,17.0,90,1-0,Antonio Sivera,Juan Cruz Armada,Juan Cruz Armada,Pass (Live),Aimar Oroz,Pass (Live),,ST,LB,MF
+12,13,2023-10-20,La Liga,Matchweek 10,Home,Ante Budimir,Granada,Y,0.59,0.69,Left Foot,11.0,11,0-0,André Ferreira,Ezequiel Ávila,Ezequiel Ávila,Pass (Live),Jon Moncayola,Pass (Live),,ST,ST,MF
+13,14,2023-10-20,La Liga,Matchweek 10,Home,Ante Budimir,Granada,Y,0.79,0.96,Left Foot,13.0,59,1-0,André Ferreira,,Ante Budimir,Fouled,Ezequiel Ávila,Pass (Live),,ST,ST,ST
+14,15,2023-10-29,La Liga,Matchweek 11,Away,Rubén García,Betis,N,0.22,0.35,Right Foot,11.0,85,0-1,Claudio Bravo,Catena,Catena,Pass (Live),David García,Pass (Live),,LW,CB,CB
+15,16,2023-11-04,La Liga,Matchweek 12,Home,Ante Budimir,Girona,Y,0.35,0.84,Left Foot,5.0,25,0-1,Paulo Gazzaniga,,Moi Gómez,Shot,,,,ST,LW,
+16,17,2023-11-04,La Liga,Matchweek 12,Home,Ante Budimir,Girona,Y,0.12,0.58,Head,8.0,55,1-1,Paulo Gazzaniga,Johan Mojica,Johan Mojica,Pass (Live),Aimar Oroz,Pass (Live),,ST,LB,MF
+17,18,2023-11-11,La Liga,Matchweek 13,Home,Ante Budimir,Las Palmas,Y,0.23,0.37,Head,8.0,73,0-1,Álvaro Vallés,Jon Moncayola,Jon Moncayola,Pass (Live),Kike Barja,Pass (Live),,ST,MF,RW
+18,19,2023-11-26,La Liga,Matchweek 14,Away,Catena,Villarreal,Y,0.12,0.2,Head,9.0,78,0-2,Filip Jørgensen,Ezequiel Ávila,Ezequiel Ávila,Pass (Dead),Johan Mojica,Fouled,,CB,ST,LB
+19,20,2023-12-02,La Liga,Matchweek 15,Home,Moi Gómez,Real Sociedad,Y,0.25,0.97,Right Foot,6.0,2,0-0,Álex Remiro,Ante Budimir,Jesús Areso,Pass (Live),Rubén García,Pass (Live),,LW,RB,LW
+21,22,2023-12-15,La Liga,Matchweek 17,Home,Raúl,Rayo Vallecano,N,0.19,0.49,Head,5.0,90+5,0-0,Stole Dimitrievski,José Arnaiz,José Arnaiz,Pass (Dead),Jesús Areso,Pass (Live),,CAM,LW,RB
+22,23,2023-12-21,La Liga,Matchweek 18,Away,Pablo Ibáñez,Mallorca,Y,0.62,0.92,Left Foot,5.0,7,0-0,Predrag Rajković,,José Arnaiz,Shot,,,,MF,LW,
+23,24,2023-12-21,La Liga,Matchweek 18,Away,Raúl,Mallorca,N,0.58,0.93,Right Foot,7.0,90+1,1-3,Predrag Rajković,Ezequiel Ávila,Ezequiel Ávila,Shot,,,,CAM,ST,
+25,26,2024-01-07,Copa del Rey,Round of 32,Away,José Arnaiz,Castellón,N,,,,,108,0-0,Brian Schwake,Jesús Areso,Jesús Areso,,,,,LW,RB,
+26,27,2024-01-21,La Liga,Matchweek 21,Home,Raúl,Getafe,Y,0.35,0.23,Left Foot,10.0,9,0-0,David Soria,Pablo Ibáñez,Pablo Ibáñez,Pass (Live),David García,Pass (Live),,CAM,MF,CB
+28,29,2024-01-21,La Liga,Matchweek 21,Home,Jesús Areso,Getafe,N,0.0,0.54,Right Foot,30.0,80,2-2,David Soria,,José Arnaiz,Pass (Dead),José Arnaiz,Fouled,,RB,LW,LW
+29,30,2024-01-28,La Liga,Matchweek 22,Away,Ante Budimir,Sevilla,Y,0.9,0.72,Right Foot,3.0,55,0-1,Ørjan Nyland,David García,David García,Shot,,,,ST,CB,
+30,31,2024-02-10,La Liga,Matchweek 24,Away,Ante Budimir,Real Sociedad,Y,0.14,0.19,Head,8.0,49,0-0,Álex Remiro,Jon Moncayola,Jon Moncayola,Pass (Dead),Johan Mojica,Take-On,,ST,MF,LB
+31,32,2024-02-17,La Liga,Matchweek 25,Home,Ante Budimir,Cádiz,Y,0.08,0.43,Head,11.0,63,0-0,Jeremías Ledesma,Rubén García,Rubén García,Pass (Live),Jesús Areso,Pass (Live),,ST,LW,RB
+32,33,2024-02-17,La Liga,Matchweek 25,Home,Ante Budimir,Cádiz,Y,0.61,0.3,Left Foot,14.0,90+1,1-0,Jeremías Ledesma,Jesús Areso,Jesús Areso,Pass (Live),Jesús Areso,Take-On,,ST,RB,RB
+33,34,2024-02-25,La Liga,Matchweek 26,Away,Unai García,Las Palmas,Y*,0.07,0.18,Right Foot,14.0,49,0-0,Álvaro Vallés,Johan Mojica,Johan Mojica,Pass (Live),Aimar Oroz,Shot,Volley,CB,LB,MF
+34,35,2024-03-04,La Liga,Matchweek 27,Home,Ante Budimir,Alavés,Y,0.03,0.41,Left Foot,23.0,76,0-0,Antonio Sivera,Rubén García,Rubén García,Pass (Live),Jon Moncayola,Pass (Live),,ST,LW,MF
+35,36,2024-03-16,La Liga,Matchweek 29,Home,Ante Budimir,Real Madrid,Y,0.32,0.66,Left Foot,4.0,7,0-1,Andriy Lunin,Jorge Herrando,Ante Budimir,Pass (Live),Jesús Areso,Pass (Dead),Deflected,ST,ST,RB
+36,37,2024-03-16,La Liga,Matchweek 29,Home,Iker Muñoz,Real Madrid,N,0.12,0.03,Right Foot,12.0,90+1,1-4,Andriy Lunin,Jesús Areso,Jesús Areso,Pass (Live),Lucas Torró,Pass (Live),,MF,RB,MF
+37,38,2024-03-30,La Liga,Matchweek 30,Away,José Arnaiz,Almería,Y,0.1,0.52,Right Foot,16.0,2,0-0,Luís Maximiano,Jesús Areso,Jesús Areso,Pass (Live),Jon Moncayola,Pass (Live),Deflected,LW,RB,MF
+38,39,2024-03-30,La Liga,Matchweek 30,Away,Ante Budimir,Almería,Y,0.71,0.64,Left Foot,12.0,9,1-0,Luís Maximiano,Jon Moncayola,Jon Moncayola,Pass (Live),,,,ST,MF,
+39,40,2024-03-30,La Liga,Matchweek 30,Away,Iker Muñoz,Almería,Y,0.14,0.48,Right Foot,15.0,61,2-0,Luís Maximiano,Catena,Catena,Pass (Live),Moi Gómez,Pass (Dead),Volley,MF,CB,LW
+0,1,2023-08-11,La Liga,Matchweek 1,Away,Isaac Palazón Camacho,Almería,Y,0.79,0.98,Left Foot,13.0,20,0-0,Diego Mariño,,Randy Ntekja,Fouled,Óscar Trejo,Pass (Live),,CAM,CAM,CAM
+2,3,2023-08-21,La Liga,Matchweek 2,Away,Álvaro García,Granada,Y,0.11,0.39,Left Foot,15.0,75,0-0,André Ferreira,Unai López,Unai López,Pass (Live),,,,LW,MF,
+3,4,2023-08-21,La Liga,Matchweek 2,Away,Pathé Ciss,Granada,N,0.11,0.47,Right Foot,17.0,79,1-0,André Ferreira,Raúl de Tomás,Raúl de Tomás,Pass (Live),Álvaro García,Pass (Live),,CDM,ST,LW
+4,5,2023-09-15,La Liga,Matchweek 5,Home,Isaac Palazón Camacho,Alavés,Y,0.79,0.99,Left Foot,13.0,43,0-0,Antonio Sivera,,Álvaro García,Fouled,Álvaro García,Pass (Live),,CAM,LW,LW
+5,6,2023-09-15,La Liga,Matchweek 5,Home,Jorge de Frutos,Alavés,N,0.41,0.83,Right Foot,8.0,82,1-0,Antonio Sivera,Álvaro García,Álvaro García,Pass (Live),Raúl de Tomás,Pass (Live),,RW,LW,ST
+6,7,2023-09-24,La Liga,Matchweek 6,Home,Kike Pérez,Villarreal,Y,0.55,0.31,Left Foot,15.0,16,0-1,Filip Jørgensen,Unai López,Unai López,Pass (Live),Florian Lejeune,Pass (Live),,CAM,MF,CB
+7,8,2023-09-30,La Liga,Matchweek 8,Home,Álvaro García,Mallorca,Y,0.07,0.25,Left Foot,8.0,4,0-0,Predrag Rajković,Sergio Camello,Sergio Camello,Pass (Live),Sergio Camello,Take-On,,LW,ST,ST
+9,10,2023-10-07,La Liga,Matchweek 9,Away,Óscar Valentín,Sevilla,Y*,0.28,0.16,Left Foot,5.0,21,0-0,Ørjan Nyland,,Pathé Ciss,Fouled,Iván Balliu,Pass (Dead),,MF,CDM,RB
+10,11,2023-10-07,La Liga,Matchweek 9,Away,Álvaro García,Sevilla,Y,0.56,0.85,Left Foot,17.0,26,1-0,Ørjan Nyland,Raúl de Tomás,Raúl de Tomás,Pass (Live),Pathé Ciss,Pass (Live),,LW,ST,CDM
+11,12,2023-10-22,La Liga,Matchweek 10,Away,Bebé,Las Palmas,N,0.79,0.99,Right Foot,13.0,90+1,0-0,Álvaro Vallés,,Óscar Trejo,Fouled,Unai López,Interception,,LW,CAM,MF
+12,13,2023-10-29,La Liga,Matchweek 11,Home,Abdul Mumin,Real Sociedad,Y,0.01,0.06,Right Foot,13.0,31,0-0,Álex Remiro,,Florian Lejeune,Shot,,,Deflected,CB,CB,
+13,14,2023-10-29,La Liga,Matchweek 11,Home,Bebé,Real Sociedad,N,0.02,0.29,Right Foot,25.0,90+1,1-2,Álex Remiro,Florian Lejeune,Florian Lejeune,Pass (Live),Kike Pérez,Pass (Live),,LW,CB,CAM
+15,16,2023-11-01,Copa del Rey,First round,Away,Radamel Falcao,Atl Lugones,Y,,,,,16,1-0,Rafa de Diego,Diego Méndez,Diego Méndez,,,,,ST,MF,
+16,17,2023-11-01,Copa del Rey,First round,Away,Sergio Camello,Atl Lugones,Y,,,,,40,2-0,Rafa de Diego,Pep Chavarría,Pep Chavarría,,,,,ST,LB,
+18,19,2023-11-01,Copa del Rey,First round,Away,Andrei Ratiu,Atl Lugones,Y,,,,,68,4-0,Rafa de Diego,José Pozo,José Pozo,,,,,RB,MF,
+19,20,2023-11-01,Copa del Rey,First round,Away,Bebé,Atl Lugones,Y*,,,,,79,5-0,Rafa de Diego,José Pozo,José Pozo,,,,,LW,MF,
+20,21,2023-11-11,La Liga,Matchweek 13,Home,Álvaro García,Girona,Y,0.4,0.76,Right Foot,13.0,5,0-0,Paulo Gazzaniga,Isaac Palazón Camacho,Isaac Palazón Camacho,,,,,LW,CAM,
+21,22,2023-11-25,La Liga,Matchweek 14,Home,Unai López,Barcelona,Y,0.01,0.19,Right Foot,31.0,39,0-0,Iñaki Peña,,Óscar Trejo,Shot,,,,MF,CAM,
+22,23,2023-12-06,Copa del Rey,Second round,Away,Radamel Falcao,Yeclano,N,,,,,89,0-0,Sergio Díaz,Unai López,Unai López,,,,,ST,MF,
+23,24,2023-12-06,Copa del Rey,Second round,Away,Raúl de Tomás,Yeclano,Y,,,,,90+4,1-0,Sergio Díaz,Pathé Ciss,Pathé Ciss,,,,,ST,CDM,
+24,25,2024-01-02,La Liga,Matchweek 19,Away,Sergio Camello,Getafe,Y,0.85,0.98,Right Foot,4.0,45+1,0-0,David Soria,,Iván Balliu,Shot,,,,ST,RB,
+25,26,2024-01-02,La Liga,Matchweek 19,Away,Sergio Camello,Getafe,Y,0.43,0.77,Left Foot,7.0,47,1-0,David Soria,Randy Ntekja,Sergio Camello,Take-On,Sergio Camello,Take-On,,ST,ST,ST
+26,27,2024-01-06,Copa del Rey,Round of 32,Away,Óscar Valentín,Huesca,N,,,,,118,0-0,Juan Pérez,Radamel Falcao,Radamel Falcao,,,,,MF,ST,
+29,30,2024-01-31,La Liga,Matchweek 20,Away,Álvaro García,Atlético Madrid,Y,0.1,0.28,Left Foot,18.0,42,0-1,Jan Oblak,Pep Chavarría,Pep Chavarría,Pass (Live),Isaac Palazón Camacho,Pass (Live),,LW,LB,CAM
+30,31,2024-02-05,La Liga,Matchweek 23,Home,Isaac Palazón Camacho,Sevilla,Y,0.12,0.78,Left Foot,10.0,29,0-1,Ørjan Nyland,Alfonso Espino,Alfonso Espino,Pass (Live),Sergio Camello,Pass (Live),Deflected,CAM,LB,ST
+31,32,2024-02-11,La Liga,Matchweek 24,Away,Álvaro García,Mallorca,Y,0.67,0.95,Right Foot,3.0,76,0-1,Predrag Rajković,,Isaac Palazón Camacho,Pass (Live),Óscar Trejo,Pass (Live),Volley,LW,CAM,CAM
+34,35,2024-03-17,La Liga,Matchweek 29,Home,Florian Lejeune,Betis,Y,0.08,0.28,Right Foot,27.0,40,0-0,Rui Silva,,Isaac Palazón Camacho,Fouled,Álvaro García,Pass (Live),,CB,CAM,LW
+35,36,2024-03-17,La Liga,Matchweek 29,Home,Sergio Camello,Betis,N,0.35,0.32,Right Foot,6.0,78,1-0,Rui Silva,,Sergio Camello,Shot,,,,ST,ST,
+0,1,2023-08-13,La Liga,Matchweek 1,Away,Ayoze Pérez,Villarreal,Y,0.12,0.45,Right Foot,15.0,20,0-0,Filip Jørgensen,Luiz Henrique,Luiz Henrique,Pass (Live),Luiz Henrique,Take-On,,LW,RW,RW
+1,2,2023-08-13,La Liga,Matchweek 1,Away,Willian José,Villarreal,N,0.25,0.34,Head,12.0,90+5,1-1,Filip Jørgensen,Youssouf Sabaly,Youssouf Sabaly,Pass (Live),Willian José,Pass (Live),,ST,RB,ST
+2,3,2023-08-27,La Liga,Matchweek 3,Away,Willian José,Athletic Club,Y,0.09,0.15,Left Foot,13.0,2,0-0,Unai Simón,,Ayoze Pérez,Pass (Live),Marc Roca,Pass (Live),Deflected,ST,LW,MF
+3,4,2023-08-27,La Liga,Matchweek 3,Away,Isco,Athletic Club,Y,0.09,0.39,Right Foot,14.0,10,1-0,Unai Simón,Aitor Ruibal,Aitor Ruibal,Pass (Live),Guido Rodríguez,Pass (Live),,MF,RW,MF
+4,5,2023-09-02,La Liga,Matchweek 4,Home,Willian José,Rayo Vallecano,Y,0.07,0.13,Right Foot,27.0,53,0-0,Stole Dimitrievski,,Ayoze Pérez,Fouled,Ayoze Pérez,Take-On,,ST,LW,LW
+5,6,2023-09-24,La Liga,Matchweek 6,Home,Guido Rodríguez,Cádiz,Y,0.06,0.32,Right Foot,12.0,60,0-1,Jeremías Ledesma,,Isco,Pass (Live),,,Volley,MF,MF,
+6,7,2023-09-28,La Liga,Matchweek 7,Away,Assane Diao,Granada,Y,0.04,0.17,Left Foot,23.0,51,0-0,André Ferreira,Ayoze Pérez,Ayoze Pérez,Interception,,,,LW,LW,
+7,8,2023-10-01,La Liga,Matchweek 8,Home,Assane Diao,Valencia,Y,0.34,0.27,Left Foot,5.0,41,0-0,Giorgi Mamardashvili,Marc Roca,Marc Bartra,Shot,,,,LW,CB,
+8,9,2023-10-01,La Liga,Matchweek 8,Home,Marc Roca,Valencia,Y,0.12,0.09,Head,7.0,52,1-0,Giorgi Mamardashvili,Isco,Isco,Pass (Dead),Isco,Shot,,MF,MF,MF
+9,10,2023-10-01,La Liga,Matchweek 8,Home,Abdessamad Ezzalzouli,Valencia,N,0.06,0.5,Right Foot,20.0,85,2-0,Giorgi Mamardashvili,William Carvalho,William Carvalho,Pass (Live),Abdessamad Ezzalzouli,Pass (Live),,LW,MF,LW
+10,11,2023-10-05,Europa Lg,Group stage,Home,Assane Diao,Sparta Prague,Y,0.51,0.18,Right Foot,13.0,9,0-1,Peter Vindahl Jensen,,Germán Pezzella,Interception,,,,LW,CB,
+11,12,2023-10-05,Europa Lg,Group stage,Home,Isco,Sparta Prague,Y,0.26,0.69,Head,7.0,79,1-1,Peter Vindahl Jensen,Guido Rodríguez,Guido Rodríguez,Pass (Live),Aitor Ruibal,Pass (Live),,MF,MF,RW
+12,13,2023-10-08,La Liga,Matchweek 9,Away,Ayoze Pérez,Alavés,Y,0.71,0.99,Right Foot,5.0,32,0-0,Antonio Sivera,,Guido Rodríguez,Shot,,,Volley,LW,MF,
+13,14,2023-10-21,La Liga,Matchweek 10,Away,Marc Roca,Getafe,Y,0.37,0.73,Right Foot,15.0,1,0-0,David Soria,Borja Iglesias,Borja Iglesias,Pass (Live),Marc Roca,Pass (Live),,MF,ST,MF
+14,15,2023-10-26,Europa Lg,Group stage,Away,Ayoze Pérez,Aris Limassol FC,Y,0.44,0.94,Right Foot,8.0,75,0-0,Vaná,Assane Diao,Assane Diao,Shot,,,,LW,LW,
+15,16,2023-10-29,La Liga,Matchweek 11,Home,Willian José,Osasuna,Y,0.28,0.9,Right Foot,4.0,45+1,0-0,Sergio Herrera,Isco,Isco,Pass (Live),Guido Rodríguez,Shot,,ST,MF,MF
+16,17,2023-10-29,La Liga,Matchweek 11,Home,Isco,Osasuna,Y,0.02,0.07,Right Foot,14.0,90+4,1-1,Sergio Herrera,,Isco,Pass (Live),Abdessamad Ezzalzouli,Pass (Dead),Volley,MF,MF,LW
+17,18,2023-11-01,Copa del Rey,First round,Away,Rodri,Hernán Cortés,Y,,,,,4,0-0,Ángel Luengo,Willian José,Willian José,,,,,CAM,ST,
+19,20,2023-11-01,Copa del Rey,First round,Away,Luiz Henrique,Hernán Cortés,Y,,,,,9,2-0,Ángel Luengo,Aitor Ruibal,Aitor Ruibal,,,,,RW,RW,
+20,21,2023-11-01,Copa del Rey,First round,Away,Abdessamad Ezzalzouli,Hernán Cortés,Y,,,,,16,3-0,Ángel Luengo,William Carvalho,William Carvalho,,,,,LW,MF,
+21,22,2023-11-01,Copa del Rey,First round,Away,Rodri,Hernán Cortés,Y,,,,,20,4-0,Ángel Luengo,Aitor Ruibal,Aitor Ruibal,,,,,CAM,RW,
+23,24,2023-11-01,Copa del Rey,First round,Away,Rodri,Hernán Cortés,Y,,,,,37,6-0,Ángel Luengo,William Carvalho,William Carvalho,,,,,CAM,MF,
+25,26,2023-11-01,Copa del Rey,First round,Away,Willian José,Hernán Cortés,Y,,,,,43,8-0,Ángel Luengo,Rodri,Rodri,,,,,ST,CAM,
+28,29,2023-11-01,Copa del Rey,First round,Away,Assane Diao,Hernán Cortés,N,,,,,90,11-0,Alberto Galeano,Rodri,Rodri,,,,,LW,CAM,
+29,30,2023-11-04,La Liga,Matchweek 12,Home,Willian José,Mallorca,Y,0.31,0.69,Right Foot,6.0,7,0-0,Predrag Rajković,Juan Miranda,Juan Miranda,Pass (Live),Isco,Pass (Live),,ST,LB,MF
+30,31,2023-11-04,La Liga,Matchweek 12,Home,Ayoze Pérez,Mallorca,Y,0.09,0.26,Right Foot,14.0,65,1-0,Predrag Rajković,Luiz Henrique,Isco,Pass (Live),Guido Rodríguez,Pass (Live),,LW,MF,MF
+31,32,2023-11-09,Europa Lg,Group stage,Home,Borja Iglesias,Aris Limassol FC,Y,0.54,0.99,Left Foot,6.0,34,0-0,Vaná,Abner,Abner,Pass (Live),Abdessamad Ezzalzouli,Pass (Live),,ST,LB,LW
+32,33,2023-11-09,Europa Lg,Group stage,Home,Aitor Ruibal,Aris Limassol FC,Y,0.06,0.29,Right Foot,16.0,64,1-0,Vaná,Ayoze Pérez,Ayoze Pérez,Pass (Live),Abdessamad Ezzalzouli,Pass (Live),,RW,LW,LW
+33,34,2023-11-09,Europa Lg,Group stage,Home,Marc Roca,Aris Limassol FC,Y,0.15,0.55,Left Foot,7.0,79,2-0,Vaná,Nabil Fekir,Nabil Fekir,,,,,MF,CAM,
+34,35,2023-11-09,Europa Lg,Group stage,Home,Abdessamad Ezzalzouli,Aris Limassol FC,Y,0.24,0.1,Right Foot,13.0,90+4,3-1,Vaná,Isco,Isco,Pass (Live),Guido Rodríguez,Pass (Dead),,LW,MF,MF
+36,37,2023-11-26,La Liga,Matchweek 14,Home,Willian José,Las Palmas,Y,0.3,0.92,Left Foot,7.0,19,0-0,Álvaro Vallés,,Isco,Shot,,,"Deflected, Volley",ST,MF,
+37,38,2023-12-06,Copa del Rey,Second round,Away,Abdessamad Ezzalzouli,Villanovense,Y,,,,,89,0-1,Alejandro Lázaro,Marc Roca,Marc Roca,,,,,LW,MF,
+38,39,2023-12-06,Copa del Rey,Second round,Away,Borja Iglesias,Villanovense,Y,,,,,90+3,1-1,Alejandro Lázaro,Juan Miranda,Juan Miranda,,,,,ST,LB,
+39,40,2023-12-09,La Liga,Matchweek 16,Home,Aitor Ruibal,Real Madrid,Y,0.03,0.39,Right Foot,26.0,66,0-1,Andriy Lunin,Willian José,Willian José,Pass (Live),Ayoze Pérez,Pass (Live),,RW,ST,LW
+40,41,2023-12-14,Europa Lg,Group stage,Home,Juan Miranda,Rangers,Y,0.07,0.8,Left Foot,14.0,14,0-1,Jack Butland,Borja Iglesias,Borja Iglesias,Pass (Live),Ayoze Pérez,Pass (Live),,LB,ST,LW
+41,42,2023-12-14,Europa Lg,Group stage,Home,Ayoze Pérez,Rangers,Y,0.13,0.55,Right Foot,14.0,37,1-2,Jack Butland,Isco,Isco,Pass (Live),Borja Iglesias,Pass (Live),,LW,MF,ST
+42,43,2023-12-21,La Liga,Matchweek 18,Home,Germán Pezzella,Girona,Y,0.03,0.25,Right Foot,17.0,88,0-1,Paulo Gazzaniga,William Carvalho,William Carvalho,Shot,,,,CB,MF,
+43,44,2024-01-03,La Liga,Matchweek 19,Away,Aitor Ruibal,Celta Vigo,Y,0.31,0.97,Right Foot,9.0,6,0-0,Vicente Guaita,Isco,Isco,Pass (Live),Aitor Ruibal,Pass (Live),,RW,MF,RW
+44,45,2024-01-13,La Liga,Matchweek 20,Home,Isco,Granada,Y,0.02,0.4,Right Foot,16.0,76,0-0,Augusto Batalla,Marc Roca,Marc Roca,Pass (Live),Isco,Pass (Live),Deflected,MF,MF,MF
+45,46,2024-01-21,La Liga,Matchweek 21,Home,Isco,Barcelona,Y,0.13,0.18,Left Foot,12.0,56,0-2,Iñaki Peña,,Luiz Henrique,Take-On,Héctor Bellerín,Pass (Live),Volley,MF,RW,RB
+46,47,2024-01-21,La Liga,Matchweek 21,Home,Isco,Barcelona,Y,0.14,0.19,Right Foot,6.0,59,1-2,Iñaki Peña,Luiz Henrique,Luiz Henrique,Pass (Live),Héctor Bellerín,Pass (Live),Volley,MF,RW,RB
+47,48,2024-01-27,La Liga,Matchweek 22,Away,Sergi Altimira,Mallorca,Y,0.03,0.3,Right Foot,26.0,45+1,0-0,Predrag Rajković,Nabil Fekir,Nabil Fekir,Pass (Live),Luiz Henrique,Pass (Live),,MF,CAM,RW
+48,49,2024-02-04,La Liga,Matchweek 23,Home,Isco,Getafe,Y,0.79,0.99,Right Foot,13.0,35,0-1,David Soria,,Johnny Cardoso,Fouled,Sokratis Papastathopoulos,Pass (Live),,MF,MF,CB
+49,50,2024-02-09,La Liga,Matchweek 24,Away,Willian José,Cádiz,Y,0.16,0.28,Right Foot,16.0,6,0-0,Jeremías Ledesma,Johnny Cardoso,Johnny Cardoso,Pass (Live),Johnny Cardoso,Tackle,,ST,MF,MF
+50,51,2024-02-09,La Liga,Matchweek 24,Away,Pablo Fornals,Cádiz,Y,0.04,0.41,Left Foot,19.0,46,1-0,Jeremías Ledesma,Willian José,Willian José,Pass (Live),,,Deflected,CAM,ST,
+51,52,2024-02-22,Conf Lg,Knockout round play-offs,Away,Cédric Bakambu,Dinamo Zagreb,Y,0.31,0.98,Right Foot,3.0,38,0-0,Ivan Nevistić,Aitor Ruibal,Aitor Ruibal,Pass (Live),Chadi Riad,Pass (Live),,ST,RW,CB
+52,53,2024-02-25,La Liga,Matchweek 26,Home,Ezequiel Ávila,Athletic Club,Y,0.47,0.46,Left Foot,12.0,13,0-0,Unai Simón,Willian José,Willian José,Pass (Live),Johnny Cardoso,Pass (Live),,ST,ST,MF
+54,55,2024-02-25,La Liga,Matchweek 26,Home,Johnny Cardoso,Athletic Club,Y,0.03,0.36,Right Foot,27.0,67,2-1,Unai Simón,Nabil Fekir,Nabil Fekir,Pass (Live),Willian José,Pass (Live),,MF,CAM,ST
+55,56,2024-03-03,La Liga,Matchweek 27,Away,William Carvalho,Atlético Madrid,N,0.04,0.21,Right Foot,29.0,62,0-2,Jan Oblak,Johnny Cardoso,Johnny Cardoso,Pass (Live),,,,MF,MF,
+56,57,2024-03-10,La Liga,Matchweek 28,Home,Guido Rodríguez,Villarreal,Y,0.1,0.52,Right Foot,10.0,30,0-0,Filip Jørgensen,William Carvalho,William Carvalho,Pass (Live),Ezequiel Ávila,Fouled,Volley,MF,MF,ST
+57,58,2024-03-10,La Liga,Matchweek 28,Home,Willian José,Villarreal,Y,0.18,0.27,Right Foot,9.0,45+2,1-1,Filip Jørgensen,Pablo Fornals,Pablo Fornals,Pass (Live),William Carvalho,Pass (Live),"Deflected, Volley",ST,CAM,MF
+58,59,2024-03-31,La Liga,Matchweek 30,Away,Willian José,Girona,Y,0.1,0.06,Left Foot,32.0,45+4,0-1,Paulo Gazzaniga,,Willian José,Interception,,,,ST,ST,
+59,60,2024-03-31,La Liga,Matchweek 30,Away,Willian José,Girona,Y,0.32,0.17,Left Foot,11.0,76,1-2,Paulo Gazzaniga,Pablo Fornals,Pablo Fornals,Pass (Live),Aitor Ruibal,Pass (Live),,ST,CAM,RW
+60,61,2024-04-12,La Liga,Matchweek 31,Home,Juan Miranda,Celta Vigo,Y,0.24,0.13,Left Foot,13.0,53,0-0,Vicente Guaita,Héctor Bellerín,Héctor Bellerín,Pass (Live),Pablo Fornals,Pass (Live),,LB,RB,CAM
+61,62,2024-04-12,La Liga,Matchweek 31,Home,Nabil Fekir,Celta Vigo,N,0.04,0.26,Right Foot,14.0,83,1-0,Vicente Guaita,Isco,Nabil Fekir,Take-On,Isco,Pass (Live),,CAM,CAM,MF
+0,1,2023-08-12,La Liga,Matchweek 1,Away,Rodrygo,Athletic Club,Y,0.07,0.07,Right Foot,13.0,28,0-0,Unai Simón,Dani Carvajal,Dani Carvajal,Pass (Live),Rodrygo,Pass (Live),,RW,RB,RW
+1,2,2023-08-12,La Liga,Matchweek 1,Away,Jude Bellingham,Athletic Club,Y,0.08,0.47,Right Foot,15.0,36,1-0,Unai Simón,David Alaba,David Alaba,Pass (Dead),Jude Bellingham,Shot,Volley,CAM,CB,CAM
+2,3,2023-08-19,La Liga,Matchweek 2,Away,Jude Bellingham,Almería,Y,0.18,0.98,Right Foot,8.0,19,0-1,Luís Maximiano,,Federico Valverde,Shot,,,,CAM,MF,
+3,4,2023-08-19,La Liga,Matchweek 2,Away,Jude Bellingham,Almería,Y,0.35,0.61,Head,9.0,60,1-1,Luís Maximiano,Toni Kroos,Toni Kroos,Pass (Live),Aurélien Tchouaméni,Pass (Live),,CAM,MF,CDM
+4,5,2023-08-19,La Liga,Matchweek 2,Away,Vinicius Júnior,Almería,Y,0.12,0.42,Right Foot,16.0,73,2-1,Luís Maximiano,Jude Bellingham,Jude Bellingham,Pass (Live),Federico Valverde,Pass (Live),Deflected,LW,CAM,MF
+5,6,2023-08-25,La Liga,Matchweek 3,Away,Jude Bellingham,Celta Vigo,Y,0.19,0.51,Head,6.0,81,0-0,Iván Villar,Joselu,Joselu,Pass (Live),Toni Kroos,Pass (Dead),,CAM,ST,MF
+6,7,2023-09-02,La Liga,Matchweek 4,Home,Joselu,Getafe,Y,0.51,0.37,Right Foot,7.0,47,0-1,David Soria,,Aurélien Tchouaméni,Shot,,,,ST,CDM,
+7,8,2023-09-02,La Liga,Matchweek 4,Home,Jude Bellingham,Getafe,Y,0.7,0.85,Left Foot,6.0,90+5,1-1,David Soria,,Lucas Vázquez,Shot,,,,CAM,RB,
+8,9,2023-09-17,La Liga,Matchweek 5,Home,Federico Valverde,Real Sociedad,Y,0.06,0.39,Right Foot,21.0,46,0-1,Álex Remiro,Fran Garcia,Fran Garcia,Pass (Live),Rodrygo,Pass (Live),,MF,LB,RW
+9,10,2023-09-17,La Liga,Matchweek 5,Home,Joselu,Real Sociedad,Y,0.33,0.81,Head,8.0,60,1-1,Álex Remiro,Fran Garcia,Fran Garcia,Pass (Live),Aurélien Tchouaméni,Pass (Live),,ST,LB,CDM
+10,11,2023-09-20,Champions Lg,Group stage,Home,Jude Bellingham,Union Berlin,Y,0.98,0.93,Right Foot,2.0,90+4,0-0,Frederik Rønnow,,Federico Valverde,Shot,,,,CAM,MF,
+11,12,2023-09-24,La Liga,Matchweek 6,Away,Toni Kroos,Atlético Madrid,Y,0.07,0.22,Right Foot,22.0,35,0-2,Jan Oblak,,Lucas Vázquez,Pass (Live),Eduardo Camavinga,Pass (Live),,MF,RB,CDM
+12,13,2023-09-27,La Liga,Matchweek 7,Home,Brahim Díaz,Las Palmas,Y,0.2,0.8,Right Foot,13.0,45+3,0-0,Álvaro Vallés,Lucas Vázquez,Lucas Vázquez,Pass (Live),Ferland Mendy,Pass (Live),Deflected,CAM,RB,LB
+13,14,2023-09-27,La Liga,Matchweek 7,Home,Joselu,Las Palmas,Y,0.1,0.81,Head,11.0,54,1-0,Álvaro Vallés,Rodrygo,Rodrygo,Pass (Live),Eduardo Camavinga,Pass (Live),,ST,RW,CDM
+14,15,2023-09-30,La Liga,Matchweek 8,Away,Joselu,Girona,Y,0.66,0.93,Right Foot,6.0,17,0-0,Paulo Gazzaniga,Jude Bellingham,Jude Bellingham,Pass (Live),Toni Kroos,Pass (Live),,ST,CAM,MF
+15,16,2023-09-30,La Liga,Matchweek 8,Away,Aurélien Tchouaméni,Girona,Y,0.24,0.34,Head,9.0,21,1-0,Paulo Gazzaniga,Toni Kroos,Toni Kroos,Pass (Dead),Federico Valverde,Shot,,CDM,MF,MF
+16,17,2023-09-30,La Liga,Matchweek 8,Away,Jude Bellingham,Girona,Y,0.5,0.86,Right Foot,10.0,71,2-0,Paulo Gazzaniga,Joselu,Joselu,Shot,,,Volley,CAM,ST,
+17,18,2023-10-03,Champions Lg,Group stage,Away,Vinicius Júnior,Napoli,Y,0.09,0.87,Right Foot,9.0,27,0-1,Alex Meret,Jude Bellingham,Jude Bellingham,Pass (Live),Jude Bellingham,Interception,,LW,CAM,CAM
+18,19,2023-10-03,Champions Lg,Group stage,Away,Jude Bellingham,Napoli,Y,0.1,0.49,Right Foot,11.0,34,1-1,Alex Meret,Eduardo Camavinga,Jude Bellingham,Take-On,Eduardo Camavinga,Pass (Live),,CAM,CAM,CDM
+20,21,2023-10-07,La Liga,Matchweek 9,Home,Jude Bellingham,Osasuna,Y,0.21,0.22,Left Foot,12.0,9,0-0,Sergio Herrera,Dani Carvajal,Dani Carvajal,Pass (Live),Luka Modrić,Pass (Live),,CAM,RB,MF
+21,22,2023-10-07,La Liga,Matchweek 9,Home,Jude Bellingham,Osasuna,Y,0.42,0.34,Right Foot,10.0,54,1-0,Sergio Herrera,Federico Valverde,Federico Valverde,Pass (Live),Jude Bellingham,Pass (Live),,CAM,MF,CAM
+22,23,2023-10-07,La Liga,Matchweek 9,Home,Vinicius Júnior,Osasuna,Y,0.91,0.98,Right Foot,3.0,65,2-0,Sergio Herrera,Federico Valverde,Vinicius Júnior,Take-On,Federico Valverde,Pass (Live),,LW,LW,MF
+23,24,2023-10-07,La Liga,Matchweek 9,Home,Joselu,Osasuna,Y,0.15,0.83,Right Foot,12.0,70,3-0,Sergio Herrera,Vinicius Júnior,Vinicius Júnior,Pass (Live),Aurélien Tchouaméni,Pass (Live),,ST,LW,CDM
+24,25,2023-10-21,La Liga,Matchweek 10,Away,Dani Carvajal,Sevilla,Y*,0.1,0.33,Head,8.0,78,0-1,Ørjan Nyland,Toni Kroos,Toni Kroos,Pass (Dead),Dani Carvajal,Fouled,,RB,MF,RB
+25,26,2023-10-24,Champions Lg,Group stage,Away,Rodrygo,Braga,Y,0.35,0.87,Right Foot,6.0,16,0-0,Matheus,,Vinicius Júnior,Take-On,Nacho,Pass (Live),,RW,LW,CB
+26,27,2023-10-24,Champions Lg,Group stage,Away,Jude Bellingham,Braga,Y,0.13,0.45,Right Foot,18.0,61,1-0,Matheus,Vinicius Júnior,Vinicius Júnior,Pass (Live),Rodrygo,Pass (Live),,CAM,LW,RW
+27,28,2023-10-28,La Liga,Matchweek 11,Away,Jude Bellingham,Barcelona,Y,0.03,0.16,Right Foot,31.0,68,0-1,Marc-André ter Stegen,,Eduardo Camavinga,Pass (Live),Luka Modrić,Pass (Live),,CAM,CDM,MF
+28,29,2023-10-28,La Liga,Matchweek 11,Away,Jude Bellingham,Barcelona,Y,0.62,0.77,Right Foot,5.0,90+2,1-1,Marc-André ter Stegen,Luka Modrić,Dani Carvajal,Pass (Live),Antonio Rüdiger,Pass (Live),Volley,CAM,RB,CB
+29,30,2023-11-08,Champions Lg,Group stage,Home,Brahim Díaz,Braga,Y,0.65,0.95,Left Foot,7.0,27,0-0,Matheus,Rodrygo,Rodrygo,Pass (Live),Ferland Mendy,Pass (Live),,CAM,RW,LB
+30,31,2023-11-08,Champions Lg,Group stage,Home,Vinicius Júnior,Braga,Y,0.17,0.39,Right Foot,11.0,58,1-0,Matheus,Lucas Vázquez,Lucas Vázquez,Pass (Live),Federico Valverde,Pass (Live),,LW,RB,MF
+31,32,2023-11-08,Champions Lg,Group stage,Home,Rodrygo,Braga,Y,0.73,0.67,Right Foot,11.0,61,2-0,Matheus,Vinicius Júnior,Vinicius Júnior,Pass (Live),Rodrygo,Pass (Live),,RW,LW,RW
+32,33,2023-11-11,La Liga,Matchweek 13,Home,Dani Carvajal,Valencia,Y,0.02,0.23,Left Foot,23.0,3,0-0,Giorgi Mamardashvili,Toni Kroos,Toni Kroos,Pass (Live),Brahim Díaz,Pass (Dead),Volley,RB,MF,CAM
+33,34,2023-11-11,La Liga,Matchweek 13,Home,Vinicius Júnior,Valencia,Y,0.25,0.91,Other,9.0,42,1-0,Giorgi Mamardashvili,Rodrygo,Rodrygo,Pass (Live),Dani Carvajal,Pass (Live),,LW,RW,RB
+34,35,2023-11-11,La Liga,Matchweek 13,Home,Vinicius Júnior,Valencia,Y,0.04,0.22,Right Foot,22.0,49,2-0,Giorgi Mamardashvili,Rodrygo,Rodrygo,Pass (Live),,,,LW,RW,
+35,36,2023-11-11,La Liga,Matchweek 13,Home,Rodrygo,Valencia,Y,0.47,0.65,Right Foot,15.0,50,3-0,Giorgi Mamardashvili,,Rodrygo,Interception,,,,RW,RW,
+36,37,2023-11-11,La Liga,Matchweek 13,Home,Rodrygo,Valencia,Y,0.28,0.23,Left Foot,11.0,84,4-0,Giorgi Mamardashvili,Fran Garcia,Rodrygo,Take-On,Fran Garcia,Pass (Live),,RW,RW,LB
+37,38,2023-11-26,La Liga,Matchweek 14,Away,Rodrygo,Cádiz,Y,0.16,0.5,Right Foot,18.0,14,0-0,Jeremías Ledesma,,Jude Bellingham,Pass (Live),Joselu,Pass (Live),,RW,CAM,ST
+38,39,2023-11-26,La Liga,Matchweek 14,Away,Rodrygo,Cádiz,Y,0.34,0.82,Right Foot,15.0,64,1-0,Jeremías Ledesma,Luka Modrić,Rodrygo,Take-On,Luka Modrić,Pass (Live),,RW,RW,MF
+39,40,2023-11-26,La Liga,Matchweek 14,Away,Jude Bellingham,Cádiz,Y,0.07,0.31,Left Foot,12.0,74,2-0,Jeremías Ledesma,Rodrygo,Rodrygo,Pass (Live),Rodrygo,Take-On,,CAM,RW,RW
+40,41,2023-11-29,Champions Lg,Group stage,Home,Rodrygo,Napoli,Y,0.07,0.6,Right Foot,17.0,11,0-1,Alex Meret,Brahim Díaz,Brahim Díaz,Pass (Live),Brahim Díaz,Take-On,,RW,CAM,CAM
+41,42,2023-11-29,Champions Lg,Group stage,Home,Jude Bellingham,Napoli,Y,0.18,0.19,Head,11.0,22,1-1,Alex Meret,David Alaba,David Alaba,Pass (Live),Toni Kroos,Pass (Live),,CAM,CB,MF
+42,43,2023-11-29,Champions Lg,Group stage,Home,Nicolás Paz,Napoli,N,0.01,0.24,Left Foot,30.0,84,2-2,Alex Meret,Antonio Rüdiger,Antonio Rüdiger,Pass (Live),Dani Carvajal,Pass (Live),,CAM,CB,RB
+43,44,2023-11-29,Champions Lg,Group stage,Home,Joselu,Napoli,N,0.34,0.94,Right Foot,4.0,90+4,3-2,Alex Meret,Jude Bellingham,Jude Bellingham,Pass (Live),Nacho,Pass (Live),,ST,CAM,CB
+44,45,2023-12-02,La Liga,Matchweek 15,Home,Brahim Díaz,Granada,Y,0.25,0.85,Left Foot,9.0,26,0-0,André Ferreira,Toni Kroos,Toni Kroos,Pass (Live),Brahim Díaz,Pass (Live),,CAM,MF,CAM
+45,46,2023-12-02,La Liga,Matchweek 15,Home,Rodrygo,Granada,Y,0.12,0.14,Right Foot,9.0,57,1-0,André Ferreira,,Jude Bellingham,Shot,,,Volley,RW,CAM,
+46,47,2023-12-09,La Liga,Matchweek 16,Away,Jude Bellingham,Betis,Y,0.52,0.62,Right Foot,10.0,53,0-0,Rui Silva,Brahim Díaz,Brahim Díaz,Pass (Live),Jude Bellingham,Pass (Live),,CAM,CAM,CAM
+47,48,2023-12-12,Champions Lg,Group stage,Away,Joselu,Union Berlin,Y,0.35,0.91,Head,6.0,61,0-1,Frederik Rønnow,Rodrygo,Rodrygo,Pass (Live),Lucas Vázquez,Pass (Live),,ST,RW,RB
+48,49,2023-12-12,Champions Lg,Group stage,Away,Joselu,Union Berlin,Y,0.21,0.43,Head,5.0,72,1-1,Frederik Rønnow,Fran Garcia,Fran Garcia,Pass (Live),Luka Modrić,Pass (Live),,ST,LB,MF
+49,50,2023-12-12,Champions Lg,Group stage,Away,Dani Ceballos,Union Berlin,Y,0.09,0.51,Right Foot,16.0,89,2-2,Frederik Rønnow,Jude Bellingham,Jude Bellingham,Pass (Live),Fran Garcia,Pass (Live),Deflected,CAM,CAM,LB
+50,51,2023-12-17,La Liga,Matchweek 17,Home,Jude Bellingham,Villarreal,Y,0.19,0.54,Head,9.0,25,0-0,Filip Jørgensen,Luka Modrić,Luka Modrić,Pass (Live),Lucas Vázquez,Pass (Live),,CAM,MF,RB
+51,52,2023-12-17,La Liga,Matchweek 17,Home,Rodrygo,Villarreal,Y,0.41,0.35,Right Foot,7.0,37,1-0,Filip Jørgensen,Lucas Vázquez,Antonio Rüdiger,Shot,,,,RW,CB,
+52,53,2023-12-17,La Liga,Matchweek 17,Home,Brahim Díaz,Villarreal,Y,0.29,0.79,Right Foot,16.0,64,2-1,Filip Jørgensen,Fran Garcia,Brahim Díaz,Take-On,Brahim Díaz,Take-On,,CAM,CAM,CAM
+53,54,2023-12-17,La Liga,Matchweek 17,Home,Luka Modrić,Villarreal,Y*,0.19,0.14,Left Foot,15.0,68,3-1,Filip Jørgensen,,Rodrygo,Take-On,,,,MF,RW,
+54,55,2023-12-21,La Liga,Matchweek 18,Away,Lucas Vázquez,Alavés,Y,0.18,0.47,Head,9.0,90+2,0-0,Antonio Sivera,Toni Kroos,Toni Kroos,Pass (Dead),Antonio Rüdiger,Pass (Live),,RB,MF,CB
+55,56,2024-01-03,La Liga,Matchweek 19,Home,Antonio Rüdiger,Mallorca,Y,0.08,0.58,Head,9.0,78,0-0,Predrag Rajković,Luka Modrić,Luka Modrić,Pass (Dead),Luka Modrić,Pass (Live),,CB,MF,MF
+58,59,2024-01-06,Copa del Rey,Round of 32,Away,Rodrygo,Arandina,N,,,,,90+1,2-0,Adrián Álvarez,Brahim Díaz,Brahim Díaz,,,,,RW,CAM,
+59,60,2024-01-10,Supercopa de España,Semi-finals,Home,Antonio Rüdiger,Atlético Madrid,Y,,,,,20,,,Luka Modrić,Luka Modrić,,,,,CB,MF,
+60,61,2024-01-10,Supercopa de España,Semi-finals,Home,Ferland Mendy,Atlético Madrid,Y,,,,,29,,,Dani Carvajal,Dani Carvajal,,,,,LB,RB,
+62,63,2024-01-10,Supercopa de España,Semi-finals,Home,Joselu,Atlético Madrid,N,,,,,116,,,Dani Carvajal,Dani Carvajal,,,,,ST,RB,
+63,64,2024-01-10,Supercopa de España,Semi-finals,Home,Brahim Díaz,Atlético Madrid,N,,,,,120+2,,,Joselu,Joselu,,,,,CAM,ST,
+64,65,2024-01-14,Supercopa de España,Final,Home,Vinicius Júnior,Barcelona,Y,,,,,7,,,Jude Bellingham,Jude Bellingham,,,,,LW,CAM,
+65,66,2024-01-14,Supercopa de España,Final,Home,Vinicius Júnior,Barcelona,Y,,,,,10,,,Rodrygo,Rodrygo,,,,,LW,RW,
+69,70,2024-01-18,Copa del Rey,Round of 16,Away,Joselu,Atlético Madrid,N,,,,,82,1-2,Jan Oblak,Jude Bellingham,Jude Bellingham,,,,,ST,CAM,
+71,72,2024-01-21,La Liga,Matchweek 21,Home,Vinicius Júnior,Almería,Y,0.09,0.86,Other,9.0,67,1-2,Luís Maximiano,Aurélien Tchouaméni,Aurélien Tchouaméni,Pass (Live),Dani Carvajal,Pass (Live),,LW,CDM,RB
+72,73,2024-01-21,La Liga,Matchweek 21,Home,Dani Carvajal,Almería,Y,0.31,0.96,Right Foot,1.0,90+9,2-2,Luís Maximiano,Jude Bellingham,Jude Bellingham,Pass (Live),Brahim Díaz,Pass (Live),,RB,CAM,CAM
+73,74,2024-01-27,La Liga,Matchweek 22,Away,Vinicius Júnior,Las Palmas,Y,0.16,0.44,Left Foot,10.0,65,0-1,Álvaro Vallés,Eduardo Camavinga,Eduardo Camavinga,Pass (Live),Toni Kroos,Pass (Live),Volley,LW,CDM,MF
+74,75,2024-01-27,La Liga,Matchweek 22,Away,Aurélien Tchouaméni,Las Palmas,N,0.1,0.2,Head,8.0,84,1-1,Álvaro Vallés,Toni Kroos,Toni Kroos,Pass (Dead),Vinicius Júnior,Shot,Deflected,CDM,MF,LW
+75,76,2024-02-01,La Liga,Matchweek 20,Away,Joselu,Getafe,Y,0.36,0.22,Head,7.0,14,0-0,David Soria,Lucas Vázquez,Lucas Vázquez,Pass (Live),Federico Valverde,Pass (Live),,ST,RB,MF
+76,77,2024-02-01,La Liga,Matchweek 20,Away,Joselu,Getafe,Y,0.1,0.19,Left Foot,19.0,56,1-0,David Soria,Vinicius Júnior,Vinicius Júnior,Pass (Live),Ferland Mendy,Pass (Live),,ST,LW,LB
+77,78,2024-02-04,La Liga,Matchweek 23,Home,Brahim Díaz,Atlético Madrid,Y,0.75,0.97,Right Foot,4.0,20,0-0,Jan Oblak,,Brahim Díaz,Take-On,,,,CAM,CAM,
+78,79,2024-02-10,La Liga,Matchweek 24,Home,Vinicius Júnior,Girona,Y,0.02,0.35,Right Foot,28.0,6,0-0,Paulo Gazzaniga,Federico Valverde,Federico Valverde,Pass (Live),Jude Bellingham,Pass (Live),,LW,MF,CAM
+79,80,2024-02-10,La Liga,Matchweek 24,Home,Jude Bellingham,Girona,Y,0.65,0.23,Left Foot,9.0,35,1-0,Paulo Gazzaniga,Vinicius Júnior,Jude Bellingham,Take-On,Vinicius Júnior,Pass (Live),,CAM,CAM,LW
+80,81,2024-02-10,La Liga,Matchweek 24,Home,Jude Bellingham,Girona,Y,0.87,0.91,Left Foot,4.0,54,2-0,Paulo Gazzaniga,,Vinicius Júnior,Shot,,,,CAM,LW,
+81,82,2024-02-10,La Liga,Matchweek 24,Home,Rodrygo,Girona,Y,0.17,0.36,Right Foot,17.0,61,3-0,Paulo Gazzaniga,Vinicius Júnior,Vinicius Júnior,Pass (Live),,,,RW,LW,
+82,83,2024-02-13,Champions Lg,Round of 16,Away,Brahim Díaz,RB Leipzig,Y,0.08,0.4,Left Foot,16.0,48,0-0,Péter Gulácsi,Dani Carvajal,Brahim Díaz,Take-On,Brahim Díaz,Take-On,,CAM,CAM,CAM
+83,84,2024-02-18,La Liga,Matchweek 25,Away,Joselu,Rayo Vallecano,Y,0.48,0.87,Left Foot,15.0,3,0-0,Stole Dimitrievski,Federico Valverde,Federico Valverde,Pass (Live),Brahim Díaz,Pass (Live),,ST,MF,CAM
+84,85,2024-02-25,La Liga,Matchweek 26,Home,Luka Modrić,Sevilla,N,0.06,0.25,Right Foot,23.0,81,0-0,Ørjan Nyland,,Aurélien Tchouaméni,Pass (Live),Ferland Mendy,Pass (Live),,MF,CDM,LB
+85,86,2024-03-02,La Liga,Matchweek 27,Away,Vinicius Júnior,Valencia,Y,0.86,0.78,Right Foot,5.0,45+5,0-2,Giorgi Mamardashvili,Rodrygo,Federico Valverde,Pass (Live),Aurélien Tchouaméni,Pass (Live),,LW,MF,CDM
+86,87,2024-03-02,La Liga,Matchweek 27,Away,Vinicius Júnior,Valencia,Y,0.85,0.87,Head,2.0,76,1-2,Giorgi Mamardashvili,Brahim Díaz,Brahim Díaz,Pass (Live),Luka Modrić,Pass (Live),,LW,CAM,MF
+87,88,2024-03-06,Champions Lg,Round of 16,Home,Vinicius Júnior,RB Leipzig,Y,0.25,0.92,Right Foot,15.0,65,0-0,Péter Gulácsi,Jude Bellingham,Jude Bellingham,Pass (Live),Toni Kroos,Pass (Live),,LW,CAM,MF
+88,89,2024-03-10,La Liga,Matchweek 28,Home,Vinicius Júnior,Celta Vigo,Y,0.42,0.78,Right Foot,3.0,21,0-0,Vicente Guaita,,Vinicius Júnior,Shot,,,,LW,LW,
+91,92,2024-03-10,La Liga,Matchweek 28,Home,Arda Güler,Celta Vigo,N,0.44,0.88,Right Foot,7.0,90+4,3-0,Vicente Guaita,Dani Ceballos,Arda Güler,Take-On,Dani Ceballos,Pass (Live),,CAM,CAM,CAM
+92,93,2024-03-16,La Liga,Matchweek 29,Away,Vinicius Júnior,Osasuna,Y,0.52,0.81,Right Foot,13.0,4,0-0,Sergio Herrera,,Vinicius Júnior,Tackle,,,,LW,LW,
+93,94,2024-03-16,La Liga,Matchweek 29,Away,Dani Carvajal,Osasuna,Y*,0.13,0.67,Right Foot,10.0,18,1-1,Sergio Herrera,Federico Valverde,Federico Valverde,Pass (Live),Brahim Díaz,Pass (Live),Volley,RB,MF,CAM
+94,95,2024-03-16,La Liga,Matchweek 29,Away,Brahim Díaz,Osasuna,Y,0.45,0.85,Right Foot,16.0,61,2-1,Sergio Herrera,Federico Valverde,Federico Valverde,Pass (Live),Andriy Lunin,Pass (Live),,CAM,MF,GK
+95,96,2024-03-16,La Liga,Matchweek 29,Away,Vinicius Júnior,Osasuna,Y,0.21,0.19,Right Foot,8.0,64,3-1,Sergio Herrera,Federico Valverde,Antonio Rüdiger,Pass (Live),Aurélien Tchouaméni,Pass (Live),,LW,CB,CDM
+96,97,2024-03-31,La Liga,Matchweek 30,Home,Rodrygo,Athletic Club,Y,0.06,0.23,Right Foot,22.0,8,0-0,Julen Agirrezabala,Brahim Díaz,Brahim Díaz,Pass (Live),Aurélien Tchouaméni,Pass (Live),,RW,CAM,CDM
+97,98,2024-03-31,La Liga,Matchweek 30,Home,Rodrygo,Athletic Club,Y,0.56,0.95,Right Foot,9.0,73,1-0,Julen Agirrezabala,Jude Bellingham,Rodrygo,Take-On,Jude Bellingham,Pass (Live),,RW,RW,CAM
+99,100,2024-04-09,Champions Lg,Quarter-finals,Home,Rodrygo,Manchester City,Y,0.13,0.73,Right Foot,12.0,14,1-1,Stefan Ortega,Vinicius Júnior,Vinicius Júnior,Pass (Live),Toni Kroos,Pass (Live),Deflected,RW,LW,MF
+100,101,2024-04-09,Champions Lg,Quarter-finals,Home,Federico Valverde,Manchester City,Y,0.05,0.4,Right Foot,16.0,79,2-3,Stefan Ortega,Vinicius Júnior,Vinicius Júnior,Pass (Live),Luka Modrić,Pass (Live),Volley,MF,LW,MF
+0,1,2023-08-12,La Liga,Matchweek 1,Home,Takefusa Kubo,Girona,Y,0.19,0.47,Left Foot,15.0,5,0-0,Paulo Gazzaniga,Aihen Muñoz,Aihen Muñoz,Pass (Live),,,,RW,LB,
+1,2,2023-08-19,La Liga,Matchweek 2,Home,Ander Barrenetxea,Celta Vigo,Y,0.13,0.37,Head,9.0,22,0-0,Iván Villar,Takefusa Kubo,Takefusa Kubo,Pass (Live),Takefusa Kubo,Take-On,,LW,RW,RW
+2,3,2023-09-02,La Liga,Matchweek 4,Home,Takefusa Kubo,Granada,Y,0.38,0.91,Left Foot,19.0,9,0-0,Raúl Fernández,Brais Méndez,Brais Méndez,Pass (Live),,,,RW,CAM,
+3,4,2023-09-02,La Liga,Matchweek 4,Home,Takefusa Kubo,Granada,Y,0.03,0.38,Left Foot,19.0,44,1-1,Raúl Fernández,Hamari Traoré,Hamari Traoré,Pass (Live),Mikel Merino,Pass (Live),Deflected,RW,RB,MF
+4,5,2023-09-02,La Liga,Matchweek 4,Home,Martín Zubimendi,Granada,Y,0.09,0.37,Right Foot,18.0,59,2-1,Raúl Fernández,Brais Méndez,Brais Méndez,Pass (Live),Takefusa Kubo,Pass (Live),,MF,CAM,RW
+5,6,2023-09-02,La Liga,Matchweek 4,Home,Ander Barrenetxea,Granada,Y,0.52,0.89,Right Foot,14.0,67,3-1,Raúl Fernández,Mikel Oyarzabal,Mikel Oyarzabal,Pass (Live),Martín Zubimendi,Pass (Live),,LW,LW,MF
+7,8,2023-09-17,La Liga,Matchweek 5,Away,Ander Barrenetxea,Real Madrid,Y,0.58,0.97,Right Foot,4.0,5,0-0,Kepa Arrizabalaga,,Ander Barrenetxea,Shot,,,,LW,LW,
+9,10,2023-09-24,La Liga,Matchweek 6,Home,Takefusa Kubo,Getafe,Y,0.1,0.73,Left Foot,13.0,2,0-0,David Soria,Brais Méndez,Brais Méndez,Pass (Live),Brais Méndez,Take-On,,RW,CAM,CAM
+10,11,2023-09-24,La Liga,Matchweek 6,Home,Mikel Oyarzabal,Getafe,N,0.79,0.99,Left Foot,13.0,61,1-2,David Soria,,Brais Méndez,Fouled,Mikel Merino,Pass (Live),,LW,CAM,MF
+11,12,2023-09-24,La Liga,Matchweek 6,Home,Brais Méndez,Getafe,Y,0.07,0.05,Head,16.0,66,2-2,David Soria,,Ander Barrenetxea,Shot,,,,CAM,LW,
+12,13,2023-09-24,La Liga,Matchweek 6,Home,Mikel Oyarzabal,Getafe,N,0.38,0.88,Left Foot,6.0,88,3-2,David Soria,Mikel Merino,Mikel Merino,Pass (Live),Brais Méndez,Pass (Live),,LW,MF,CAM
+13,14,2023-09-27,La Liga,Matchweek 7,Away,Carlos Fernández,Valencia,Y,0.16,0.04,Right Foot,11.0,32,0-0,Giorgi Mamardashvili,Kieran Tierney,Kieran Tierney,Pass (Dead),Mohamed Ali Cho,Fouled,,ST,LB,LW
+14,15,2023-09-30,La Liga,Matchweek 8,Home,Robin Le Normand,Athletic Club,Y,0.2,0.54,Right Foot,7.0,30,0-0,Unai Simón,,Mikel Merino,Fouled,Aihen Muñoz,Pass (Live),Volley,CB,MF,LB
+15,16,2023-09-30,La Liga,Matchweek 8,Home,Takefusa Kubo,Athletic Club,Y,0.17,0.44,Left Foot,13.0,48,1-0,Unai Simón,Umar Sadiq,Brais Méndez,Pass (Live),Brais Méndez,Take-On,,RW,CAM,CAM
+16,17,2023-09-30,La Liga,Matchweek 8,Home,Mikel Oyarzabal,Athletic Club,N,0.81,0.86,Right Foot,4.0,66,2-0,Unai Simón,Martín Zubimendi,Mikel Oyarzabal,Take-On,Martín Zubimendi,Pass (Live),,LW,LW,MF
+17,18,2023-10-03,Champions Lg,Group stage,Away,Mikel Oyarzabal,RB Salzburg,Y*,0.04,0.24,Left Foot,17.0,7,0-0,Alexander Schlager,Brais Méndez,Brais Méndez,Pass (Live),Hamari Traoré,Pass (Live),,LW,CAM,RB
+18,19,2023-10-03,Champions Lg,Group stage,Away,Brais Méndez,RB Salzburg,Y,0.15,0.36,Left Foot,17.0,27,1-0,Alexander Schlager,Takefusa Kubo,Brais Méndez,Take-On,Brais Méndez,Pass (Live),,CAM,CAM,CAM
+19,20,2023-10-08,La Liga,Matchweek 9,Away,Mikel Oyarzabal,Atlético Madrid,Y*,0.55,0.75,Left Foot,21.0,73,0-1,Jan Oblak,Carlos Fernández,Carlos Fernández,Pass (Live),Arsen Zakharyan,Pass (Live),,LW,ST,CAM
+20,21,2023-10-21,La Liga,Matchweek 10,Home,Brais Méndez,Mallorca,Y,0.15,0.33,Head,8.0,64,0-0,Predrag Rajković,Takefusa Kubo,Takefusa Kubo,Pass (Live),Martín Zubimendi,Pass (Live),,CAM,RW,MF
+21,22,2023-10-24,Champions Lg,Group stage,Away,Brais Méndez,Benfica,Y,0.43,0.93,Left Foot,5.0,63,0-0,Anatolii Trubin,Ander Barrenetxea,Ander Barrenetxea,Pass (Live),Ander Barrenetxea,Take-On,Deflected,CAM,LW,LW
+22,23,2023-10-29,La Liga,Matchweek 11,Away,Mikel Oyarzabal,Rayo Vallecano,Y*,0.55,0.79,Right Foot,9.0,41,0-1,Stole Dimitrievski,Ander Barrenetxea,Ander Barrenetxea,Pass (Live),Brais Méndez,Pass (Live),,LW,LW,CAM
+25,26,2023-11-08,Champions Lg,Group stage,Home,Mikel Merino,Benfica,Y,0.81,0.8,Head,3.0,6,0-0,Anatolii Trubin,Aihen Muñoz,Aihen Muñoz,Shot,,,,MF,LB,
+26,27,2023-11-08,Champions Lg,Group stage,Home,Mikel Oyarzabal,Benfica,Y*,0.61,0.79,Left Foot,13.0,11,1-0,Anatolii Trubin,,Mikel Oyarzabal,Take-On,,,,LW,LW,
+27,28,2023-11-08,Champions Lg,Group stage,Home,Ander Barrenetxea,Benfica,Y,0.15,0.58,Right Foot,14.0,21,2-0,Anatolii Trubin,Mikel Merino,Ander Barrenetxea,Take-On,Mikel Merino,Pass (Live),,LW,LW,MF
+28,29,2023-11-11,La Liga,Matchweek 13,Away,Mikel Oyarzabal,Almería,Y*,0.65,0.38,Left Foot,3.0,62,0-0,Luís Maximiano,,Aritz Elustondo,Shot,,,,LW,CB,
+30,31,2023-11-11,La Liga,Matchweek 13,Away,Martín Zubimendi,Almería,Y,0.22,0.33,Head,7.0,90+5,2-1,Luís Maximiano,Aritz Elustondo,Aritz Elustondo,Shot,,,,MF,CB,
+32,33,2023-11-26,La Liga,Matchweek 14,Home,Umar Sadiq,Sevilla,Y,0.02,0.25,Right Foot,32.0,22,1-0,Marko Dmitrović,Hamari Traoré,Hamari Traoré,Pass (Live),Hamari Traoré,Interception,,ST,RB,RB
+33,34,2023-12-02,La Liga,Matchweek 15,Away,Umar Sadiq,Osasuna,Y,0.05,0.49,Right Foot,25.0,41,0-1,Sergio Herrera,Igor Zubeldia,Umar Sadiq,Take-On,Igor Zubeldia,Pass (Live),,ST,ST,CB
+34,35,2023-12-06,Copa del Rey,Second round,Away,André Silva,Andratx,Y,,,,,56,0-0,Vicente Sabater,Álvaro Odriozola,Álvaro Odriozola,,,,,ST,RB,
+35,36,2023-12-09,La Liga,Matchweek 16,Away,Mikel Merino,Villarreal,Y,0.22,0.63,Head,4.0,38,0-0,Filip Jørgensen,Takefusa Kubo,Takefusa Kubo,Pass (Dead),,,,MF,RW,
+36,37,2023-12-09,La Liga,Matchweek 16,Away,Martín Zubimendi,Villarreal,Y,0.33,0.77,Left Foot,6.0,41,1-0,Filip Jørgensen,Arsen Zakharyan,Arsen Zakharyan,Shot,,,,MF,CAM,
+37,38,2023-12-09,La Liga,Matchweek 16,Away,Takefusa Kubo,Villarreal,Y,0.33,0.82,Right Foot,8.0,45+4,2-0,Filip Jørgensen,Mikel Merino,Mikel Merino,Pass (Live),Umar Sadiq,Pass (Live),,RW,MF,ST
+38,39,2024-01-02,La Liga,Matchweek 19,Home,Martín Zubimendi,Alavés,Y,0.1,0.34,Right Foot,14.0,90+6,0-1,Antonio Sivera,Mikel Merino,Igor Zubeldia,Pass (Live),Robin Le Normand,Pass (Live),,MF,CB,CB
+40,41,2024-01-13,La Liga,Matchweek 20,Away,Mikel Oyarzabal,Athletic Club,Y*,0.86,0.71,Other,6.0,88,0-2,Unai Simón,Aihen Muñoz,Aihen Muñoz,Shot,,,,LW,LB,
+43,44,2024-01-20,La Liga,Matchweek 21,Away,Brais Méndez,Celta Vigo,Y,0.02,0.29,Left Foot,32.0,11,0-0,Vicente Guaita,Beñat Turrientes,Beñat Turrientes,Pass (Live),Jon Pacheco,Pass (Live),,CAM,MF,CB
+44,45,2024-01-23,Copa del Rey,Quarter-finals,Away,Mikel Oyarzabal,Celta Vigo,Y*,,,,,2,0-0,Iván Villar,Mikel Merino,Mikel Merino,,,,,LW,MF,
+45,46,2024-01-23,Copa del Rey,Quarter-finals,Away,Sheraldo Becker,Celta Vigo,Y,,,,,66,1-0,Iván Villar,Brais Méndez,Brais Méndez,,,,,ST,CAM,
+46,47,2024-02-18,La Liga,Matchweek 25,Away,Takefusa Kubo,Mallorca,Y,0.09,0.23,Left Foot,15.0,38,0-1,Predrag Rajković,Igor Zubeldia,Igor Zubeldia,Pass (Live),,,,RW,CB,
+47,48,2024-02-18,La Liga,Matchweek 25,Away,Mikel Merino,Mallorca,Y*,0.18,0.57,Head,9.0,90+3,1-1,Predrag Rajković,Jon Pacheco,Jon Pacheco,Pass (Live),Jon Pacheco,Pass (Live),,MF,CB,CB
+48,49,2024-02-23,La Liga,Matchweek 26,Home,Mikel Merino,Villarreal,N,0.32,0.83,Left Foot,9.0,86,0-2,Filip Jørgensen,,Sheraldo Becker,Shot,,,,MF,ST,
+49,50,2024-02-27,Copa del Rey,Semi-finals,Home,Mikel Oyarzabal,Mallorca,N,,,,,71,0-1,Dominik Greif,Brais Méndez,Brais Méndez,,,,,LW,CAM,
+52,53,2024-03-05,Champions Lg,Round of 16,Home,Mikel Merino,Paris S-G,Y,0.08,0.72,Left Foot,12.0,89,0-2,Gianluigi Donnarumma,,Takefusa Kubo,Pass (Live),Beñat Turrientes,Pass (Live),"Deflected, Volley",MF,RW,MF
+53,54,2024-03-09,La Liga,Matchweek 28,Away,Umar Sadiq,Granada,Y,0.26,0.72,Head,8.0,33,0-1,Augusto Batalla,Brais Méndez,Brais Méndez,Pass (Live),Javi Galán,Pass (Live),,ST,CAM,LB
+54,55,2024-03-09,La Liga,Matchweek 28,Away,Robin Le Normand,Granada,Y,0.23,0.06,Right Foot,11.0,80,1-2,Augusto Batalla,Kieran Tierney,Kieran Tierney,Pass (Live),Sheraldo Becker,Pass (Live),,CB,LB,ST
+55,56,2024-03-09,La Liga,Matchweek 28,Away,André Silva,Granada,N,0.93,0.92,Right Foot,5.0,85,2-2,Augusto Batalla,,Beñat Turrientes,Shot,,,,ST,MF,
+56,57,2024-03-15,La Liga,Matchweek 29,Home,Mikel Merino,Cádiz,Y,0.16,0.39,Right Foot,11.0,28,0-0,Jeremías Ledesma,Mikel Oyarzabal,Mikel Oyarzabal,Pass (Live),Takefusa Kubo,Pass (Dead),,MF,LW,RW
+57,58,2024-03-15,La Liga,Matchweek 29,Home,Arsen Zakharyan,Cádiz,N,0.83,0.8,Right Foot,5.0,68,1-0,Jeremías Ledesma,Brais Méndez,Sheraldo Becker,Pass (Live),Brais Méndez,Pass (Live),,CAM,ST,CAM
+58,59,2024-03-31,La Liga,Matchweek 30,Away,Jon Pacheco,Alavés,Y,0.39,0.12,Head,6.0,59,0-0,Antonio Sivera,Arsen Zakharyan,Arsen Zakharyan,Pass (Dead),,,,CB,CAM,
+0,1,2023-08-11,La Liga,Matchweek 1,Home,Youssef En-Nesyri,Valencia,Y,0.38,0.75,Other,8.0,69,0-1,Giorgi Mamardashvili,Suso,Suso,Pass (Live),Suso,Take-On,,ST,RW,RW
+1,2,2023-08-16,Super Cup,UEFA Super Cup,Away,Youssef En-Nesyri,Manchester City,Y,,,,,25,,,Marcos Acuña,Marcos Acuña,,,,,ST,LB,
+3,4,2023-08-21,La Liga,Matchweek 2,Away,Érik Lamela,Alavés,Y,0.1,0.44,Left Foot,21.0,41,1-1,Antonio Sivera,Lucas Ocampos,Lucas Ocampos,Pass (Live),Érik Lamela,Pass (Live),,RW,LW,RW
+4,5,2023-08-21,La Liga,Matchweek 2,Away,Rafa Mir,Alavés,N,0.03,0.5,Right Foot,22.0,90+7,2-4,Antonio Sivera,,Rafa Mir,Take-On,Rafa Mir,Take-On,,ST,ST,ST
+5,6,2023-08-26,La Liga,Matchweek 3,Home,Nemanja Gudelj,Girona,Y,0.15,0.18,Right Foot,13.0,45+2,0-1,Paulo Gazzaniga,,Óliver Torres,Pass (Live),Lucas Ocampos,Pass (Live),,CB,MF,LW
+6,7,2023-09-17,La Liga,Matchweek 5,Home,Dodi Lukebakio,Las Palmas,N,0.36,0.82,Left Foot,4.0,71,0-0,Álvaro Vallés,,Youssef En-Nesyri,Shot,,,Volley,RW,ST,
+7,8,2023-09-20,Champions Lg,Group stage,Home,Lucas Ocampos,Lens,Y,0.01,0.2,Head,10.0,9,0-0,Brice Samba,Ivan Rakitić,Ivan Rakitić,Pass (Dead),Lucas Ocampos,Pass (Live),,LW,MF,LW
+8,9,2023-09-26,La Liga,Matchweek 7,Home,Youssef En-Nesyri,Almería,Y,0.7,0.04,Head,8.0,7,0-0,Luís Maximiano,,Loïc Bade,Shot,,,,ST,DF,
+9,10,2023-09-26,La Liga,Matchweek 7,Home,Dodi Lukebakio,Almería,Y,0.08,0.55,Right Foot,15.0,8,1-0,Luís Maximiano,,Dodi Lukebakio,Take-On,Suso,Pass (Live),,RW,RW,RW
+10,11,2023-09-26,La Liga,Matchweek 7,Home,Suso,Almería,Y,0.03,0.33,Left Foot,23.0,38,2-0,Luís Maximiano,Djibril Sow,Djibril Sow,Pass (Live),Jesús Navas,Pass (Live),,RW,MF,RB
+11,12,2023-09-26,La Liga,Matchweek 7,Home,Érik Lamela,Almería,Y,0.29,0.85,Left Foot,7.0,51,3-0,Luís Maximiano,Adrià Pedrosa,Djibril Sow,Pass (Live),Dodi Lukebakio,Pass (Live),Deflected,RW,MF,RW
+12,13,2023-09-26,La Liga,Matchweek 7,Home,Kike Salas,Almería,N,0.15,0.39,Left Foot,13.0,90+2,4-1,Luís Maximiano,Juanlu Sánchez,Juanlu Sánchez,Pass (Live),Érik Lamela,Pass (Live),,CB,RB,RW
+13,14,2023-10-03,Champions Lg,Group stage,Away,Nemanja Gudelj,PSV Eindhoven,Y,0.17,0.79,Right Foot,8.0,68,0-0,Walter Benítez,Sergio Ramos,Sergio Ramos,Pass (Live),Jesús Navas,Pass (Live),Volley,CB,CB,RB
+14,15,2023-10-03,Champions Lg,Group stage,Away,Youssef En-Nesyri,PSV Eindhoven,Y,0.28,0.68,Head,9.0,87,1-1,Walter Benítez,Juanlu Sánchez,Juanlu Sánchez,Pass (Live),Dodi Lukebakio,Pass (Live),,ST,RB,RW
+15,16,2023-10-07,La Liga,Matchweek 9,Home,Djibril Sow,Rayo Vallecano,Y,0.03,0.33,Right Foot,26.0,50,0-2,Stole Dimitrievski,Loïc Bade,Loïc Bade,Pass (Live),Youssef En-Nesyri,Pass (Live),,MF,DF,ST
+16,17,2023-10-07,La Liga,Matchweek 9,Home,Youssef En-Nesyri,Rayo Vallecano,Y,0.05,0.37,Head,11.0,90+6,1-2,Stole Dimitrievski,Ivan Rakitić,Ivan Rakitić,Pass (Dead),Loïc Bade,Pass (Live),,ST,MF,DF
+18,19,2023-10-24,Champions Lg,Group stage,Home,Nemanja Gudelj,Arsenal,Y,0.2,0.68,Head,9.0,58,0-2,David Raya,Ivan Rakitić,Ivan Rakitić,Pass (Dead),Nemanja Gudelj,Pass (Live),,CB,MF,CB
+19,20,2023-10-28,La Liga,Matchweek 11,Away,Lucas Ocampos,Cádiz,Y,0.03,0.34,Head,13.0,37,0-2,Jeremías Ledesma,Juanlu Sánchez,Juanlu Sánchez,Pass (Live),Suso,Pass (Live),,LW,RB,RW
+20,21,2023-10-28,La Liga,Matchweek 11,Away,Ivan Rakitić,Cádiz,Y*,0.03,0.72,Right Foot,16.0,60,1-2,Jeremías Ledesma,,Sergio Ramos,Shot,,,Volley,MF,CB,
+21,22,2023-11-01,Copa del Rey,First round,Away,Rafa Mir,Quintanar,Y,,,,,22,0-0,David Moreno,Óliver Torres,Óliver Torres,,,,,ST,MF,
+22,23,2023-11-01,Copa del Rey,First round,Away,Youssef En-Nesyri,Quintanar,Y,,,,,40,1-0,David Moreno,Érik Lamela,Érik Lamela,,,,,ST,RW,
+24,25,2023-11-04,La Liga,Matchweek 12,Away,Youssef En-Nesyri,Celta Vigo,N,0.11,0.46,Left Foot,11.0,84,0-1,Vicente Guaita,,Suso,Pass (Live),Jesús Navas,Pass (Live),,ST,RW,RB
+25,26,2023-11-12,La Liga,Matchweek 13,Home,Ivan Rakitić,Betis,Y,0.02,0.44,Right Foot,31.0,79,0-1,Francisco Barbosa,Dodi Lukebakio,Dodi Lukebakio,Pass (Live),Nemanja Gudelj,Pass (Live),,MF,RW,CB
+26,27,2023-11-26,La Liga,Matchweek 14,Away,Youssef En-Nesyri,Real Sociedad,Y,0.18,0.49,Head,9.0,60,0-2,Álex Remiro,Adrià Pedrosa,Adrià Pedrosa,Pass (Live),Jesús Navas,Pass (Live),Deflected,ST,LB,RB
+27,28,2023-11-29,Champions Lg,Group stage,Home,Sergio Ramos,PSV Eindhoven,Y,0.62,0.9,Left Foot,6.0,24,0-0,Walter Benítez,Ivan Rakitić,Ivan Rakitić,Pass (Dead),Dodi Lukebakio,Fouled,,CB,MF,RW
+28,29,2023-11-29,Champions Lg,Group stage,Home,Youssef En-Nesyri,PSV Eindhoven,Y,0.46,0.43,Left Foot,15.0,47,1-0,Walter Benítez,Marcos Acuña,Marcos Acuña,Pass (Live),Dodi Lukebakio,Pass (Live),,ST,LB,RW
+29,30,2023-12-03,La Liga,Matchweek 15,Home,Kike Salas,Villarreal,N,0.02,0.17,Head,14.0,75,0-0,Filip Jørgensen,Adrià Pedrosa,Adrià Pedrosa,Pass (Live),Dodi Lukebakio,Pass (Live),,CB,LB,RW
+31,32,2023-12-06,Copa del Rey,Second round,Away,Federico Gattoni,Atlético Astorga,Y,,,,,68,1-0,Pablo Barredo,Joan Jordán,Joan Jordán,,,,,CB,MF,
+32,33,2023-12-12,Champions Lg,Group stage,Away,Sergio Ramos,Lens,Y,0.79,0.95,Right Foot,14.0,79,0-1,Brice Samba,,Youssef En-Nesyri,Fouled,Kike Salas,Pass (Live),,CB,ST,CB
+33,34,2023-12-19,La Liga,Matchweek 18,Away,Adrià Pedrosa,Granada,Y,0.03,0.56,Left Foot,20.0,23,0-0,André Ferreira,Suso,Suso,Pass (Live),,,Deflected,LB,RW,
+34,35,2023-12-19,La Liga,Matchweek 18,Away,Lucas Ocampos,Granada,Y,0.02,0.23,Right Foot,31.0,32,1-0,André Ferreira,Youssef En-Nesyri,Youssef En-Nesyri,Interception,,,,LW,ST,
+35,36,2023-12-19,La Liga,Matchweek 18,Away,Sergio Ramos,Granada,Y*,0.03,0.39,Head,12.0,49,2-0,André Ferreira,Suso,Suso,Pass (Dead),Youssef En-Nesyri,Fouled,,CB,RW,ST
+37,38,2024-01-07,Copa del Rey,Round of 32,Away,Juanlu Sánchez,Racing Ferrol,Y,,,,,87,1-1,Gianfranco Gazzaniga,Rafa Mir,Rafa Mir,,,,,RB,ST,
+38,39,2024-01-12,La Liga,Matchweek 20,Home,Rafa Mir,Alavés,N,0.58,0.97,Other,2.0,70,0-2,Antonio Sivera,,Juanlu Sánchez,Pass (Live),Djibril Sow,Pass (Live),,ST,RB,MF
+39,40,2024-01-12,La Liga,Matchweek 20,Home,Lucas Ocampos,Alavés,Y,0.79,0.96,Right Foot,13.0,82,1-2,Antonio Sivera,,Mariano,Fouled,Lucas Ocampos,Pass (Live),,LW,ST,LW
+40,41,2024-01-16,Copa del Rey,Round of 16,Away,Sergio Ramos,Getafe,Y*,,,,,8,0-0,David Soria,Suso,Suso,,,,,CB,RW,
+41,42,2024-01-16,Copa del Rey,Round of 16,Away,Isaac Bernal,Getafe,Y,,,,,48,1-1,David Soria,Lucas Ocampos,Lucas Ocampos,,,,,ST,LW,
+42,43,2024-01-16,Copa del Rey,Round of 16,Away,Isaac Bernal,Getafe,Y,,,,,55,2-1,David Soria,Djibril Sow,Djibril Sow,,,,,ST,MF,
+43,44,2024-01-21,La Liga,Matchweek 21,Away,Isaac Bernal,Girona,Y,,,,,10,0-0,Paulo Gazzaniga,Adrià Pedrosa,Adrià Pedrosa,,,,,ST,LB,
+44,45,2024-01-28,La Liga,Matchweek 22,Home,Isaac Bernal,Osasuna,Y,,,,,24,0-0,Sergio Herrera,Marcos Acuña,Marcos Acuña,,,,,ST,LB,
+45,46,2024-02-05,La Liga,Matchweek 23,Away,Youssef En-Nesyri,Rayo Vallecano,Y,0.19,0.31,Left Foot,20.0,19,0-0,Stole Dimitrievski,,Marcos Acuña,Pass (Live),Marcão,Pass (Live),,ST,LB,CB
+46,47,2024-02-05,La Liga,Matchweek 23,Away,Youssef En-Nesyri,Rayo Vallecano,Y,0.13,0.41,Left Foot,11.0,45,1-1,Stole Dimitrievski,Isaac Bernal,Isaac Bernal,Pass (Live),Lucas Ocampos,Pass (Live),,ST,ST,LW
+47,48,2024-02-11,La Liga,Matchweek 24,Home,Isaac Bernal,Atlético Madrid,Y,,,,,15,0-0,Jan Oblak,Lucas Ocampos,Lucas Ocampos,,,,,ST,LW,
+49,50,2024-03-02,La Liga,Matchweek 27,Home,Youssef En-Nesyri,Real Sociedad,Y,0.03,0.04,Left Foot,13.0,13,1-0,Álex Remiro,Isaac Bernal,Isaac Bernal,Pass (Live),,Take-On,,ST,ST,
+50,51,2024-03-02,La Liga,Matchweek 27,Home,Sergio Ramos,Real Sociedad,Y,0.01,0.36,Head,15.0,65,2-1,Álex Remiro,Óliver Torres,Óliver Torres,Pass (Live),Suso,Pass (Dead),Deflected,CB,MF,RW
+51,52,2024-03-11,La Liga,Matchweek 28,Away,Dodi Lukebakio,Almería,N,0.18,0.34,Left Foot,14.0,81,0-1,Luís Maximiano,Isaac Bernal,Isaac Bernal,Pass (Live),Lucas Ocampos,Tackle,,RW,ST,LW
+52,53,2024-03-11,La Liga,Matchweek 28,Away,Lucas Ocampos,Almería,Y,0.16,0.4,Left Foot,5.0,86,1-1,Luís Maximiano,Isaac Bernal,Isaac Bernal,Shot,,,,LW,ST,
+53,54,2024-03-17,La Liga,Matchweek 29,Home,Youssef En-Nesyri,Celta Vigo,Y,0.57,0.94,Left Foot,17.0,18,0-0,Vicente Guaita,,Youssef En-Nesyri,Tackle,Lucas Ocampos,Pass (Live),,ST,ST,LW
+54,55,2024-03-30,La Liga,Matchweek 30,Away,Sergio Ramos,Getafe,Y*,0.49,0.87,Right Foot,3.0,5,0-0,David Soria,,Sergio Ramos,Pass (Live),Loïc Bade,Pass (Live),,CB,CB,DF
+0,1,2023-08-11,La Liga,Matchweek 1,Away,Mouctar Diakhaby,Sevilla,Y,0.29,0.29,Left Foot,15.0,60,0-0,Yassine Bounou,Domingos André Ribeiro Almeida,Domingos André Ribeiro Almeida,Pass (Live),Francisco Perez,Pass (Live),,CB,CAM,RW
+1,2,2023-08-11,La Liga,Matchweek 1,Away,Javier Guerra,Sevilla,N,0.25,0.57,Right Foot,14.0,88,1-1,Yassine Bounou,Hugo Duro,Hugo Duro,Pass (Live),Cenk Özkacar,Pass (Live),,MF,ST,CB
+4,5,2023-09-16,La Liga,Matchweek 5,Home,Hugo Duro,Atlético Madrid,Y,0.18,0.25,Left Foot,3.0,5,0-0,Jan Oblak,,José Luis Gayà,Pass (Live),Mouctar Diakhaby,Pass (Live),Deflected,ST,LB,CB
+5,6,2023-09-16,La Liga,Matchweek 5,Home,Hugo Duro,Atlético Madrid,Y,0.11,0.14,Right Foot,9.0,34,1-0,Jan Oblak,Francisco Perez,Hugo Duro,Take-On,Francisco Perez,Pass (Live),,ST,ST,RW
+6,7,2023-09-16,La Liga,Matchweek 5,Home,Javier Guerra,Atlético Madrid,Y,0.06,0.22,Right Foot,22.0,54,2-0,Jan Oblak,Thierry Correia,Javier Guerra,Take-On,Thierry Correia,Pass (Live),,MF,MF,RB
+7,8,2023-09-23,La Liga,Matchweek 6,Away,Diego López,Almería,Y,0.28,0.56,Right Foot,10.0,14,0-0,Luís Maximiano,Javier Guerra,Diego López,Pass (Live),José Luis Gayà,Pass (Live),,LW,LW,LB
+8,9,2023-09-23,La Liga,Matchweek 6,Away,Javier Guerra,Almería,Y,0.37,0.89,Right Foot,10.0,63,1-1,Luís Maximiano,Francisco Perez,Francisco Perez,Pass (Live),Francisco Perez,Take-On,,MF,RW,RW
+9,10,2023-10-07,La Liga,Matchweek 9,Away,Diego López,Mallorca,Y,0.09,0.42,Head,11.0,45+3,0-1,Predrag Rajković,Thierry Correia,Thierry Correia,Pass (Live),José Luis García Vayá,Pass (Live),,LW,RB,MF
+10,11,2023-10-23,La Liga,Matchweek 10,Home,José Luis Gayà,Cádiz,Y*,0.17,0.79,Left Foot,11.0,4,0-0,Jeremías Ledesma,Selim Amallah,Selim Amallah,Pass (Live),José Luis Gayà,Pass (Live),,LB,CAM,LB
+11,12,2023-10-23,La Liga,Matchweek 10,Home,Hugo Duro,Cádiz,Y,0.95,0.89,Head,3.0,25,1-0,Jeremías Ledesma,,Thierry Correia,Shot,,,,ST,RB,
+12,13,2023-10-29,La Liga,Matchweek 11,Away,Francisco Perez,Athletic Club,Y,0.24,0.74,Right Foot,17.0,62,0-1,Unai Simón,Hugo Duro,Hugo Duro,Pass (Live),Diego López,Pass (Live),,RW,ST,LW
+13,14,2023-10-29,La Liga,Matchweek 11,Away,Hugo Duro,Athletic Club,Y,0.77,0.95,Right Foot,4.0,68,1-1,Unai Simón,Francisco Perez,Francisco Perez,Pass (Live),José Luis García Vayá,Pass (Live),,ST,RW,MF
+15,16,2023-11-02,Copa del Rey,First round,Away,Diego López,UD Logroñés,N,,,,,88,1-0,Alejandro Daza,Pablo Gozalbez,Pablo Gozalbez,,,,,LW,CAM,
+16,17,2023-11-05,La Liga,Matchweek 12,Home,José Luis García Vayá,Granada,Y,0.79,0.99,Right Foot,13.0,45+7,0-0,André Ferreira,,Hugo Duro,Fouled,Thierry Correia,Pass (Dead),,MF,ST,RB
+17,18,2023-11-11,La Liga,Matchweek 13,Away,Hugo Duro,Real Madrid,Y,0.27,0.48,Right Foot,12.0,88,0-5,Andriy Lunin,Hugo González,Hugo González,Pass (Live),Dimitri Foulquier,Pass (Live),Volley,ST,RW,RB
+20,21,2023-12-16,La Liga,Matchweek 17,Home,Hugo Guillamón,Barcelona,Y,0.05,0.39,Right Foot,20.0,70,0-1,Iñaki Peña,Diego López,Francisco Perez,Pass (Live),José Luis García Vayá,Pass (Live),,MF,RW,MF
+21,22,2023-12-19,La Liga,Matchweek 18,Away,Sergi Canós,Rayo Vallecano,Y,0.04,0.21,Right Foot,17.0,61,0-0,Stole Dimitrievski,Diego López,Diego López,Pass (Live),Hugo Duro,Pass (Live),,RW,LW,ST
+22,23,2024-01-02,La Liga,Matchweek 19,Home,Roman Yaremchuk,Villarreal,Y,0.35,0.66,Right Foot,12.0,4,0-0,Filip Jørgensen,José Luis Gayà,José Luis Gayà,Pass (Live),José Luis García Vayá,Pass (Live),,ST,LB,MF
+23,24,2024-01-02,La Liga,Matchweek 19,Home,José Luis García Vayá,Villarreal,Y,0.79,0.98,Right Foot,13.0,27,1-0,Filip Jørgensen,,Hugo Duro,Fouled,José Luis Gayà,Pass (Live),,MF,ST,LB
+25,26,2024-01-07,Copa del Rey,Round of 32,Away,Sergi Canós,Cartagena,N,,,,,73,0-1,Raúl Lizoain,José Luis Gayà,José Luis Gayà,,,,,RW,LB,
+26,27,2024-01-07,Copa del Rey,Round of 32,Away,José Luis Gayà,Cartagena,N,,,,,106,1-1,Raúl Lizoain,Cenk Özkacar,Cenk Özkacar,,,,,LB,CB,
+27,28,2024-01-14,La Liga,Matchweek 20,Away,Hugo Duro,Cádiz,Y,0.52,0.94,Left Foot,10.0,8,0-0,Jeremías Ledesma,Diego López,Diego López,Pass (Live),Diego López,Take-On,,ST,LW,LW
+28,29,2024-01-14,La Liga,Matchweek 20,Away,Diego López,Cádiz,Y,0.26,0.71,Right Foot,13.0,52,1-1,Jeremías Ledesma,Sergi Canós,Sergi Canós,Pass (Live),,,,LW,RW,
+29,30,2024-01-14,La Liga,Matchweek 20,Away,Javier Guerra,Cádiz,N,0.43,0.69,Right Foot,21.0,90+4,2-1,Jeremías Ledesma,Diego López,Diego López,Pass (Live),,,,MF,LW,
+30,31,2024-01-14,La Liga,Matchweek 20,Away,Jesus Vazquez,Cádiz,N,0.56,0.81,Left Foot,8.0,90+8,3-1,Jeremías Ledesma,Alberto Marí,Alberto Marí,Pass (Live),Thierry Correia,Pass (Dead),,LB,ST,RB
+32,33,2024-01-20,La Liga,Matchweek 21,Home,Hugo Duro,Athletic Club,Y,0.09,0.35,Head,8.0,61,0-0,Unai Simón,José Luis Gayà,José Luis Gayà,Pass (Live),Diego López,Pass (Live),,ST,LB,LW
+33,34,2024-02-03,La Liga,Matchweek 23,Home,Hugo Duro,Almería,Y,0.15,0.13,Right Foot,17.0,14,0-0,Luís Maximiano,Diego López,Diego López,Pass (Live),Dimitri Foulquier,Pass (Live),,ST,LW,RB
+34,35,2024-02-03,La Liga,Matchweek 23,Home,Roman Yaremchuk,Almería,Y,0.25,0.64,Head,9.0,23,1-0,Luís Maximiano,José Luis García Vayá,José Luis García Vayá,Pass (Live),José Luis Gayà,Pass (Live),,ST,MF,LB
+35,36,2024-03-02,La Liga,Matchweek 27,Home,Hugo Duro,Real Madrid,Y,0.17,0.77,Head,10.0,27,0-0,Andriy Lunin,Francisco Perez,Francisco Perez,Shot,,,,ST,RW,
+36,37,2024-03-02,La Liga,Matchweek 27,Home,Roman Yaremchuk,Real Madrid,Y,0.57,0.16,Left Foot,13.0,30,1-0,Andriy Lunin,,Roman Yaremchuk,Take-On,,,,ST,ST,
+37,38,2024-03-09,La Liga,Matchweek 28,Home,Hugo Duro,Getafe,Y,0.38,0.4,Left Foot,14.0,40,0-0,David Soria,Sergi Canós,Sergi Canós,Pass (Live),Cenk Özkacar,Pass (Live),,ST,RW,CB
+38,39,2024-04-04,La Liga,Matchweek 26,Away,Domingos André Ribeiro Almeida,Granada,N,0.04,0.31,Right Foot,18.0,77,0-0,Augusto Batalla,,Diego López,Shot,,,,CAM,LW,
+0,1,2023-08-13,La Liga,Matchweek 1,Home,Jorge Cuenca,Betis,Y,0.02,0.14,Head,14.0,61,0-1,Rui Silva,Alex Baena,Alex Baena,Pass (Dead),Ramón Terrats,Fouled,,CB,CAM,MF
+1,2,2023-08-18,La Liga,Matchweek 2,Away,Gerard Moreno,Mallorca,Y*,0.86,0.94,Right Foot,2.0,62,0-0,Predrag Rajković,,Alexander Sørloth,Shot,,,,ST,ST,
+2,3,2023-08-27,La Liga,Matchweek 3,Home,Juan Foyth,Barcelona,Y,0.06,0.24,Head,9.0,26,0-2,Marc-André ter Stegen,Alex Baena,Alex Baena,Pass (Dead),Alfonso Pedraza,Shot,,RB,CAM,LB
+3,4,2023-08-27,La Liga,Matchweek 3,Home,Alexander Sørloth,Barcelona,Y,0.84,0.92,Left Foot,4.0,40,1-2,Marc-André ter Stegen,Alfonso Pedraza,Gerard Moreno,Pass (Live),Alexander Sørloth,Pass (Live),,ST,ST,ST
+4,5,2023-08-27,La Liga,Matchweek 3,Home,Alex Baena,Barcelona,Y,0.15,0.8,Right Foot,14.0,50,2-2,Marc-André ter Stegen,Alfonso Pedraza,Alfonso Pedraza,Pass (Live),Filip Jørgensen,Pass (Live),,CAM,LB,GK
+5,6,2023-09-01,La Liga,Matchweek 4,Away,Alexander Sørloth,Cádiz,Y,0.15,0.22,Right Foot,7.0,10,0-0,Jeremías Ledesma,,Alexander Sørloth,Take-On,,,,ST,ST,
+6,7,2023-09-17,La Liga,Matchweek 5,Home,Gerard Moreno,Almería,Y,0.26,0.56,Right Foot,11.0,45+5,0-1,Luís Maximiano,Alex Baena,Carlos Romero,Pass (Live),Matteo Gabbia,Pass (Live),,ST,LB,CB
+7,8,2023-09-17,La Liga,Matchweek 5,Home,Alexander Sørloth,Almería,Y,0.26,0.73,Head,4.0,90+4,1-1,Luís Maximiano,Alberto Moreno,Alberto Moreno,Pass (Live),Santi Comesaña,Pass (Live),,ST,LB,MF
+8,9,2023-09-24,La Liga,Matchweek 6,Away,Alexander Sørloth,Rayo Vallecano,Y,0.22,0.13,Left Foot,13.0,15,0-0,Stole Dimitrievski,Alex Baena,Alex Baena,Pass (Live),Alberto Moreno,Pass (Live),,ST,CAM,LB
+9,10,2023-09-27,La Liga,Matchweek 7,Home,Daniel Parejo,Girona,Y,0.79,0.97,Right Foot,13.0,49,0-0,Paulo Gazzaniga,,Étienne Capoue,Fouled,Étienne Capoue,Take-On,,MF,MF,MF
+10,11,2023-10-05,Europa Lg,Group stage,Home,Alexander Sørloth,Rennes,Y,0.03,0.23,Left Foot,26.0,36,0-0,Steve Mandanda,,Alex Baena,Fouled,,,,ST,CAM,
+11,12,2023-10-08,La Liga,Matchweek 9,Home,Gerard Moreno,Las Palmas,N,0.04,0.1,Left Foot,27.0,90+2,0-2,Álvaro Vallés,Ilias Akhomach,Ilias Akhomach,Pass (Live),Kiko Femenía,Pass (Live),,ST,RW,RB
+13,14,2023-10-30,La Liga,Matchweek 11,Away,Gerard Moreno,Granada,Y,0.31,0.56,Left Foot,12.0,18,0-0,André Ferreira,Alexander Sørloth,Alexander Sørloth,Pass (Live),Alexander Sørloth,Take-On,,ST,ST,ST
+14,15,2023-10-30,La Liga,Matchweek 11,Away,Gerard Moreno,Granada,Y,0.79,0.99,Left Foot,13.0,23,1-0,André Ferreira,,Alexander Sørloth,Fouled,Alex Baena,Pass (Live),,ST,ST,CAM
+15,16,2023-10-30,La Liga,Matchweek 11,Away,Alexander Sørloth,Granada,Y,0.04,0.33,Left Foot,18.0,28,2-0,André Ferreira,Daniel Parejo,Daniel Parejo,Pass (Live),Gerard Moreno,Pass (Live),,ST,MF,ST
+16,17,2023-11-02,Copa del Rey,First round,Away,Manu Trigueros,Chiclana,Y*,,,,,19,0-0,Fran,Ilias Akhomach,Ilias Akhomach,,,,,MF,RW,
+17,18,2023-11-02,Copa del Rey,First round,Away,Pascu,Chiclana,Y,,,,,31,1-0,Fran,Ilias Akhomach,Ilias Akhomach,,,,,ST,RW,
+18,19,2023-11-02,Copa del Rey,First round,Away,Manu Trigueros,Chiclana,Y*,,,,,43,2-0,Fran,Carlos Romero,Carlos Romero,,,,,MF,LB,
+21,22,2023-11-05,La Liga,Matchweek 12,Home,Gerard Moreno,Athletic Club,Y,0.05,0.39,Left Foot,14.0,86,0-3,Unai Simón,Étienne Capoue,Étienne Capoue,Pass (Live),Alex Baena,Pass (Live),,ST,MF,CAM
+22,23,2023-11-05,La Liga,Matchweek 12,Home,Alexander Sørloth,Athletic Club,Y,0.14,0.79,Head,9.0,87,1-3,Unai Simón,Gerard Moreno,Gerard Moreno,Pass (Live),Kiko Femenía,Pass (Dead),,ST,ST,RB
+23,24,2023-11-09,Europa Lg,Group stage,Away,Alex Baena,Maccabi Haifa,N,0.18,0.03,Right Foot,14.0,82,0-1,Shareef Keouf,Alberto Moreno,Alberto Moreno,Pass (Live),Étienne Capoue,Pass (Live),,CAM,LB,MF
+24,25,2023-11-09,Europa Lg,Group stage,Away,Alexander Sørloth,Maccabi Haifa,Y,0.38,0.78,Left Foot,9.0,86,1-1,Shareef Keouf,Alberto Moreno,Alberto Moreno,Shot,,,,ST,LB,
+25,26,2023-11-12,La Liga,Matchweek 13,Away,Gerard Moreno,Atlético Madrid,Y,0.16,0.27,Left Foot,14.0,20,0-0,Jan Oblak,,Alexander Sørloth,Shot,,,,ST,ST,
+27,28,2023-11-22,Copa del Rey,Second round,Away,José Luis Morales,Zamora,Y,,,,,96,1-1,Fermín Sobrón,Étienne Capoue,Étienne Capoue,,,,,ST,MF,
+28,29,2023-11-26,La Liga,Matchweek 14,Home,José Luis Morales,Osasuna,Y,0.98,0.98,Left Foot,3.0,57,0-0,Sergio Herrera,Gerard Moreno,Gerard Moreno,Pass (Live),Alex Baena,Pass (Live),,ST,ST,CAM
+29,30,2023-11-26,La Liga,Matchweek 14,Home,José Luis Morales,Osasuna,Y,0.59,0.8,Left Foot,11.0,71,1-0,Sergio Herrera,Juan Foyth,Juan Foyth,Pass (Live),,,,ST,RB,
+30,31,2023-11-26,La Liga,Matchweek 14,Home,José Luis Morales,Osasuna,Y,0.25,0.72,Right Foot,16.0,80,2-1,Sergio Herrera,Alex Baena,Alex Baena,Pass (Live),Manu Trigueros,Pass (Live),,ST,CAM,MF
+31,32,2023-11-30,Europa Lg,Group stage,Home,Alex Baena,Panathinaikos,Y,0.4,0.86,Right Foot,8.0,29,0-0,Alberto Brignoli,Ilias Akhomach,Ilias Akhomach,Pass (Live),Ilias Akhomach,Take-On,,CAM,RW,RW
+32,33,2023-11-30,Europa Lg,Group stage,Home,Santi Comesaña,Panathinaikos,Y,0.14,0.24,Right Foot,22.0,34,1-0,Alberto Brignoli,José Luis Morales,Santi Comesaña,Take-On,José Luis Morales,Pass (Live),,MF,MF,ST
+33,34,2023-11-30,Europa Lg,Group stage,Home,José Luis Morales,Panathinaikos,Y,0.1,0.73,Left Foot,11.0,47,2-0,Alberto Brignoli,Alex Baena,Alex Baena,Pass (Live),,,,ST,CAM,
+35,36,2023-12-14,Europa Lg,Group stage,Away,Gerard Moreno,Rennes,Y,0.79,0.97,Left Foot,13.0,36,0-0,Steve Mandanda,,Alex Baena,Fouled,Ilias Akhomach,Pass (Live),,ST,CAM,RW
+36,37,2023-12-14,Europa Lg,Group stage,Away,Ilias Akhomach,Rennes,Y,0.04,0.28,Left Foot,16.0,62,1-1,Steve Mandanda,Gerard Moreno,Gerard Moreno,Pass (Live),Étienne Capoue,Pass (Live),Deflected,RW,ST,MF
+37,38,2023-12-14,Europa Lg,Group stage,Away,Daniel Parejo,Rennes,Y,0.1,0.21,Right Foot,15.0,80,2-2,Steve Mandanda,Alex Baena,Alex Baena,Pass (Live),Daniel Parejo,Pass (Live),,MF,CAM,MF
+38,39,2023-12-17,La Liga,Matchweek 17,Away,José Luis Morales,Real Madrid,Y,0.68,0.84,Left Foot,11.0,54,0-2,Andriy Lunin,Ramón Terrats,Ramón Terrats,Pass (Live),Daniel Parejo,Pass (Live),,ST,MF,MF
+39,40,2023-12-20,La Liga,Matchweek 18,Home,Alfonso Pedraza,Celta Vigo,Y,0.03,0.61,Left Foot,16.0,13,0-0,Vicente Guaita,Alexander Sørloth,Alexander Sørloth,Pass (Live),Alberto Moreno,Pass (Live),Deflected,LB,ST,LB
+40,41,2023-12-20,La Liga,Matchweek 18,Home,Aïssa Mandi,Celta Vigo,Y,0.52,0.96,Right Foot,4.0,40,1-0,Vicente Guaita,,Alex Baena,Shot,,,,CB,CAM,
+41,42,2023-12-20,La Liga,Matchweek 18,Home,Daniel Parejo,Celta Vigo,Y,0.79,0.98,Right Foot,13.0,48,2-0,Vicente Guaita,,Alberto Moreno,Fouled,Alex Baena,Pass (Live),,MF,LB,CAM
+42,43,2024-01-02,La Liga,Matchweek 19,Away,Gerard Moreno,Valencia,Y,0.18,0.85,Right Foot,6.0,73,0-3,Giorgi Mamardashvili,Ilias Akhomach,Ilias Akhomach,Pass (Live),,,,ST,RW,
+43,44,2024-01-08,Copa del Rey,Round of 32,Away,Ilias Akhomach,Unionistas Sal,Y,,,,,82,0-0,Iván Martínez,Gerard Moreno,Gerard Moreno,,,,,RW,ST,
+44,45,2024-01-20,La Liga,Matchweek 21,Home,Alexander Sørloth,Mallorca,Y,0.47,0.78,Left Foot,5.0,45+1,0-0,Predrag Rajković,Alex Baena,Alex Baena,Pass (Live),Alexander Sørloth,Fouled,Volley,ST,CAM,ST
+45,46,2024-01-27,La Liga,Matchweek 22,Away,Gerard Moreno,Barcelona,Y*,0.2,0.2,Left Foot,15.0,41,0-0,Iñaki Peña,Alexander Sørloth,Alexander Sørloth,Pass (Live),Alberto Moreno,Pass (Dead),,ST,ST,LB
+46,47,2024-01-27,La Liga,Matchweek 22,Away,Ilias Akhomach,Barcelona,Y,0.9,0.92,Left Foot,9.0,54,1-0,Iñaki Peña,,Ilias Akhomach,Take-On,Eric Bailly,Pass (Live),,RW,RW,CB
+47,48,2024-01-27,La Liga,Matchweek 22,Away,Gonçalo Guedes,Barcelona,N,0.13,0.47,Right Foot,14.0,84,2-3,Iñaki Peña,Alexander Sørloth,Alexander Sørloth,Pass (Live),José Luis Morales,Pass (Live),,LW,ST,ST
+48,49,2024-01-27,La Liga,Matchweek 22,Away,Alexander Sørloth,Barcelona,Y,0.26,0.97,Right Foot,6.0,90+9,3-3,Iñaki Peña,,Alexander Sørloth,Shot,,,,ST,ST,
+49,50,2024-01-27,La Liga,Matchweek 22,Away,José Luis Morales,Barcelona,N,0.35,0.79,Right Foot,16.0,90+12,4-3,Iñaki Peña,Gonçalo Guedes,Gonçalo Guedes,Pass (Live),Yerson Mosquera,Pass (Live),,ST,LW,CB
+50,51,2024-02-10,La Liga,Matchweek 24,Away,Jorge Cuenca,Alavés,Y,0.07,0.18,Head,9.0,42,0-1,Antonio Sivera,Alex Baena,Alex Baena,Pass (Dead),Gerard Moreno,Shot,,CB,CAM,ST
+51,52,2024-02-16,La Liga,Matchweek 25,Home,Alberto Moreno,Getafe,Y,0.15,0.57,Left Foot,11.0,56,0-1,David Soria,,Santi Comesaña,Shot,,,,LB,MF,
+52,53,2024-02-23,La Liga,Matchweek 26,Away,Santi Comesaña,Real Sociedad,Y,0.33,0.64,Head,4.0,17,0-0,Álex Remiro,Raúl Albiol,Raúl Albiol,Pass (Live),Alex Baena,Pass (Dead),,MF,CB,CAM
+53,54,2024-02-23,La Liga,Matchweek 26,Away,Santi Comesaña,Real Sociedad,Y,0.3,0.78,Right Foot,9.0,47,1-0,Álex Remiro,Alex Baena,Alex Baena,Pass (Live),Alex Baena,Interception,,MF,CAM,CAM
+54,55,2024-02-23,La Liga,Matchweek 26,Away,Alexander Sørloth,Real Sociedad,N,0.17,0.86,Right Foot,16.0,90+5,2-1,Álex Remiro,Gonçalo Guedes,Gonçalo Guedes,Pass (Live),José Luis Morales,Pass (Live),Volley,ST,LW,ST
+55,56,2024-03-03,La Liga,Matchweek 27,Home,Alexander Sørloth,Granada,Y,0.37,0.92,Left Foot,9.0,7,0-0,Augusto Batalla,,Gerard Moreno,Shot,,,Deflected,ST,ST,
+56,57,2024-03-03,La Liga,Matchweek 27,Home,Alexander Sørloth,Granada,Y,0.59,0.36,Left Foot,4.0,19,1-0,Augusto Batalla,Daniel Parejo,Daniel Parejo,Pass (Live),Bertrand Traoré,Pass (Live),,ST,MF,RW
+57,58,2024-03-03,La Liga,Matchweek 27,Home,Étienne Capoue,Granada,Y,0.15,0.08,Head,4.0,32,2-0,Augusto Batalla,Daniel Parejo,Daniel Parejo,Pass (Dead),Bertrand Traoré,Shot,,MF,MF,RW
+58,59,2024-03-03,La Liga,Matchweek 27,Home,Gonçalo Guedes,Granada,N,0.22,0.44,Left Foot,14.0,47,3-0,Augusto Batalla,Alex Baena,Alex Baena,Pass (Live),Alexander Sørloth,Pass (Live),,LW,CAM,ST
+59,60,2024-03-03,La Liga,Matchweek 27,Home,Alexander Sørloth,Granada,Y,0.23,0.3,Head,2.0,66,4-0,Augusto Batalla,Daniel Parejo,Daniel Parejo,Pass (Dead),Daniel Parejo,Shot,,ST,MF,MF
+60,61,2024-03-10,La Liga,Matchweek 28,Away,Alex Baena,Betis,Y,0.85,0.73,Right Foot,8.0,40,0-1,Rui Silva,Alexander Sørloth,Alexander Sørloth,Pass (Live),Gerard Moreno,Pass (Live),,CAM,ST,ST
+62,63,2024-03-10,La Liga,Matchweek 28,Away,Alexander Sørloth,Betis,Y,0.14,0.63,Left Foot,13.0,67,2-2,Rui Silva,Gerard Moreno,Gerard Moreno,Pass (Live),Alberto Moreno,Pass (Live),,ST,ST,LB
+63,64,2024-03-14,Europa Lg,Round of 16,Home,Étienne Capoue,Marseille,Y,0.1,0.24,Head,13.0,32,0-0,Pau López,Kiko Femenía,Kiko Femenía,Pass (Live),Gerard Moreno,Pass (Live),,MF,RB,ST
+64,65,2024-03-14,Europa Lg,Round of 16,Home,Alexander Sørloth,Marseille,Y,0.07,0.18,Left Foot,17.0,54,1-0,Pau López,Gonçalo Guedes,Gonçalo Guedes,Pass (Live),Jorge Cuenca,Pass (Live),,ST,LW,CB
+65,66,2024-03-14,Europa Lg,Round of 16,Home,Yerson Mosquera,Marseille,N,0.1,0.19,Head,11.0,85,2-0,Pau López,Alex Baena,Alex Baena,Pass (Dead),Yerson Mosquera,Fouled,,CB,CAM,CB
+66,67,2024-03-17,La Liga,Matchweek 29,Home,Jorge Cuenca,Valencia,Y,0.14,0.03,Head,9.0,54,0-0,Giorgi Mamardashvili,,Alexander Sørloth,Shot,,,,CB,ST,
+67,68,2024-04-01,La Liga,Matchweek 30,Home,Alexander Sørloth,Atlético Madrid,Y,0.05,0.42,Left Foot,19.0,50,0-1,Jan Oblak,Gerard Moreno,Gerard Moreno,Pass (Live),Étienne Capoue,Pass (Live),,ST,ST,MF
