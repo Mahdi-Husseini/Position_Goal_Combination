@@ -1,5 +1,5 @@
-Streamlit
-Pandas
-Seaborn
+streamlit
+pandas
+seaborn
 mplsoccer
 matplotlib
