@@ -6,7 +6,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-tw = pd.read_csv('C:/Users/user/Desktop/Senior_Proj/str_app_pos/tw.csv')
+tw = pd.read_csv('tw.csv')
 
 
 st.title('Analyzing Goal Scoring Patterns: Insights from Player Positions')
